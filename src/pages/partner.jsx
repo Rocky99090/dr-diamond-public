@@ -8,7 +8,7 @@ const PartnerPage = () => {
         <div className="partner-section padding-top">
             <div className="container">
                 <div className="section-header">
-                    <Typography variant='h4' color={"black"}>How To Register?</Typography>
+                    <Typography variant='h4' className="custom-heading" color={"black"}>How To Register?</Typography>
                 </div>
                 <div className="section-wrapper">
                     <Grid container spacing={4}>

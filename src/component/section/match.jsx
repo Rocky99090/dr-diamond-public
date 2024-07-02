@@ -247,7 +247,7 @@ const MatchSection = () => {
             <section className="match-section padding-top padding-bottom">
                  <div className="container">
                     <div className="section-header">
-                    <Typography variant='h4' color={"black"}>All Matches</Typography>
+                    <Typography variant='h4' className="custom-heading" color={"black"}>All Matches</Typography>
                     </div>
                     <div className="section-wrapper">
                         <div className="row mb-5">

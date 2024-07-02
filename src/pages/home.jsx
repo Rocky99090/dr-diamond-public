@@ -18,6 +18,7 @@ import TestimonialSection from "../component/section/testimonial";
 import VideoSection from "../component/section/video";
 import PartnerPage from "./partner";
 import MainPoints from "../component/section/main-points";
+import CollectionSectionTwo from "../component/section/collectiontwo";
 
 
 
@@ -29,7 +30,9 @@ class HomePage extends Component {
                 <Header />
                 <BannerSection />
                 <CollectionSection />
+                
                 <AboutSection imgUrl={'assets/images/about/diamond-exchange-phone-mockup.webp'} />
+                <CollectionSectionTwo />
                 <MatchSection />
                 
              <MainPoints />

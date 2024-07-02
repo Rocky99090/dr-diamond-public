@@ -14,7 +14,7 @@ const BlogSection = () => {
         <div className="blog-section padding-top padding-bottom" style={{paddingTop:10}}>
             <div className="container">
                 <div className="section-header">
-                <Typography variant='h4' color={"black"}>{title}</Typography>
+                <Typography variant='h4' className="custom-heading" color={"black"}>{title}</Typography>
                 </div>
                 <div className="section-wrapper">
                     <div className="row g-4 justify-content-center row-cols-lg-2 row-cols-1">

@@ -1,91 +1,99 @@
-import { Component } from "react";
-import { Link } from "react-router-dom";
-import Rating from "./rating";
-
+import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import Rating from './rating';
+import { Typography } from '@mui/material';
 
 const title = "Our Game Collection";
 const subtitle = "today's";
 const btnText = "Browse All games";
 
-let CollectionListContentTwo = [
-    {
-        imgUrlOne: 'assets/images/match/teamsm/teamsm-1.png',
-        imgAltOne: 'team thumb',
-        imgUrlTwo: 'assets/images/match/teamsm/teamsm-2.png',
-        imgAltTwo: 'team thumb',
-        title: 'Witch Sports Team',
-    },
-    {
-        imgUrlOne: 'assets/images/match/teamsm/teamsm-3.png',
-        imgAltOne: 'team thumb',
-        imgUrlTwo: 'assets/images/match/teamsm/teamsm-4.png',
-        imgAltTwo: 'team thumb',
-        title: 'Witch Sports Team',
-    },
-    {
-        imgUrlOne: 'assets/images/match/teamsm/teamsm-5.png',
-        imgAltOne: 'team thumb',
-        imgUrlTwo: 'assets/images/match/teamsm/teamsm-6.png',
-        imgAltTwo: 'team thumb',
-        title: 'Witch Sports Team',
-    },
-]
 
-class CollectionSectionTwo extends Component {
-    render() { 
-        return (
-            <section className="collection-section padding-top padding-bottom">
+const CollectionSectionTwo = () => {
+    const [trustedUsers, setTrustedUsers] = useState(0);
+    const [totalPrizes, setTotalPrizes] = useState(0);
+    const [dailyContests, setDailyContests] = useState(0);
+    const [luckyWinners, setLuckyWinners] = useState(0);
+
+    const targetTrustedUsers = 5444194;
+    const targetTotalPrizes = 3997536;
+    const targetDailyContests = 5775976;
+    const targetLuckyWinners = 2380295;
+
+    useEffect(() => {
+        const incrementCounters = () => {
+            setTrustedUsers(prev => Math.min(prev + Math.ceil(targetTrustedUsers / 100), targetTrustedUsers));
+            setTotalPrizes(prev => Math.min(prev + Math.ceil(targetTotalPrizes / 100), targetTotalPrizes));
+            setDailyContests(prev => Math.min(prev + Math.ceil(targetDailyContests / 100), targetDailyContests));
+            setLuckyWinners(prev => Math.min(prev + Math.ceil(targetLuckyWinners / 100), targetLuckyWinners));
+        };
+
+        const intervalId = setInterval(incrementCounters, 150); // Increase every 50ms
+
+        return () => clearInterval(intervalId);
+    }, [targetTrustedUsers, targetTotalPrizes, targetDailyContests, targetLuckyWinners]);
+    return (
+        <section className="footer-section padding-top">
+            <div className="footer-top">
                 <div className="container">
-                    <div className="section-header">
-                        <p>{subtitle}</p>
-                        <h2>{title}</h2>
-                    </div>
-                    <div className="section-wrapper">
-                        <div className="row g-4 justify-content-center CollectionStyle">
-                            {CollectionListContentTwo.map((val, i) => (
-                                <div className="col-lg-4 col-sm-6 col-12" key={i}>
-                                    <div className="game-item item-layer">
-                                        <div className="game-item-inner">
-                                            <div className="game-thumb">
-                                                <ul className="match-team-list d-flex flex-wrap align-items-center justify-content-center">
-                                                    <li className="match-team-thumb">
-                                                        <Link to="/team-single">
-                                                            <img 
-                                                                src={`${val.imgUrlOne}`} 
-                                                                alt={`${val.imgAltOne}`} 
-                                                            />
-                                                        </Link>
-                                                    </li>
-                                                    <li className="text-center">
-                                                        <img className="w-75 w-md-100" src="assets/images/match/vs.png" alt="vs" />
-                                                    </li>
-                                                    <li className="match-team-thumb">
-                                                        <Link to="/team-single">
-                                                            <img 
-                                                                src={`${val.imgUrlTwo}`} 
-                                                                alt={`${val.imgAltTwo}`} 
-                                                            />
-                                                        </Link>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div className="game-overlay">
-                                                <h4><Link to="/team-single">{val.title}</Link> </h4>
-                                                <Rating />
-                                            </div>
-                                        </div>
+                <div className="section-header">
+    <Typography variant="h4" className="custom-heading">
+        Best Exchange in the World
+    </Typography>
+</div>
+                    <div className="row g-3 justify-content-center g-lg-0">
+                        <div className="col-lg-3 col-sm-6 col-12">
+                            <div className="footer-top-item lab-item footer-card">
+                                <div className="lab-inner">
+                                    <div className="lab-thumb">
+                                        <i className="icofont-user" style={{ fontSize: '30px' }}></i>
+                                    </div>
+                                    <div className="lab-content">
+                                        <span>{trustedUsers.toLocaleString()}<br />+ ACTIVE USERS</span>
                                     </div>
                                 </div>
-                            ))}
+                            </div>
                         </div>
-                        <div className="button-wrapper text-center mt-5">
-                            <Link to="/game-list" className="default-button"><span>{btnText} <i className="icofont-circled-right"></i></span> </Link>
+                        <div className="col-lg-3 col-sm-6 col-12">
+                            <div className="footer-top-item lab-item footer-card">
+                                <div className="lab-inner">
+                                    <div className="lab-thumb">
+                                        <i className="icofont-award" style={{ fontSize: '30px' }}></i>
+                                    </div>
+                                    <div className="lab-content">
+                                        <span>{totalPrizes.toLocaleString()}<br />+ PRIZE IN TOTAL</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-sm-6 col-12">
+                            <div className="footer-top-item lab-item footer-card">
+                                <div className="lab-inner">
+                                    <div className="lab-thumb">
+                                        <i className="icofont-diamond" style={{ fontSize: '30px' }}></i>
+                                    </div>
+                                    <div className="lab-content">
+                                        <span>{dailyContests.toLocaleString()}<br />+ DAILY CONTESTS</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-sm-6 col-12">
+                            <div className="footer-top-item lab-item footer-card">
+                                <div className="lab-inner">
+                                    <div className="lab-thumb">
+                                        <i className="icofont-crown" style={{ fontSize: '30px' }}></i>
+                                    </div>
+                                    <div className="lab-content">
+                                        <span>{luckyWinners.toLocaleString()}<br />+ LUCKY WINNERS</span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </section>
-        );
-    }
-}
- 
+            </div>
+        </section>
+    );
+};
+
 export default CollectionSectionTwo;

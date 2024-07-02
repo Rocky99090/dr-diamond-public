@@ -1,6 +1,7 @@
 import { Component } from "react";
 import { Link } from "react-router-dom";
 import { handleRedirect } from "../../env/credentials";
+import { Typography } from "@mui/material";
 
 
 const subtitle = "who we are";
@@ -52,9 +53,11 @@ class AboutSection extends Component {
                             <div className="col-lg-3"></div>
                             <div className="col-lg-6 col-md-10">
                                 <div className="about-wrapper">
+                                    
                                     <div className="section-header">
-                                        <p>{subtitle}</p>
-                                        <h2>{title}</h2>
+                                    
+                                        <Typography variant='h4'  color={"white"}>{title}</Typography>
+                  
                                     </div>
                                     <div className="about-content">
                                         <p>{desc}</p>

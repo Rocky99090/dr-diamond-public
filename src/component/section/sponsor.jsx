@@ -63,7 +63,7 @@ const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
         <div className="sponsor-section padding-top padding-bottom">
         <div className="container">
             <div className="section-header text-center">
-                <Typography variant='h4' color={"white"}>{title}</Typography>
+                <Typography variant='h4'  color={"white"}>{title}</Typography>
             </div>
             <div className="section-wrapper">
                 <div className="row g-4 justify-content-center">

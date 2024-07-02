@@ -175,7 +175,7 @@ const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
                                                 textAlign: 'center', // Center-aligns text
                                             }}
                                         >
-                                            <Typography variant="h6" color="textSecondary" style={{ color: 'white' }}>
+                                            <Typography variant="h6" color="textSecondary" className='custom-heading' style={{ color: 'white' }}>
                                                 {val.imgAlt}
                                             </Typography>
                                         </CardContent>

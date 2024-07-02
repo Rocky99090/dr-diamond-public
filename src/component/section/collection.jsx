@@ -64,7 +64,7 @@ const CollectionSection = () => {
         <section className="collection-section padding-top padding-bottom">
             <div className="container">
                 <div className="section-header" color='primary'>
-                    <Typography variant='h4' color={"black"}>{title}</Typography>
+                    <Typography variant='h4' className='custom-heading' color={"black"}>{title}</Typography>
                 </div>
                 <div className="section-wrapper">
                     
