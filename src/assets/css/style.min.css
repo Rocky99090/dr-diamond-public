@@ -16,7 +16,7 @@ body {
   background: linear-gradient(90deg, #0088cc, #2c3e50) !important;
   overflow-x: hidden;
   color: #fff !important;
-  font-family: "Barlow", sans-serif;
+  font-family: "Poppins",sans-serif;
   font-size: 1rem;
   line-height: 1.5;
 }
@@ -186,7 +186,7 @@ body h4,
 body h5,
 body h6 {
   color: #fff;
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   text-transform: uppercase;
 }
 body h1 {
@@ -1537,13 +1537,13 @@ ul li {
   font-size: 1.125rem;
   color: #fff;
   text-transform: uppercase;
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   letter-spacing: 3px;
 }
 .section-header p.desc {
   font-size: 1rem;
   text-transform: capitalize;
-  font-family: "Barlow", sans-serif;
+  font-family: "Poppins",sans-serif;
   letter-spacing: 0px;
   color: #fff;
 }
@@ -1577,7 +1577,7 @@ ul li {
 }
 @media (min-width: 992px) {
   .padding-bottom {
-    padding-bottom: 120px;
+    padding-bottom: 40px;
   }
 }
 .bg-attachment {
@@ -2026,6 +2026,7 @@ ul li {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   z-index: 999;
+  padding-bottom: 10px;
 }
 /* @media (min-width: 992px) {
   .header-section.header-fixed {
@@ -2038,13 +2039,13 @@ ul li {
   }
 } */
 .header-section.header-fixed .logo {
-  max-width: 80px;
+  max-width: 120px;
   left: 0;
   bottom: 10px;
 }
 @media (min-width: 1200px) {
   .header-section.header-fixed .logo {
-    max-width: 90px;
+    max-width: 120px;
   }
 }
 @media (min-width: 992px) {
@@ -2738,7 +2739,7 @@ ul li {
 }
 .banner-content p {
   font-size: calc(1.275rem + 0.3vw);
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   text-transform: uppercase;
 }
 @media (min-width: 1200px) {
@@ -2949,9 +2950,17 @@ ul li {
 .footer-section .footer-middle {
   background-size: cover;
   background-position: center;
+  background: linear-gradient(90deg, #0088cc, #2c3e50) !important;
 }
 .footer-section .footer-middle .footer-middle-item-wrapper {
   z-index: 9;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  text-align: center;
 }
 .footer-section .footer-middle .footer-middle-item-wrapper .footer-middle-item {
   margin-bottom: 40px;
@@ -3208,7 +3217,7 @@ ul li {
   transition: 0.3s cubic-bezier(0.79, 0.14, 0.15, 0.86);
   padding: 0 1rem;
   line-height: 3rem;
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   text-transform: uppercase;
   line-height: 60px;
   -webkit-border-radius: 3px;
@@ -3445,7 +3454,7 @@ button {
   }
 }
 .player-meta li .right {
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
 }
 .match-content {
   padding: 20px 15px;
@@ -3466,7 +3475,7 @@ button {
 }
 .match-header p {
   font-size: 1.125rem;
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   text-transform: uppercase;
 }
 @media (min-width: 768px) {
@@ -5096,7 +5105,7 @@ button {
   .accor-header-inner
   .accor-title {
   font-size: calc(1.275rem + 0.3vw);
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   text-transform: uppercase;
 }
 @media (min-width: 1200px) {
@@ -6389,7 +6398,7 @@ button {
   -moz-transition: 0.3s all linear;
   transition: 0.3s all linear;
   text-transform: uppercase;
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
 }
 @media (max-width: 767px) {
   .shop-cart .section-wrapper .cart-top table tbody tr td.cat-toprice,
@@ -7036,3 +7045,4 @@ button {
       margin-bottom: 20px;
       justify-content: center;
       text-align: center;}
+      

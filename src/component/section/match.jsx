@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import SocialMedia from "./socialmedia";
 import axios from "axios";
 import { apiKey, apiUrl, handleRedirect, img } from "../../env/credentials";
-import { Pagination, Stack } from "@mui/material";
+import { Pagination, Stack, Typography } from "@mui/material";
 const title = "All matches schedule";
 const subtitle = "Anywhere, Anytime";
 const btnText = "Browse All Matches";
@@ -247,7 +247,7 @@ const MatchSection = () => {
             <section className="match-section padding-top padding-bottom">
                  <div className="container">
                     <div className="section-header">
-                        <h2>All Matches</h2>
+                    <Typography variant='h4' color={"black"}>All Matches</Typography>
                     </div>
                     <div className="section-wrapper">
                         <div className="row mb-5">

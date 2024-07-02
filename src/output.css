@@ -16,7 +16,7 @@ body {
   margin: 0;
   background: linear-gradient(90deg, #0088cc, #2c3e50) !important;
   color: #fff !important;
-  font-family: "Barlow", sans-serif;
+  font-family: "Poppins",sans-serif;
   font-size: 1rem;
   line-height: 1.5;
 }
@@ -1016,7 +1016,7 @@ body h4,
 body h5,
 body h6 {
   color: #fff;
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   text-transform: uppercase;
 }
 
@@ -2429,14 +2429,14 @@ ul li {
   font-size: 1.125rem;
   color: #fff;
   text-transform: uppercase;
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   letter-spacing: 3px;
 }
 
 .section-header p.desc {
   font-size: 1rem;
   text-transform: capitalize;
-  font-family: "Barlow", sans-serif;
+  font-family: "Poppins",sans-serif;
   letter-spacing: 0px;
   color: #fff;
 }
@@ -3802,7 +3802,7 @@ ul li {
 
 .banner-content p {
   font-size: calc(1.275rem + 0.3vw);
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   text-transform: uppercase;
 }
 
@@ -4337,7 +4337,7 @@ ul li {
   transition: 0.3s cubic-bezier(0.79, 0.14, 0.15, 0.86);
   padding: 0 1rem;
   line-height: 3rem;
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   text-transform: uppercase;
   line-height: 60px;
   border-radius: 3px;
@@ -4612,7 +4612,7 @@ button {
 }
 
 .player-meta li .right {
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
 }
 
 .match-content {
@@ -4638,7 +4638,7 @@ button {
 
 .match-header p {
   font-size: 1.125rem;
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   text-transform: uppercase;
 }
 
@@ -6489,7 +6489,7 @@ button {
   .accor-header-inner
   .accor-title {
   font-size: calc(1.275rem + 0.3vw);
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
   text-transform: uppercase;
 }
 
@@ -8006,7 +8006,7 @@ button {
   a {
   transition: 0.3s all linear;
   text-transform: uppercase;
-  font-family: "Oswald", sans-serif;
+  font-family: "Poppins",sans-serif;
 }
 
 @media (max-width: 767px) {

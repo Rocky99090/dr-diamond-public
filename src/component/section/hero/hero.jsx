@@ -48,7 +48,7 @@ const HeroThree = () => {
         
         <>{mobile ?
 
-        <section id="home" className="slider-area slider-four fix p-relative  pb-10" style={{paddingTop:'100px'}}>
+        <section id="home" className="slider-area slider-four fix p-relative pt-10 pb-10">
              {/* <ParallaxBanner onClick={() => openWhatsapp()} style={{ aspectRatio: '1 / 1', inset:"0px 0px", backgroundPosition: "center center", backgroundSize: "cover" }}>
                 <ParallaxBannerLayer> */}
                     <MySlider />
@@ -58,7 +58,7 @@ const HeroThree = () => {
         </section>
         :
         web ?
-        <section id="home" className="slider-area slider-four fix p-relative pb-1" style={{paddingTop:'180px'}}>
+        <section id="home" className="slider-area slider-four fix p-relative pb-1" style={{paddingTop:'95px'}}>
         {/* <ParallaxBanner onClick={() => openWhatsapp()} style={{ aspectRatio: '2.5 / 1', inset:"0px 0px", backgroundPosition: "center center", backgroundSize: "cover", cursor:"pointer" }}>
            <ParallaxBannerLayer> */}
                <MySliderWeb />

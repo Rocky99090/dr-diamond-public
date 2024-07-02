@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import Rating from "../section/rating";
 import SocialMedia from '../section/socialmedia';
 import { handleRedirect } from "../../env/credentials";
 
-const postTitle = "Top jackpot games";
+const postTitle = "Quick Links";
 const newsTitle = "Our Newsletter";
 const desc = "At Diamond Exchange, we have been the beloved choice for punters searching to strike gold and win big. Whether it's IPL Cricket, Tennis, Football, or other sports, we offer thrilling opportunities. Additionally, you can test your skills with games like Teen Patti and Andar Bahar, or immerse yourself in the excitement of Live Casino games such as Lucky 7, Lion Dragon Tiger, and many more.";
 const newsdesc = "At Diamond Exchange, we have been the beloved choice for punters searching to strike gold and win big.";
@@ -52,7 +52,7 @@ const Footer = () => {
             setLuckyWinners(prev => Math.min(prev + Math.ceil(targetLuckyWinners / 100), targetLuckyWinners));
         };
 
-        const intervalId = setInterval(incrementCounters, 50); // Increase every 50ms
+        const intervalId = setInterval(incrementCounters, 150); // Increase every 50ms
 
         return () => clearInterval(intervalId);
     }, [targetTrustedUsers, targetTotalPrizes, targetDailyContests, targetLuckyWinners]);
@@ -113,14 +113,14 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <div className="footer-middle padding-top padding-bottom" style={{ backgroundImage: "url(/assets/images/footer/bg.jpg)" }}>
+            <div className="footer-middle padding-top padding-bottom">
                 <div className="container">
                     <div className="row padding-lg-top">
                         <div className="col-lg-4 col-md-6 col-12">
                             <div className="footer-middle-item-wrapper">
                                 <div className="footer-middle-item mb-lg-0">
                                     <div className="fm-item-title mb-4">
-                                        <img src="/assets/images/logo/logo.png" alt="logo" />
+                                        <img src="/assets/images/logo/logo_2.png" alt="logo" />
                                     </div>
                                     {/* <div className="fm-item-content">
                                         <p className="mb-4">{desc}</p>
@@ -138,21 +138,11 @@ const Footer = () => {
                                         <h4>{postTitle}</h4>
                                     </div>
                                     <div className="fm-item-content">
-                                        {FooterItemList.map((val, i) => (
-                                            <div className="fm-item-widget lab-item" key={i}>
-                                                <div className="lab-inner">
-                                                    <div className="lab-thumb">
-                                                        <Link to="#"> <img src={`${val.imgUrl}`} alt={`${val.imgAlt}`} /></Link>
-                                                    </div>
-                                                    <div className="lab-content">
-                                                        <h6>
-                                                            <Link to="#">{val.title}</Link>
-                                                        </h6>
-                                                        <Rating />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        ))}
+                                    <ul className="">   
+                                            <li><NavLink to="/">Home</NavLink></li>
+                                            <li><NavLink to="/about">About Us</NavLink></li>
+                                            <li><NavLink to="/blog">Blog</NavLink></li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>

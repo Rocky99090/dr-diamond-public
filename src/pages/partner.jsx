@@ -5,10 +5,10 @@ import { handleRedirect } from "../env/credentials";
 
 const PartnerPage = () => {
     return (
-        <div className="partner-section padding-top padding-bottom">
+        <div className="partner-section padding-top">
             <div className="container">
                 <div className="section-header">
-                    <h2>How To Register?</h2>
+                    <Typography variant='h4' color={"black"}>How To Register?</Typography>
                 </div>
                 <div className="section-wrapper">
                     <Grid container spacing={4}>

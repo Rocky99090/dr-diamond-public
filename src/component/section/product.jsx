@@ -8,29 +8,35 @@ const title = "explore our products";
 
 let ProductListContent = [
     {
-        imgUrl: 'assets/images/product/01.jpg',
-        imgAlt: 'Product Thumb',
-        title: 'Bigamer T-Shirt Here',
-        price: '$380.00',
+        imgUrl: 'assets/images/main-points/DEPOSIT.png',
+        imgAlt: 'MIN. DEPOSIT INR 100',
+        title:'MIN. DEPOSIT INR 100',
     },
     {
-        imgUrl: 'assets/images/product/02.jpg',
-        imgAlt: 'Product Thumb',
-        title: 'Bigamer T-Shirt Here',
-        price: '$380.00',
+        imgUrl: 'assets/images/main-points/WITHDRAWAL.png',
+        imgAlt: 'MIN. WITHDRAWAL INR 100',
+        title:'MIN. DEPOSIT INR 100',
     },
     {
-        imgUrl: 'assets/images/product/03.jpg',
-        imgAlt: 'Product Thumb',
-        title: 'Bigamer T-Shirt Here',
-        price: '$380.00',
+        imgUrl: 'assets/images/main-points/SUPPORT.png',
+        imgAlt: 'SUPPORT 24/7',
+        title:'MIN. DEPOSIT INR 100',
     },
     {
-        imgUrl: 'assets/images/product/04.jpg',
-        imgAlt: 'Product Thumb',
-        title: 'Bigamer T-Shirt Here',
-        price: '$380.00',
+        imgUrl: 'assets/images/main-points/MIN REFILL.png',
+        imgAlt: 'MIN REFILL INR 100',
+        title:'MIN. DEPOSIT INR 100',
     },
+    {
+        imgUrl: 'assets/images/main-points/PROCESS TIME.png',
+        imgAlt: 'PROCESS TIME INSTANTLY',
+        title:'MIN. DEPOSIT INR 100',
+    },
+    {
+        imgUrl: 'assets/images/main-points/WORKING DAYS.png',
+        imgAlt: 'WORKING DAYS 365',
+        title:'MIN. DEPOSIT INR 100',
+    }
 ]
 
 class ProductSection extends Component {

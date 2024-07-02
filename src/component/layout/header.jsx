@@ -35,18 +35,18 @@ class Header extends Component {
         });
 
         return (
-            <header className="header-section">
-                <div className="container">
+            <header className="header-section ">
+                <div className="container mt-4">
                     <div className="header-holder d-flex flex-wrap justify-content-between align-items-center">
                         <div className="brand-logo d-none d-lg-inline-block">
                             <div className="logo">
                                 <Link to="/">
-                                    <img src="/assets/images/logo/logo.png" alt="logo" />
+                                    <img src="/assets/images/logo/logo_2.png" alt="logo" />
                                 </Link>
                             </div>
                         </div>
                         <div className="header-menu-part">
-                            <div className="header-top">
+                            {/* <div className="header-top">
                                 <div className="header-top-area">
                                     <ul className="left">
                                         <li>
@@ -65,11 +65,11 @@ class Header extends Component {
                                         ))}
                                     </ul>
                                 </div>
-                            </div>
+                            </div> */}
                             <div className="header-bottom">
                                 <div className="header-wrapper justify-content-lg-end">
                                     <div className="mobile-logo d-lg-none">
-                                        <Link to="/"><img src="/assets/images/logo/logo.png" alt="logo" /></Link>
+                                        <Link to="/"><img src="/assets/images/logo/logo_2.png" alt="logo" /></Link>
                                     </div>
                                     <div className="menu-area">
                                         <ul className="menu">   

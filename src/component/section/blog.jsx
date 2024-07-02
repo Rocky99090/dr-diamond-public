@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { blogData } from "../../pages/BlogData/blogData";
 import { truncateDescription } from "../../Utilities/TruncateText";
+import { Typography } from "@mui/material";
 
 const subtitle = "our recent news";
 const title = "Our Most Popular Blog posts";
@@ -10,11 +11,10 @@ const BlogSection = () => {
     const displayedBlogs = blogData.slice(0, 4);
 
     return (
-        <div className="blog-section padding-top padding-bottom" style={{paddingTop:5}}>
+        <div className="blog-section padding-top padding-bottom" style={{paddingTop:10}}>
             <div className="container">
                 <div className="section-header">
-                    <p>{subtitle}</p>
-                    <h2>{title}</h2>
+                <Typography variant='h4' color={"black"}>{title}</Typography>
                 </div>
                 <div className="section-wrapper">
                     <div className="row g-4 justify-content-center row-cols-lg-2 row-cols-1">
