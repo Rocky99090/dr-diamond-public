@@ -1,9 +1,12 @@
 import React from "react";
-import { Accordion, AccordionSummary, AccordionDetails, Typography, Grid } from '@mui/material';
+import { Accordion, AccordionSummary, AccordionDetails, Typography, Grid, useTheme, useMediaQuery } from '@mui/material';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { handleRedirect } from "../env/credentials";
 
 const PartnerPage = () => {
+    const theme = useTheme();
+    const isWeb = useMediaQuery(theme.breakpoints.up('sm'));
+
     return (
         <div className="partner-section padding-top">
             <div className="container">
@@ -11,7 +14,7 @@ const PartnerPage = () => {
                     <Typography variant='h4' className="custom-heading" color={"black"}>How To Register?</Typography>
                 </div>
                 <div className="section-wrapper">
-                    <Grid container spacing={4}>
+                    <Grid container spacing={isWeb ? 4 : 0}>
                         <Grid item xs={12} sm={6}>
                             <Accordion sx={{ marginBottom: 2 }}>
                                 <AccordionSummary
@@ -32,40 +35,6 @@ const PartnerPage = () => {
                             <Accordion sx={{ marginBottom: 2 }}>
                                 <AccordionSummary
                                      expandIcon={<ExpandMoreIcon sx={{ color: 'white' }} />}
-                                    aria-controls="panel2a-content"
-                                    id="panel2a-header"
-                                    sx={{ justifyContent: 'center' }}
-                                    className="accordion-summary"
-                                >
-                                    <Typography variant="subtitle1">3. We Create an ID for Deposits</Typography>
-                                </AccordionSummary>
-                                <AccordionDetails>
-                                    <Typography>
-                                        After being satisfied, you may start depositing money easily without worrying.
-                                    </Typography>
-                                </AccordionDetails>
-                            </Accordion>
-                            <Accordion sx={{ marginBottom: 2 }}>
-                                <AccordionSummary
-                                     expandIcon={<ExpandMoreIcon sx={{ color: 'white' }} />}
-                                    aria-controls="panel3a-content"
-                                    id="panel3a-header"
-                                    sx={{ justifyContent: 'center' }}
-                                    className="accordion-summary"
-                                >
-                                    <Typography variant="subtitle1">5. WhatsApp Us For Withdrawals</Typography>
-                                </AccordionSummary>
-                                <AccordionDetails>
-                                    <Typography>
-                                        Reach out on the same WhatsApp number for hassle-free withdrawals.
-                                    </Typography>
-                                </AccordionDetails>
-                            </Accordion>
-                        </Grid>
-                        <Grid item xs={12} sm={6}>
-                            <Accordion sx={{ marginBottom: 2 }}>
-                                <AccordionSummary
-                                     expandIcon={<ExpandMoreIcon sx={{ color: 'white' }} />}
                                     aria-controls="panel4a-content"
                                     id="panel4a-header"
                                     sx={{ justifyContent: 'center' }}
@@ -82,6 +51,26 @@ const PartnerPage = () => {
                             <Accordion sx={{ marginBottom: 2 }}>
                                 <AccordionSummary
                                      expandIcon={<ExpandMoreIcon sx={{ color: 'white' }} />}
+                                    aria-controls="panel2a-content"
+                                    id="panel2a-header"
+                                    sx={{ justifyContent: 'center' }}
+                                    className="accordion-summary"
+                                >
+                                    <Typography variant="subtitle1">3. We Create an ID for Deposits</Typography>
+                                </AccordionSummary>
+                                <AccordionDetails>
+                                    <Typography>
+                                        After being satisfied, you may start depositing money easily without worrying.
+                                    </Typography>
+                                </AccordionDetails>
+                            </Accordion>
+                           
+                        </Grid>
+                        <Grid item xs={12} sm={6}>
+                           
+                            <Accordion sx={{ marginBottom: 2 }}>
+                                <AccordionSummary
+                                     expandIcon={<ExpandMoreIcon sx={{ color: 'white' }} />}
                                     aria-controls="panel5a-content"
                                     id="panel5a-header"
                                     sx={{ justifyContent: 'center' }}
@@ -92,6 +81,22 @@ const PartnerPage = () => {
                                 <AccordionDetails>
                                     <Typography>
                                         Test your skills & convert them to big returns in a short span of time.
+                                    </Typography>
+                                </AccordionDetails>
+                            </Accordion>
+                            <Accordion sx={{ marginBottom: 2 }}>
+                                <AccordionSummary
+                                     expandIcon={<ExpandMoreIcon sx={{ color: 'white' }} />}
+                                    aria-controls="panel3a-content"
+                                    id="panel3a-header"
+                                    sx={{ justifyContent: 'center' }}
+                                    className="accordion-summary"
+                                >
+                                    <Typography variant="subtitle1">5. WhatsApp Us For Withdrawals</Typography>
+                                </AccordionSummary>
+                                <AccordionDetails>
+                                    <Typography>
+                                        Reach out on the same WhatsApp number for hassle-free withdrawals.
                                     </Typography>
                                 </AccordionDetails>
                             </Accordion>

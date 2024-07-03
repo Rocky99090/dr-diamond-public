@@ -101,12 +101,12 @@ const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
                                                     textAlign: 'center', // Center-aligns text,
                                                    }}
                                             >
-                                                <img
+                                                 <img
                                                     src={`${val.imgUrl}`}
                                                     alt={`${val.imgAlt}`}
                                                     style={{
-                                                        height: '40%', // Smaller height for image
-                                                        width: '40%',
+                                                        height: isMobile?'40%':'35%', // Smaller height for image
+                                                        width: !isMobile?'40%':'35%',
                                                         objectFit: 'cover', // Ensures the image covers the entire div
                                                     }}
                                                 />
@@ -116,7 +116,8 @@ const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
                                                         display: 'flex',
                                                         justifyContent: 'center', // Centers content horizontally
                                                         alignItems: 'center', // Centers content vertically
-                                                        paddingTop: '18px', // Reduced padding around the content
+                                                        paddingTop: '8px', // Reduced padding around the content
+                                                        paddingBottom:'4px',
                                                         textAlign: 'center', // Center-aligns text
                                                     }}
                                                 >
