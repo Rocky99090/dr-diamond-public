@@ -93,7 +93,7 @@ const GameList = () => {
                             items.map((elem) => {
                             const { id, image, title, alt } = elem;
                                 return (
-                                    <div className="col-lg-3 col-md-4 col-sm-6 col-12" key={id}>
+                                    <div className="col-lg-3 col-md-4 col-sm-6 col-6" key={id}>
                                         <div className="game-item item-layer">
                                             <div className="game-item-inner">
                                                 <div className="game-thumb">
