@@ -3288,7 +3288,6 @@ button {
 .game-item {
   background-size: cover;
   background-position: center;
-  height: 250px;
   transition: 0.3s all linear;
 }
 .game-item .game-item-inner.bg-1 {
@@ -3334,7 +3333,7 @@ button {
   transform: translate(-50%, -50%) scale(0);
   width: calc(100% - 20px);
   height: calc(100% - 20px);
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.6);
 }
 .game-item:hover .game-overlay {
   visibility: visible;
@@ -7115,4 +7114,7 @@ button {
     .section-header .custom-heading:hover::after {
         background-color: #0088cc; /* Change line color on hover */
     }
+  }
+  .game-list-section{
+    background: linear-gradient(90deg, #0088cc, #2c3e50) !important;
   }

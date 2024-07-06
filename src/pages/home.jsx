@@ -19,7 +19,7 @@ import VideoSection from "../component/section/video";
 import PartnerPage from "./partner";
 import MainPoints from "../component/section/main-points";
 import CollectionSectionTwo from "../component/section/collectiontwo";
-
+import GameList from "../component/section/gamelist";
 
 
 
@@ -30,11 +30,10 @@ class HomePage extends Component {
                 <Header />
                 <BannerSection />
                 <CollectionSection />
-                
                 <AboutSection imgUrl={'assets/images/about/diamond-exchange-phone-mockup.webp'} />
                 <CollectionSectionTwo />
+                <GameList />
                 <MatchSection />
-                
              <MainPoints />
              <PartnerPage />
                 <CtaSection imgUrl={'assets/images/cta/01.png'} />

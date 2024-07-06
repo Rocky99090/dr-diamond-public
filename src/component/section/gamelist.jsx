@@ -1,12 +1,13 @@
 import { Component, useState } from "react";
 import { Link } from "react-router-dom";
 import Rating from "./rating";
+import { Typography } from "@mui/material";
 
 
 let GameListData = [
     {
         id: 1,
-        image: 'assets/images/game/01.png',
+        image: 'assets/images/game/01.jpeg',
         alt: 'game list name',
         title: 'Witch Sports Team',
         icon: [
@@ -18,49 +19,49 @@ let GameListData = [
     },
     {
         id: 2,
-        image: 'assets/images/game/02.png',
+        image: 'assets/images/game/01.jpeg',
         alt: 'game list name',
         title: 'Witch Sports Team',
         catagory: 'collection-two',
     },
     {
         id: 3,
-        image: 'assets/images/game/03.png',
+        image: 'assets/images/game/01.jpeg',
         alt: 'game list name',
         title: 'Witch Sports Team',
         catagory: 'collection-three',
     },
     {
         id: 4,
-        image: 'assets/images/game/04.png',
+        image: 'assets/images/game/01.jpeg',
         alt: 'game list name',
         title: 'Witch Sports Team',
         catagory: 'collection-one',
     },
     {
         id: 5,
-        image: 'assets/images/game/05.png',
+        image: 'assets/images/game/01.jpeg',
         alt: 'game list name',
         title: 'Witch Sports Team',
         catagory: 'collection-two',
     },
     {
         id: 6,
-        image: 'assets/images/game/06.png',
+        image: 'assets/images/game/01.jpeg',
         alt: 'game list name',
         title: 'Witch Sports Team',
         catagory: 'collection-three',
     },
     {
         id: 7,
-        image: 'assets/images/game/07.png',
+        image: 'assets/images/game/01.jpeg',
         alt: 'game list name',
         title: 'Witch Sports Team',
         catagory: 'collection-one',
     },
     {
         id: 8,
-        image: 'assets/images/game/08.png',
+        image: 'assets/images/game/01.jpeg',
         alt: 'game list name',
         title: 'Witch Sports Team',
         catagory: 'collection-three',
@@ -79,15 +80,14 @@ const GameList = () => {
         setItems(updateItems);
     }
     return (
-        <section className="collection-section padding-top padding-bottom">
+        <section className="collection-section padding-top padding-bottom game-list-section">
             <div className="container">
                 <div className="section-wrapper">
-                    <ul className="collection-filter-button-group common-filter-button-group d-flex flex-wrap justify-content-center mb-5 text-uppercase">  
-                        <li onClick={() => setItems(GameListData) }>All matches</li>
-                        <li onClick={() => filterItem('collection-one') }>today’s matches</li>
-                        <li onClick={() => filterItem('collection-two') }>upcoming matches</li>
-                        <li onClick={() => filterItem('collection-three') }>matche results</li>
-                    </ul>
+                <div className="section-header">
+                                    
+                                    <Typography variant='h4'  color={"white"}>Games</Typography>
+              
+                                </div>
                     <div className="row g-4 justify-content-center collection-grid GameListStyle">
                         {
                             items.map((elem) => {
@@ -100,7 +100,7 @@ const GameList = () => {
                                                     <img src={image} alt={alt} />
                                                 </div>
                                                 <div className="game-overlay">
-                                                    <h4><Link to="/team-single">{title}</Link> </h4>
+                                                    <h4>{title} </h4>
                                                     <Rating />
                                                 </div>
                                             </div>
