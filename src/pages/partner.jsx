@@ -8,7 +8,7 @@ const PartnerPage = () => {
     const isWeb = useMediaQuery(theme.breakpoints.up('sm'));
 
     return (
-        <div className="partner-section padding-top">
+        <div className="partner-section padding-top padding-bottom">
             <div className="container">
                 <div className="section-header">
                     <Typography variant='h4' className="custom-heading" color={"black"}>How To Register?</Typography>

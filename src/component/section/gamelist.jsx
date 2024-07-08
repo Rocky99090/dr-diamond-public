@@ -7,9 +7,9 @@ import { Typography } from "@mui/material";
 let GameListData = [
     {
         id: 1,
-        image: 'assets/images/game/01.jpeg',
-        alt: 'game list name',
-        title: 'Witch Sports Team',
+        image: 'assets/images/game/game1.webp',
+        alt: 'Dragon Tiger',
+        title: 'Dragon Tiger',
         icon: [
             {
                 iconName: 'icofont-star',
@@ -19,49 +19,49 @@ let GameListData = [
     },
     {
         id: 2,
-        image: 'assets/images/game/01.jpeg',
-        alt: 'game list name',
-        title: 'Witch Sports Team',
+        image: 'assets/images/game/game2.webp',
+        alt: 'Andar Bahar',
+        title: 'Andar Bahar',
         catagory: 'collection-two',
     },
     {
         id: 3,
-        image: 'assets/images/game/01.jpeg',
-        alt: 'game list name',
-        title: 'Witch Sports Team',
+        image: 'assets/images/game/game3.webp',
+        alt: 'Baccarat',
+        title: 'Baccarat',
         catagory: 'collection-three',
     },
     {
         id: 4,
-        image: 'assets/images/game/01.jpeg',
-        alt: 'game list name',
-        title: 'Witch Sports Team',
+        image: 'assets/images/game/game4.webp',
+        alt: '32 Cards',
+        title: '32 Cards',
         catagory: 'collection-one',
     },
     {
         id: 5,
-        image: 'assets/images/game/01.jpeg',
-        alt: 'game list name',
-        title: 'Witch Sports Team',
+        image: 'assets/images/game/game5.webp',
+        alt: 'Lottery',
+        title: 'Lottery',
         catagory: 'collection-two',
     },
     {
         id: 6,
-        image: 'assets/images/game/01.jpeg',
-        alt: 'game list name',
-        title: 'Witch Sports Team',
+        image: 'assets/images/game/game6.webp',
+        alt: '3 Patti',
+        title: '3 Patti',
         catagory: 'collection-three',
     },
     {
         id: 7,
-        image: 'assets/images/game/01.jpeg',
-        alt: 'game list name',
-        title: 'Witch Sports Team',
+        image: 'assets/images/game/game7.webp',
+        alt: 'Worli Matka',
+        title: 'Worli Matka',
         catagory: 'collection-one',
     },
     {
         id: 8,
-        image: 'assets/images/game/01.jpeg',
+        image: 'assets/images/game/game8.webp',
         alt: 'game list name',
         title: 'Witch Sports Team',
         catagory: 'collection-three',
@@ -85,7 +85,7 @@ const GameList = () => {
                 <div className="section-wrapper">
                 <div className="section-header">
                                     
-                                    <Typography variant='h4'  color={"white"}>Games</Typography>
+                                    <Typography variant='h4'  color={"white"}>World Class Casino</Typography>
               
                                 </div>
                     <div className="row g-4 justify-content-center collection-grid GameListStyle">

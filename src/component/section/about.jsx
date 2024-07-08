@@ -28,9 +28,13 @@ let AboutListContent = [
         title: "We understand that you're putting your money",
         desc: 'which is why we prioritize safety and security relentlessly. All transactions on Diamond Exchange are protected using excellent security features, giving you peace of mind when placing bets.',
     },
+    {
+        imgUrl: 'assets/images/about/icon-1.png',
+        imgAlt: 'About Icon',
+        title: "Join Us Today and Unlock the Excitement of Cricket Betting!",
+        desc: 'Are you ready to experience online cricket betting? Look no further! Here at Diamond Exchange we’re your utmost stop for securing a reliable and verified ID, opening the door to a thrilling online cricket betting experience.',
+    },
 ]
-
-
 
 class AboutSection extends Component {
     render() { 
@@ -50,8 +54,7 @@ class AboutSection extends Component {
                         <div className="default-button reverse-effect"><span>Play Now <i class="icofont-whatsapp"></i></span> </div>
                       </div>
                             </div>
-                            <div className="col-lg-3"></div>
-                            <div className="col-lg-6 col-md-10">
+                            <div className="col-lg-9 col-md-10">
                                 <div className="about-wrapper">
                                     
                                     <div className="section-header">

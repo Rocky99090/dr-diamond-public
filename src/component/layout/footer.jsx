@@ -6,7 +6,7 @@ import { handleRedirect } from "../../env/credentials";
 import { Typography } from "@mui/material";
 
 const postTitle = "Quick Links";
-const newsTitle = "Our Newsletter";
+const newsTitle = "Follow Us";
 const desc = "At Diamond Exchange, we have been the beloved choice for punters searching to strike gold and win big. Whether it's IPL Cricket, Tennis, Football, or other sports, we offer thrilling opportunities. Additionally, you can test your skills with games like Teen Patti and Andar Bahar, or immerse yourself in the excitement of Live Casino games such as Lucky 7, Lion Dragon Tiger, and many more.";
 const newsdesc = "At Diamond Exchange, we have been the beloved choice for punters searching to strike gold and win big.";
 
@@ -49,6 +49,9 @@ const Footer = () => {
                                     <div className="fm-item-title mb-4">
                                         <img src="/assets/images/logo/logo_2.png" alt="logo" />
                                     </div>
+                                    <div className="fm-item-title">
+                                    <p>{newsdesc}</p>
+                                    </div>
                                     {/* <div className="fm-item-content">
                                         <p className="mb-4">{desc}</p>
                                         <ul className="match-social-list d-flex flex-wrap align-items-center">
@@ -81,10 +84,19 @@ const Footer = () => {
                                         <h4>{newsTitle}</h4>
                                     </div>
                                     <div className="fm-item-content">
-                                        <p>{newsdesc}</p>
-                                       
-
-                                        
+                                    <ul className="icons-list">   
+                                            <li><a href="https://www.instagram.com/drdiamondexch" 
+                                 target="_blank"
+                                 rel="noopener noreferrer"><i className="icofont-instagram"></i></a>
+                                            
+                                            </li>
+                                            <li><a href="https://t.me/drdiamondexch" 
+                                 target="_blank"
+                                 rel="noopener noreferrer"><i className="icofont-telegram"></i></a></li>
+                                            <li><a href="mailto:drdiamondexchhelp@gmail.com" 
+                                 target="_blank"
+                                 rel="noopener noreferrer"><i className="icofont-facebook"></i></a></li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>

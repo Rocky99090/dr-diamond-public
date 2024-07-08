@@ -227,7 +227,7 @@ const BannerSection = () => {
     return (
         <Fragment>
             {matchesToDisplay.length>0?
-        <section className="banner-section" style={{ backgroundImage: matchesToDisplay.length>0?'url(/assets/images/banner/main-banner.png)':'url(/assets/images/banner/main-banner.png)' }}>
+        <section className="banner-section padding-top" style={{ backgroundImage: matchesToDisplay.length>0?'url(/assets/images/banner/main-banner.png)':'url(/assets/images/banner/main-banner.png)' }}>
             <div className="container">
                 {matchesToDisplay.length === 1 ? (
                     // Render a single match directly if there is only one match

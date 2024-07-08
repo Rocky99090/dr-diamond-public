@@ -76,6 +76,7 @@ class Header extends Component {
                                             <li><NavLink to="/">Home</NavLink></li>
                                             <li><NavLink to="/about">About Us</NavLink></li>
                                             <li><NavLink to="/blog">Blog</NavLink></li>
+                                            <li><NavLink to="/contact">Contact</NavLink></li>
                                         </ul>
                                         <div onClick={handleRedirect} className="default-button reverse-effect whatsapp-now-header"><span>Whatsapp Now <i class="icofont-whatsapp"></i></span> </div>
                     

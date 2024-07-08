@@ -20,13 +20,43 @@ import PartnerPage from "./partner";
 import MainPoints from "../component/section/main-points";
 import CollectionSectionTwo from "../component/section/collectiontwo";
 import GameList from "../component/section/gamelist";
+import { Box, Button, Fab } from "@mui/material";
 
 
 
 class HomePage extends Component {
     render() { 
+        const openWhatsapp = () => {
+            window.location.href = "https://wa.link/rockywebsite?text=I want Id"
+        }
         return (
             <Fragment>
+    <Box
+      sx={{
+        position: 'fixed',
+        bottom: '20px !important',
+        right: '20px',
+        zIndex: 1000,
+        '& > :not(style)': { m: 0 },
+      }}
+    >
+      <Button
+        onClick={openWhatsapp}
+        aria-label="WhatsApp"
+        sx={{
+          backgroundColor: 'green',
+          borderRadius: '50%',
+          padding: '10px',
+          boxShadow: '0 4px 8px rgba(0, 0, 0, 0.3)',
+          '&:hover': {
+            backgroundColor: 'green',
+            boxShadow: '0 6px 12px rgba(0, 0, 0, 0.3)',
+          },
+        }}
+      >
+  <i class="icofont-brand-whatsapp"  style={{fontSize:"40px", color:'white'}}></i>
+  </Button>
+</Box>
                 <Header />
                 <BannerSection />
                 <CollectionSection />
@@ -34,8 +64,9 @@ class HomePage extends Component {
                 <CollectionSectionTwo />
                 <GameList />
                 <MatchSection />
-             <MainPoints />
+             
              <PartnerPage />
+             <MainPoints />
                 <CtaSection imgUrl={'assets/images/cta/01.png'} />
                 <HrShape />
                 <SponsorSection />

@@ -241,7 +241,7 @@ body a {
   color: #fff;
 }
 body a:hover {
-  color: #2c3e50;
+  color: #fff;
 }
 body ul {
   padding: 0;
@@ -1526,11 +1526,12 @@ ul li {
   );
 }
 .section-header {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
+  margin-top: 10px;
 }
 @media (min-width: 992px) {
   .section-header {
-    margin-bottom: 45px;
+    margin-bottom: 25px;
   }
 }
 .section-header p {
@@ -1564,7 +1565,7 @@ ul li {
 }
 @media (min-width: 992px) {
   .padding-top {
-    padding-top: 50px;
+    padding-top: 25px;
   }
 }
 .padding-lg-top {
@@ -2265,7 +2266,7 @@ ul li {
   }
 }
 .mobile-logo {
-  max-width: 80px;
+  max-width: 120px;
 }
 @media (min-width: 992px) {
   .menu {
@@ -2651,7 +2652,7 @@ ul li {
   .breadcrumb
   li
   a:hover {
-  color: #2c3e50;
+  color: #fff;
 }
 .page-header-section.style-1
   .page-header-content
@@ -2701,7 +2702,7 @@ ul li {
   .page-title
   .title-text
   span {
-  color: #2c3e50;
+  color: #fff;
 }
 .page-header-section.style-1
   .page-header-content
@@ -2889,8 +2890,8 @@ ul li {
 }
 @media (max-width: 991px) {
   .footer-section .footer-top {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 }
 @media (min-width: 992px) {
@@ -2975,6 +2976,19 @@ ul li {
   .fm-item-title
   h4 {
   margin-bottom: 25px;
+}
+.fm-item-title{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.fm-item-title
+img {
+height: 35px !important;
+width: 150px;
 }
 .footer-section
   .footer-middle
@@ -3102,7 +3116,7 @@ ul li {
   .lab-content
   h6
   a {
-  color: #2c3e50;
+  color: #fff;
 }
 .footer-section
   .footer-middle
@@ -5127,7 +5141,7 @@ button {
 }
 .contact-item {
   padding: 50px 30px;
-  background: #232a5c;
+  background: linear-gradient(90deg, #0088cc, #2c3e50) !important;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
@@ -5163,11 +5177,11 @@ button {
   width: 100%;
   border: 8px solid rgba(255, 255, 255, 0.3);
   border-radius: 100%;
-  animation-name: ripple;
+  /* animation-name: ripple;
   animation-duration: 2s;
   animation-delay: 0s;
   animation-iteration-count: infinite;
-  animation-timing-function: cubic-bezier(0.65, 0, 0.34, 1);
+  animation-timing-function: cubic-bezier(0.65, 0, 0.34, 1); */
   z-index: -1;
   border-width: 25px;
 }
@@ -5187,11 +5201,11 @@ button {
   width: 100%;
   border: 8px solid rgba(255, 255, 255, 0.3);
   border-radius: 100%;
-  animation-name: ripple;
+  /* animation-name: ripple;
   animation-duration: 2s;
   animation-delay: 0.3s;
   animation-iteration-count: infinite;
-  animation-timing-function: cubic-bezier(0.65, 0, 0.34, 1);
+  animation-timing-function: cubic-bezier(0.65, 0, 0.34, 1); */
   z-index: -1;
   border-width: 15px;
 }
@@ -5255,7 +5269,7 @@ button {
   color: #2c3e50;
 }
 .about-section {
-  padding-bottom: 110px;
+  padding-bottom: 20px;
 }
 .about-section .section-wrapper {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -7052,7 +7066,6 @@ button {
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-bottom: 20px; /* Adjust as needed */
     }
     
     .section-header .custom-heading {
@@ -7118,3 +7131,19 @@ button {
   .game-list-section{
     background: linear-gradient(90deg, #0088cc, #2c3e50) !important;
   }
+  .icons-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+  }
+  @media (max-width: 768px) {
+  .slider-area {
+    padding-top: 100px;
+  }
+}
+.info-section{
+  padding-top: 40px;
+  background-color:  #fff;
+}
