@@ -62,8 +62,8 @@ let GameListData = [
     {
         id: 8,
         image: 'assets/images/game/game8.webp',
-        alt: 'game list name',
-        title: 'Witch Sports Team',
+        alt: 'Lucky',
+        title: 'Lucky',
         catagory: 'collection-three',
     },
 ]
@@ -100,7 +100,7 @@ const GameList = () => {
                                                     <img src={image} alt={alt} />
                                                 </div>
                                                 <div className="game-overlay">
-                                                    <h4>{title} </h4>
+                                                    <h6>{title} </h6>
                                                     <Rating />
                                                 </div>
                                             </div>
