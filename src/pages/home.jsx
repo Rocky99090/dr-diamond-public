@@ -27,7 +27,7 @@ import { Box, Button, Fab } from "@mui/material";
 class HomePage extends Component {
     render() { 
         const openWhatsapp = () => {
-            window.location.href = "https://wa.link/rockywebsite?text=I want Id"
+            window.location.href = "https://Wa.link/drdiamondsupport?text=I want Id"
         }
         return (
             <Fragment>
