@@ -23,6 +23,7 @@ import SignUp from "./pages/signup";
 import TeamPage from "./pages/team";
 import TeamSinglePage from "./pages/team-single";
 import ErrorPage from "./pages/errorpage";
+import { Box, Button } from "@mui/material";
 
 // import Footer from "./component/layout/footer";
 // import Header from "./component/layout/header";
@@ -31,33 +32,49 @@ import ErrorPage from "./pages/errorpage";
 
 
 function App() {
+	const openWhatsapp = () => {
+		window.location.href = "https://Wa.link/drdiamondsupport?text=I want Id"
+	}
 	return (
+		
 		// <div className="App">
 		// 	<ShopPage />
 		// </div>
 		<BrowserRouter>
 			<ScrollToTop />
+			<Box
+      sx={{
+        position: 'fixed',
+        bottom: '20px !important',
+        right: '20px',
+        zIndex: 1000,
+        '& > :not(style)': { m: 0 },
+      }}
+    >
+      <Button
+        onClick={openWhatsapp}
+        aria-label="WhatsApp"
+        sx={{
+          backgroundColor: 'green',
+          borderRadius: '50%',
+          padding: '10px',
+          boxShadow: '0 4px 8px rgba(0, 0, 0, 0.3)',
+          '&:hover': {
+            backgroundColor: 'green',
+            boxShadow: '0 6px 12px rgba(0, 0, 0, 0.3)',
+          },
+        }}
+      >
+  <i class="icofont-brand-whatsapp"  style={{fontSize:"40px", color:'white'}}></i>
+  </Button>
+</Box>
 			<Routes>
 				<Route path="/" element={<HomePage />} />
-				<Route path="index-2" element={<HomeTwo />} />
 				<Route path="about" element={<AboutPage />} />
-				<Route path="gallery" element={<GalleryPage />} />
-				<Route path="game-list" element={<GameListSection />} />
-				<Route path="game-list2" element={<GameListTwoSection />} />
-				<Route path="partners" element={<PartnerPage />} />
-				<Route path="achievements" element={<AchievementPage />} />
-				<Route path="team" element={<TeamPage />} />
-				<Route path="team-single" element={<TeamSinglePage />} />
 				<Route path="*" element={<ErrorPage />} />
-				<Route path="shop" element={<ShopPage />} />
-				<Route path="shop-single" element={<ShopDetails />} />
-				<Route path="cart-page" element={<ShopCart />} />
 				<Route path="blog" element={<BlogPage />} />
-				<Route path="blog-2" element={<BlogPageTwo />} />
 				<Route path="blog-single/:id" element={<BlogDetails />} />
 				<Route path="contact" element={<ContactUs />} />
-				<Route path="login" element={<LogIn />} />
-				<Route path="signup" element={<SignUp />} />
 			</Routes>
 		</BrowserRouter>
 	);

@@ -3,9 +3,9 @@ import Footer from "../component/layout/footer";
 import Header from "../component/layout/header";
 import PageHeader from "../component/layout/pageheader";
 import GoogleMap from "../component/section/googlemap";
-import HeroThree from "../component/section/hero/hero";
 import { Typography } from "@mui/material";
 import { NavLink } from "react-router-dom";
+import HeroThree from "../component/section/hero/hero-contact";
 
 const infosubtitle = "Get in touch with us";
 const infotitle = "We're Always Eager To Hear From You!";

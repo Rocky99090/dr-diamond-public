@@ -10,7 +10,7 @@ import CtaSection from "../component/section/cta";
 import HrShape from "../component/layout/hrshape";
 import Footer from "../component/layout/footer";
 import TeamSinglePage from "./team-single";
-import HeroThree from "../component/section/hero/hero";
+import HeroThree from "../component/section/hero/hero-about";
 
 
 class AboutPage extends Component {

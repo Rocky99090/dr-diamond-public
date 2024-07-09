@@ -21,7 +21,7 @@ const openWhatsapp = () => {
 const MySlider = () => (
     <Carousel autoPlay showThumbs = {false} showStatus = {false}>
       <div onClick={openWhatsapp}>
-        <img src={'assets/images/banner/main-banner-mobile.webp'} alt="Slide 1" />
+        <img src={'assets/images/banner/contact1-mobile.webp'} alt="Slide 1" />
       </div>
       {/* <div>
         <img src={'/assets/images/banner/main-banner.png'} alt="Slide 2" />
@@ -32,7 +32,7 @@ const MySlider = () => (
   const MySliderWeb = () => (
     <Carousel autoPlay showThumbs = {false} showStatus = {false}>
       <div onClick={openWhatsapp}>
-        <img src={'/assets/images/banner/main-banner-web.webp'} alt="Slide 1" />
+        <img src={'/assets/images/banner/contact1-web.png'} alt="Slide 1" />
       </div>
       {/* <div>
         <img src={'/assets/images/banner/main-banner.png'} alt="Slide 2" />

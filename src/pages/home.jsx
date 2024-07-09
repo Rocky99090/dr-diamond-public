@@ -21,44 +21,18 @@ import MainPoints from "../component/section/main-points";
 import CollectionSectionTwo from "../component/section/collectiontwo";
 import GameList from "../component/section/gamelist";
 import { Box, Button, Fab } from "@mui/material";
+import HeroThree from "../component/section/hero/hero";
 
 
 
 class HomePage extends Component {
     render() { 
-        const openWhatsapp = () => {
-            window.location.href = "https://Wa.link/drdiamondsupport?text=I want Id"
-        }
+
         return (
             <Fragment>
-    <Box
-      sx={{
-        position: 'fixed',
-        bottom: '20px !important',
-        right: '20px',
-        zIndex: 1000,
-        '& > :not(style)': { m: 0 },
-      }}
-    >
-      <Button
-        onClick={openWhatsapp}
-        aria-label="WhatsApp"
-        sx={{
-          backgroundColor: 'green',
-          borderRadius: '50%',
-          padding: '10px',
-          boxShadow: '0 4px 8px rgba(0, 0, 0, 0.3)',
-          '&:hover': {
-            backgroundColor: 'green',
-            boxShadow: '0 6px 12px rgba(0, 0, 0, 0.3)',
-          },
-        }}
-      >
-  <i class="icofont-brand-whatsapp"  style={{fontSize:"40px", color:'white'}}></i>
-  </Button>
-</Box>
+   
                 <Header />
-                <BannerSection />
+                <HeroThree />
                 <CollectionSection />
                 <AboutSection imgUrl={'assets/images/about/diamond-exchange-phone-mockup.webp'} />
                 <CollectionSectionTwo />

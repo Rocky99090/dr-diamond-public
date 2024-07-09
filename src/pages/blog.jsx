@@ -5,6 +5,7 @@ import Header from "../component/layout/header";
 import PageHeader from "../component/layout/pageheader";
 import { blogData } from "./BlogData/blogData";
 import { truncateDescription } from "../Utilities/TruncateText";
+import HeroThree from "../component/section/hero/hero-blog";
 
 
 
@@ -12,8 +13,9 @@ const BlogPage = () => {
     return (
         <Fragment>
             <Header />
+            <HeroThree />
             {/* <PageHeader title={'OUR BLOG POSTS'} curPage={'Blog'} /> */}
-            <div className="blog-section padding-top padding-bottom">
+            <div className="blog-section  padding-bottom">
                 <div className="container">
                     <div className="section-wrapper">
                         <div className="row g-4 justify-content-center">
