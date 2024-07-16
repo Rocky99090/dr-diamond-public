@@ -1,103 +1,127 @@
-import { Component } from "react";
-import { NavLink, Link } from 'react-router-dom';
-import { handleRedirect } from "../../env/credentials";
+import * as React from 'react';
+import AppBar from '@mui/material/AppBar';
+import Box from '@mui/material/Box';
+import Toolbar from '@mui/material/Toolbar';
+import IconButton from '@mui/material/IconButton';
+import Typography from '@mui/material/Typography';
+import Menu from '@mui/material/Menu';
+import MenuIcon from '@mui/icons-material/Menu';
+import Container from '@mui/material/Container';
+import Avatar from '@mui/material/Avatar';
+import Button from '@mui/material/Button';
+import Tooltip from '@mui/material/Tooltip';
+import MenuItem from '@mui/material/MenuItem';
+import AdbIcon from '@mui/icons-material/Adb';
+import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
+const pages = [{title:'Home', id:'/'}, {title:'About Us', id:'/about'}, {title:'Blogs', id:'/blog'},{title:'Contact Us', id:'/contact'}];
+const settings = [{title:'Cricket ID Provider', id:'/cricket-id-provider'}, {title:'Diamond Exchange ID', id:'/diamond-id-provider'},{title:'Casino ID Provider', id:'/casino-id-provider'}, {title:'T20 WorldCup ID Provider', id:'/t20-world-cup'},{title:'IPL ID Provider', id:'/ipl-id-provider'},];
 
-const contactNumber = "+800-123-4567 6587";
-const contactAddress = "India";
+function Header() {
+  const [anchorElNav, setAnchorElNav] = React.useState()
+  const [anchorElUser, setAnchorElUser] =  React.useState()
 
-let SocialMideaList = [
-    {
-        IconName: 'icofont-instagram',
-        IconLink: 'https://www.instagram.com/drdiamondexch?igsh=NWVoYzgzM3MxeXNs',
-    },
-    
-]
+  const handleOpenNavMenu = (event) => {
+    setAnchorElNav(event.currentTarget);
+  };
+  const handleOpenUserMenu = (event) => {
+    setAnchorElUser(event.currentTarget);
+  };
 
-class Header extends Component {
-    menuTrigger() {
-        document.querySelector('.menu').classList.toggle('active')
-        document.querySelector('.header-bar').classList.toggle('active')
-    }
-    menuTriggerTwo() {
-        document.querySelector('.header-top').classList.toggle('open')
-        // document.querySelector('.header-bar').classList.toggle('active')
-    }
+  const handleCloseNavMenu = () => {
+    setAnchorElNav(null);
+  };
 
-    render() { 
+  const handleCloseUserMenu = () => {
+    setAnchorElUser(null);
+  };
 
-        window.addEventListener('scroll', function() {
-            var value = window.scrollY;
-            if (value > 200) {
-                document.querySelector('.header-section').classList.add(['header-fixed'], ['fadeInUp'])
-            }else{
-                document.querySelector('.header-section').classList.remove(['header-fixed'], ['fadeInUp'])
-            }
-        });
-
-        return (
-            <header className="header-section ">
-                <div className="container mt-4">
-                    <div className="header-holder d-flex flex-wrap justify-content-between align-items-center">
-                        <div className="brand-logo d-none d-lg-inline-block">
+  return (
+    <AppBar position="static">
+      <Container maxWidth="xl">
+        <Toolbar disableGutters sx={{display: 'flex', justifyContent:'space-between'}}>
+        <div className="brand-logo d-none d-lg-inline-block">
                             <div className="logo">
                                 <Link to="/">
                                     <img src="/assets/images/logo/logo_2.png" alt="logo" />
                                 </Link>
                             </div>
-                        </div>
-                        <div className="header-menu-part">
-                            {/* <div className="header-top">
-                                <div className="header-top-area">
-                                    <ul className="left">
-                                        <li>
-                                            <i className="icofont-ui-call"></i> <span>24/7 Available</span>
-                                        </li>
-                                        
-                                        <li>
-                                            <i className="icofont-user"></i> Trusted by millions
-                                        </li>
-                                    </ul>
-                                    <ul className="social-icons d-flex align-items-center">
-                                        {SocialMideaList.map((val, i) => (
-                                            <li key={i}>
-                                                <a href={`${val.IconLink}`} className="fb"><i className={`${val.IconName}`}></i></a>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </div>
-                            </div> */}
-                            <div className="header-bottom">
-                                <div className="header-wrapper justify-content-lg-end">
-                                    <div className="mobile-logo d-lg-none">
+        </div>
+          <Box sx={{ flexGrow: 0, display: { xs: 'flex', md: 'none' } }}>
+            <IconButton
+              size="large"
+              aria-label="account of current user"
+              aria-controls="menu-appbar"
+              aria-haspopup="true"
+              onClick={handleOpenNavMenu}
+              color="inherit"
+            >
+              <MenuIcon />
+            </IconButton>
+            <Menu
+              id="menu-appbar"
+              anchorEl={anchorElNav}
+              anchorOrigin={{
+                vertical: 'bottom',
+                horizontal: 'left',
+              }}
+              keepMounted
+              transformOrigin={{
+                vertical: 'top',
+                horizontal: 'left',
+              }}
+              open={Boolean(anchorElNav)}
+              onClose={handleCloseNavMenu}
+              sx={{
+                display: { xs: 'block', md: 'none' },
+              }}
+            >
+              {pages.map((page) => (
+                <MenuItem key={page} onClick={handleCloseNavMenu}>
+                  <Typography variant='span'  textAlign="center"><NavLink style={{color:'#2c3e50'}} to={page.id}>{page.title}</NavLink></Typography>
+                </MenuItem>
+              ))}
+            </Menu>
+          </Box>
+          <div className="mobile-logo d-lg-none">
                                         <Link to="/"><img src="/assets/images/logo/logo_2.png" alt="logo" /></Link>
-                                    </div>
-                                    <div className="menu-area">
-                                        <ul className="menu">   
-                                            <li><NavLink to="/">Home</NavLink></li>
-                                            <li><NavLink to="/about">About Us</NavLink></li>
-                                            <li><NavLink to="/blog">Blog</NavLink></li>
-                                            <li><NavLink to="/contact">Contact</NavLink></li>
-                                        </ul>
-                                        <div onClick={handleRedirect} className="default-button reverse-effect whatsapp-now-header"><span>Whatsapp Now <i class="icofont-whatsapp"></i></span> </div>
-                    
-                                        <div className="header-bar d-lg-none" onClick={this.menuTrigger}>
-                                            <span></span>
-                                            <span></span>
-                                            <span></span>
-                                        </div>
-                                        <div className="ellepsis-bar d-lg-none"
-                                            onClick={handleRedirect}>
-                                        <i class="icofont-whatsapp"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </header>
-        );
-    }
+           </div>
+          <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' }, justifyContent: 'center', gap:'30px' }}>
+            {pages.map((page) => (
+               <Typography variant='p'  sx={{textDecoration:'none'}} textAlign="center"><NavLink sx={{textDecoration:'none'}} to={page.id}>{page.title}</NavLink></Typography>
+            ))}
+          </Box>
+
+            <Tooltip title="Open games">
+              <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
+                <Typography sx={{color:'white'}}>Games</Typography>
+              </IconButton>
+            </Tooltip>
+            <Menu
+              sx={{ mt: '45px' }}
+              id="menu-appbar"
+              anchorEl={anchorElUser}
+              anchorOrigin={{
+                vertical: 'top',
+                horizontal: 'right',
+              }}
+              keepMounted
+              transformOrigin={{
+                vertical: 'top',
+                horizontal: 'right',
+              }}
+              open={Boolean(anchorElUser)}
+              onClose={handleCloseUserMenu}
+            >
+              {settings.map((setting) => (
+                <MenuItem key={setting.id} onClick={handleCloseUserMenu}>
+                  <Typography textAlign="center"><NavLink style={{color:'#2c3e50'}} to={setting.id}>{setting.title}</NavLink></Typography>
+                </MenuItem>
+              ))}
+            </Menu>
+        </Toolbar>
+      </Container>
+    </AppBar>
+  );
 }
- 
 export default Header;

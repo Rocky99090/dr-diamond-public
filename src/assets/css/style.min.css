@@ -6982,14 +6982,7 @@ button {
     padding-top: 100px ; 
   }
 }
-.blog-single-section{
-  padding-top: 200px;
-}
-@media (max-width: 767px) {
-  .blog-single-section{
-    padding-top: 100px ; 
-  }
-}
+
 
 
 .blog-section .section-header p{
@@ -7146,4 +7139,10 @@ button {
 .info-section{
   padding-top: 40px;
   background-color:  #fff;
+}
+.MuiPaper-root{
+  background-color: transparent !important;
+}
+.MuiList-root{
+  background-color: white !important;
 }

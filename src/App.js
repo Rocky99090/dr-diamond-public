@@ -24,6 +24,14 @@ import TeamPage from "./pages/team";
 import TeamSinglePage from "./pages/team-single";
 import ErrorPage from "./pages/errorpage";
 import { Box, Button } from "@mui/material";
+import PrivacyPolicy from "./pages/policy-pages/privacyPolicy";
+import Responsible from "./pages/policy-pages/responsibleGaming";
+import Terms from "./pages/policy-pages/termsAndConditions";
+import CricketID from "./pages/game-pages/cricketIDProvider";
+import DiamondID from "./pages/game-pages/diamondDProvider";
+import IPLID from "./pages/game-pages/IPLIDProvider";
+import T20ID from "./pages/game-pages/T20WorldCupIDProvider";
+import CasinoID from "./pages/game-pages/CasinoBettingIDProvider";
 
 // import Footer from "./component/layout/footer";
 // import Header from "./component/layout/header";
@@ -75,6 +83,14 @@ function App() {
 				<Route path="blog" element={<BlogPage />} />
 				<Route path="blog-single/:id" element={<BlogDetails />} />
 				<Route path="contact" element={<ContactUs />} />
+        <Route path="privacy-policy" element={<PrivacyPolicy />} />
+        <Route path="responsible-gaming" element={<Responsible />} />
+        <Route path="terms-and-conditions" element={<Terms />} />
+        <Route path="cricket-id-provider" element={<CricketID />} />
+        <Route path="diamond-id-provider" element={<DiamondID />} />
+        <Route path="casino-id-provider" element={<CasinoID />} />
+        <Route path="t20-world-cup" element={<T20ID />} />
+        <Route path="ipl-id-provider" element={<IPLID />} />
 			</Routes>
 		</BrowserRouter>
 	);

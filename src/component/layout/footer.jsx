@@ -43,7 +43,7 @@ const Footer = () => {
             <div className="footer-middle padding-bottom">
                 <div className="container">
                     <div className="row padding-lg-top">
-                        <div className="col-lg-4 col-md-6 col-12">
+                        <div className="col-lg-3 col-md-6 col-12">
                             <div className="footer-middle-item-wrapper">
                                 <div className="footer-middle-item mb-lg-0">
                                     <div className="fm-item-title mb-4">
@@ -61,7 +61,7 @@ const Footer = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6 col-12">
+                        <div className="col-lg-3 col-md-6 col-12">
                             <div className="footer-middle-item-wrapper">
                                 <div className="footer-middle-item mb-lg-0">
                                     <div className="fm-item-title">
@@ -77,7 +77,23 @@ const Footer = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6 col-12">
+                        <div className="col-lg-3 col-md-6 col-12">
+                            <div className="footer-middle-item-wrapper">
+                                <div className="footer-middle-item mb-lg-0">
+                                    <div className="fm-item-title">
+                                        <h4>Policies</h4>
+                                    </div>
+                                    <div className="fm-item-content">
+                                    <ul className="">   
+                                            <li><NavLink to="/privacy-policy">Privacy Policy</NavLink></li>
+                                            <li><NavLink to="/responsible-gaming">Responsible Gaming</NavLink></li>
+                                            <li><NavLink to="/terms-and-conditions">Terms and Condition</NavLink></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-12">
                             <div className="footer-middle-item-wrapper">
                                 <div className="footer-middle-item-3 mb-lg-0">
                                     <div className="fm-item-title">

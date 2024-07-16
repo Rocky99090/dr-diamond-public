@@ -1,0 +1,76 @@
+.content {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  h1 {
+    font-size: 2em !important;
+  }
+  
+  h2 {
+    font-size: 1.5em !important;
+  }
+  
+  h3 {
+    font-size: 1.2em !important;
+  }
+  
+  
+  .whatsapp-button {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #25D366;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 1em;
+    text-decoration: none;
+  }
+  
+  .whatsapp-button:hover {
+    background-color: #20b858;
+  }
+  
+  .get-id-link {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #25D366;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 1em;
+    text-decoration: none;
+  }
+  
+  .get-id-link:hover {
+    background-color: #25D366;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background: linear-gradient(90deg, #0088cc, #2c3e50) !important;
+  }
+  
