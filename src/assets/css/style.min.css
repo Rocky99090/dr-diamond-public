@@ -7131,11 +7131,7 @@ button {
     align-content: center;
     justify-content: space-between;
   }
-  @media (max-width: 768px) {
-  .slider-area {
-    padding-top: 100px;
-  }
-}
+
 .info-section{
   padding-top: 40px;
   background-color:  #fff;
