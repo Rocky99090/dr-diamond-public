@@ -118,7 +118,7 @@ const PartnerPage = () => {
                             </Accordion>
                         </Grid>
                     </Grid>
-                    <div className="button-wrapper text-center mt-5">
+                    <div className="button-wrapper text-center ">
                         <div onClick={handleRedirect} className="default-button reverse-effect"><span>Play Now <i className="icofont-whatsapp"></i></span> </div>
                     </div>
                 </div>

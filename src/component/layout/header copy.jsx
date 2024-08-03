@@ -68,42 +68,25 @@ class Header extends Component {
                             </div> */}
                             <div className="header-bottom">
                                 <div className="header-wrapper justify-content-lg-end">
-                                    <div className="mobile-logo d-lg-none">
+                                    <div className="mobile-logo d-lg-none d-md-none">
                                         <Link to="/"><img src="/assets/images/logo/logo_2.png" alt="logo" /></Link>
                                     </div>
                                     <div className="menu-area">
-                                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
-          </ul>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
+                                    <ul className="menu">
+                                        <li><NavLink to="/">Home</NavLink></li>
+                                        <li><NavLink to="/about">About Us</NavLink></li>
+                                        <li><NavLink to="/blog">Blog</NavLink></li>
+                                        <li className="dropdown">
+                                            <a href="#" className="dropdown-toggle" data-toggle="dropdown">Games <span className="caret"></span></a>
+                                            <ul className="dropdown-menu">
+                                                <li><NavLink to="/cricket">Cricket</NavLink></li>
+                                                <li><NavLink to="/football">Football</NavLink></li>
+                                                <li><NavLink to="/tennis">Tennis</NavLink></li>
+                                                {/* Add more game links as needed */}
+                                            </ul>
+                                        </li>
+                                        <li><NavLink to="/contact">Contact</NavLink></li>
+                                    </ul>
 
                                         <div onClick={handleRedirect} className="default-button reverse-effect whatsapp-now-header"><span>Whatsapp Now <i class="icofont-whatsapp"></i></span> </div>
                     

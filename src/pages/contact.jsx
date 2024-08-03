@@ -59,7 +59,7 @@ const ContactUs = () => {
                                      <a
                                  href={val.link}
                                  target="_blank"
-                                 rel="noopener noreferrer"
+                                 rel="noopener noreferrer nofollow"
                                  style={{ textDecoration: 'none', width:'100%' }}
                                >
                                     <div className="contact-item text-center">

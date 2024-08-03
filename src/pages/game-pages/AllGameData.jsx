@@ -247,264 +247,130 @@ export const CricketIDProvider = {
   `
 }
 export const DiamondIDProvider = {
-        title: 'Experience Online Betting with Diamond Exchange ID',
-        content: `<div class="content">
-        <h1>Experience Online Betting with Diamond Exchange ID</h1>
-        <p>Diamond Exchange, also known as Diamond Exch, is a legal and secure online betting platform offering a unique and exciting gaming experience. Established in 2022, Diamond Exchange provides users with the opportunity to play and place bets on their favorite cricket matches and games. With a focus on security and fair gaming, every customer can enjoy the game without worry.</p>
-        
-        <h2>Get Your Cricket Betting ID</h2>
-        <p>To participate in Diamond Exchange's games and bet on live cricket matches, you'll need a cricket betting ID. We've been providing these IDs for many years. To get your cricket ID, WhatsApp us at <a href="https://wa.link/diamondexchange">WhatsApp Link</a> or follow the process below.</p>
-        <a href="https://wa.link/diamondexchange" class="get-id-link">Get A 3% Bonus On Your First ID</a>
-        
-        <h2>How Do I Create a Diamond Exchange ID?</h2>
-        <p>Creating your Diamondexch 09 betting ID is simple and effortless. You only need to contact us on WhatsApp. Within a few minutes, you'll be all set to place bets with your ID.</p>
-        <a href="https://wa.link/diamondexchange" class="get-id-link">WhatsApp Us: to get the Diamond Exchange ID instantly</a>
-        
-        <h2>About Diamond Exchange 9</h2>
-        <p>Diamondexch 9 is a captivating platform in the online betting market, converging equal opportunities, profits, amusement, and excitement. Participate in online cricket events, betting, or engage in casino games to transform your time and luck into reward-winning chances.</p>
-        
-        <h3>Features of Diamondexch 9:</h3>
-        <ul>
-          <li>Explore endless possibilities: From cricket to football, basketball, and more.</li>
-          <li>Learn & win: Master the art of betting with our guides, articles, and tutorials.</li>
-          <li>24/7 Support: Our friendly team is always here to answer your questions.</li>
-          <li>Effortless experience: Enjoy a smooth, fast platform designed for mobile and desktop.</li>
-          <li>User-friendly: Perfect for new bettors, with simple and easy navigation.</li>
-        </ul>
-        
-        <h3>Criteria</h3>
-        <table>
-          <thead>
-            <tr>
-              <th>Criteria</th>
-              <th>Diamond Exchange 9</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Establishment</td>
-              <td>2022</td>
-            </tr>
-            <tr>
-              <td>Cricket ID Provided</td>
-              <td>100,000+</td>
-            </tr>
-            <tr>
-              <td>Monthly Users</td>
-              <td>Above 50,000</td>
-            </tr>
-            <tr>
-              <td>Mobile Availability</td>
-              <td>Android, iOS</td>
-            </tr>
-            <tr>
-              <td>Available Languages</td>
-              <td>English, Hindi, and more</td>
-            </tr>
-            <tr>
-              <td>Types of Casino Games</td>
-              <td>Slots, Roulette, Blackjack, Poker, Baccarat, etc.</td>
-            </tr>
-            <tr>
-              <td>Available Bet Formats</td>
-              <td>Test Matches, T20 Leagues, One-Day Internationals, and more</td>
-            </tr>
-            <tr>
-              <td>Min Deposit</td>
-              <td>₹100</td>
-            </tr>
-            <tr>
-              <td>Min Withdrawal</td>
-              <td>₹100 to Any Amount</td>
-            </tr>
-            <tr>
-              <td>Min Refill</td>
-              <td>₹100</td>
-            </tr>
-            <tr>
-              <td>Timings</td>
-              <td>24 Hours</td>
-            </tr>
-            <tr>
-              <td>Customer Support</td>
-              <td>24/7 Hours WhatsApp Support</td>
-            </tr>
-          </tbody>
-        </table>
-        
-        <h2>What Is Diamond Exchange ID?</h2>
-        <p>A Diamond Exchange ID is a password-protected unique identifier provided to gamers and punters. This ID enables you to bet on online games, live matches, casino games, daily fantasy sports, and prediction games. Our online cricket betting platform ensures safe and smooth participation in any game, anytime.</p>
-        
-        <h3>Multiple Diamond Exchange IDs:</h3>
-        <ul>
-          <li>Diamond Exchange Master ID: Offers exclusive features and betting options for new users, including participation in exclusive tournaments and matches.</li>
-          <li>Diamond Exchange 247 ID: Similar to the standard Exchange ID, but with additional features and opportunities for betting on a wide range of games.</li>
-          <li>Diamondexch 09 ID: Suitable for both beginners and professional players, providing a seamless and enjoyable betting experience.</li>
-        </ul>
-        
-        <h2>Demo IDs:</h2>
-        <table>
-          <thead>
-            <tr>
-              <th>Exchange Name</th>
-              <th>Username</th>
-              <th>Password</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Diamond Exchange</td>
-              <td>Diamond11</td>
-              <td>Abcd1234</td>
-            </tr>
-            <tr>
-              <td>Diamond Exchange09</td>
-              <td>DiamondID334</td>
-              <td>Betcricket322</td>
-            </tr>
-            <tr>
-              <td>Diamond Exchange999</td>
-              <td>BettingID7676</td>
-              <td>Diamondexch24</td>
-            </tr>
-            <tr>
-              <td>Diamond Exchange Master ID</td>
-              <td>Masterbet888</td>
-              <td>Exchange099</td>
-            </tr>
-            <tr>
-              <td>Diamond Exchange 247</td>
-              <td>cricketBet247</td>
-              <td>Exchange099</td>
-            </tr>
-            <tr>
-              <td>Diamond Bet 247</td>
-              <td>Diamondexch724</td>
-              <td>Gamesexch990</td>
-            </tr>
-          </tbody>
-        </table>
-        
-        <h2>Diamond Exchange 9 Login Process:</h2>
-        <p><strong>WhatsApp Us:</strong> Initiate contact with us through WhatsApp. We will respond promptly.</p>
-        <p><strong>Get Portal’s Link:</strong> Request the login link from our team.</p>
-        <p><strong>Enter Username and Password:</strong> Use the provided link to access the login page and enter your details.</p>
-        <p><strong>Account Access:</strong> Click on the login button to access your account.</p>
-        <p><strong>Start Betting:</strong> Explore the platform’s features and start betting on your favorite sports events or casino games.</p>
-        
-        <h2>Diamond Exchange 9 Withdrawal and Deposit Process:</h2>
-        <p>Our deposit and withdrawal process is designed to be simple and hassle-free.</p>
-        
-        <h3>Deposit and Withdrawal Details:</h3>
-        <table>
-          <thead>
-            <tr>
-              <th>Details</th>
-              <th>Minimum</th>
-              <th>Maximum</th>
-              <th>Process Time</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Min Deposit</td>
-              <td>₹100</td>
-              <td>₹49,500</td>
-              <td>Instant</td>
-            </tr>
-            <tr>
-              <td>Min Withdrawal</td>
-              <td>₹500</td>
-              <td>₹49,500</td>
-              <td>Instant</td>
-            </tr>
-            <tr>
-              <td>Min Refill</td>
-              <td>₹100</td>
-              <td>₹49,500</td>
-              <td>Instant</td>
-            </tr>
-          </tbody>
-        </table>
-        
-        <a href="https://wa.link/diamondexchange" class="get-id-link">WhatsApp Us: For adding or withdrawing funds, contact us via WhatsApp.</a>
-        
-        <h2>Why Is Diamond Exchange 9 A Great Betting Exchange Platform?</h2>
-        <p>Diamond Exchange 9 stands out for its easy-to-use interface, numerous betting markets, and responsive customer support. From famous sports like cricket and football to Esports and political events, this platform offers a wide range of betting opportunities.</p>
-        
-        <h3>Key Benefits:</h3>
-        <ul>
-          <li>Easy-to-use features and clear layout.</li>
-          <li>Numerous betting markets.</li>
-          <li>Responsive customer support to address any concerns.</li>
-        </ul>
-        
-        <h2>Why Should You Bet On Cricket At The Diamond Exchange?</h2>
-        <p>Betting on cricket at Diamond Exchange offers multiple advantages, including unlimited access to cricket betting markets and competitive odds on matches.</p>
-        
-        <h3>Available Cricket Matches and Formats:</h3>
-        <ul>
-          <li>Indian Premier League: Bet on every match, run, and wicket.</li>
-          <li>International Test Matches: Place bets on iconic rivalries.</li>
-          <li>T20 Matches: Bet on energetic T20 cricket across various leagues and national teams.</li>
-        </ul>
-        
-        <h3>Types of Cricket Bets:</h3>
-        <ul>
-          <li>Match Winners: Predict the victor.</li>
-          <li>Top Performers: Bet on the top batsman, bowler, or scorer.</li>
-          <li>Innings and Totals: Over/under bets and specific innings totals.</li>
-        </ul>
-        
-        <h3>Other Betting Options:</h3>
-        <ul>
-          <li><strong>Bet On Live Matches:</strong> Football: Premier League, La Liga, Serie A, Bundesliga, UEFA Champions League, and more.</li>
-          <li>Tennis: Grand Slam tournaments and ATP/WTA Tour events.</li>
-          <li>Esports: League of Legends, CS:GO, Dota 2, and more.</li>
-          <li><strong>Bet On Online Games:</strong> Fantasy Sports: Fantasy Cricket, Football, Basketball, Tennis, Kabaddi, etc.</li>
-          <li>Casino Games: Blackjack, Roulette, Baccarat, Poker, Slots, etc.</li>
-          <li>Virtual Sports: Virtual Football, Horse Racing, Tennis, etc.</li>
-          <li>Live Dealer Games: Live Blackjack, Live Roulette, Live Baccarat, etc.</li>
-        </ul>
-        
-        <h2>Fantasy Sports On Diamond Exchange 9:</h2>
-        <ul>
-          <li>Football: Wide range of betting options for football leagues.</li>
-          <li>Basketball: Betting options for the NBA and other major leagues.</li>
-          <li>Tennis: Betting options for Grand Slams, ATP, and WTA tournaments.</li>
-          <li>More to Explore: Kabaddi, Hockey, and Esports.</li>
-        </ul>
-        
-        <h2>What Are The Risks Of Using The Diamond Exchange Platform?</h2>
-        <p>While Diamond Exchange offers numerous benefits, it is important to be aware of potential risks:</p>
-        
-        <h3>Financial Risk:</h3>
-        <p>Betting involves the possibility of losing money. Only wager what you can afford to lose.</p>
-        
-        <h3>Market Unpredictability:</h3>
-        <p>Odds change based on various factors, making betting markets unpredictable.</p>
-        
-        <h3>Security Concerns:</h3>
-        <p>While we prioritize security, no platform is entirely immune to breaches.</p>
-        
-        <h3>Addiction Risk:</h3>
-        <p>Betting can be addictive. Gamble responsibly and seek help if needed.</p>
-        
-        <p>Create your Exchange ID today and get a chance to receive up to a 50% bonus.</p>
-        
-        <h2>Tips And Tricks To Place Bets On Online Games And Live Matches:</h2>
-        <ul>
-          <li>Bet on Familiar Games: Place bets on games you fully understand.</li>
-          <li>Utilize Bonus Amounts Wisely: Use bonuses for smaller bets to maximize winnings.</li>
-          <li>Manage Your Budget: Set a budget and stick to it to avoid heavy losses.</li>
-          <li>Consider Skill-based Games: Play skill-based games like poker for better chances of winning.</li>
-          <li>Avoid Overconfidence: Stay grounded and maintain your game.</li>
-        </ul>
-        
-        <p class="disclaimer">Disclaimer: Gambling can be addictive. Please play responsibly.</p>
-        </div>`
+    title: 'Experience Online Betting with Diamond Exchange ID',
+    content: `<div class="content">
+    <h1>Experience Online Betting with Diamond Exchange ID</h1>
+    <p>Diamond Exchange, also known as Diamond Exch, is a legal and secure online betting platform offering a unique and exciting gaming experience. Established in 2022, Diamond Exchange provides users with the opportunity to play and place bets on their favorite cricket matches and games. With a focus on security and fair gaming, every customer can enjoy the game without worry.</p>
     
+    <h2>Get Your Cricket Betting ID</h2>
+    <p>To participate in Diamond Exchange's games and bet on live cricket matches, you'll need a cricket betting ID. We've been providing these IDs for many years. To get your cricket ID, WhatsApp us at <a href="https://wa.link/diamondexchange">WhatsApp Link</a> or follow the process below.</p>
+    <a href="https://wa.link/diamondexchange" class="get-id-link">Get A 3% Bonus On Your First ID</a>
+    
+    <h2>How Do I Create a Diamond Exchange ID?</h2>
+    <p>Creating your Diamondexch 09 betting ID is simple and effortless. You only need to contact us on WhatsApp. Within a few minutes, you'll be all set to place bets with your ID.</p>
+    <a href="https://wa.link/diamondexchange" class="get-id-link">WhatsApp Us: to get the Diamond Exchange ID instantly</a>
+    
+    <h2>About Diamond Exchange 9</h2>
+    <p>Diamondexch 9 is a captivating platform in the online betting market, converging equal opportunities, profits, amusement, and excitement. Participate in online cricket events, betting, or engage in casino games to transform your time and luck into reward-winning chances.</p>
+    
+    <h3>Features of Diamondexch 9:</h3>
+    <ul>
+      <li>Explore endless possibilities: From cricket to football, basketball, and more.</li>
+      <li>Learn & win: Master the art of betting with our guides, articles, and tutorials.</li>
+      <li>24/7 Support: Our friendly team is always here to answer your questions.</li>
+      <li>Effortless experience: Enjoy a smooth, fast platform designed for mobile and desktop.</li>
+      <li>User-friendly: Perfect for new bettors, with simple and easy navigation.</li>
+    </ul>
+    
+    <h3>Criteria and Key Details</h3>
+    <ul>
+      <li><strong>Establishment:</strong> 2022</li>
+      <li><strong>Cricket IDs Provided:</strong> 100,000+</li>
+      <li><strong>Monthly Users:</strong> Above 50,000</li>
+      <li><strong>Mobile Availability:</strong> Android, iOS</li>
+      <li><strong>Available Languages:</strong> English, Hindi, and more</li>
+      <li><strong>Types of Casino Games:</strong> Slots, Roulette, Blackjack, Poker, Baccarat, etc.</li>
+      <li><strong>Available Bet Formats:</strong> Test Matches, T20 Leagues, One-Day Internationals, and more</li>
+      <li><strong>Min Deposit:</strong> ₹100</li>
+      <li><strong>Min Withdrawal:</strong> ₹100 to Any Amount</li>
+      <li><strong>Min Refill:</strong> ₹100</li>
+      <li><strong>Timings:</strong> 24 Hours</li>
+      <li><strong>Customer Support:</strong> 24/7 Hours WhatsApp Support</li>
+    </ul>
+    
+    <h2>What Is Diamond Exchange ID?</h2>
+    <p>A Diamond Exchange ID is a password-protected unique identifier provided to gamers and punters. This ID enables you to bet on online games, live matches, casino games, daily fantasy sports, and prediction games. Our online cricket betting platform ensures safe and smooth participation in any game, anytime.</p>
+    
+    <h3>Multiple Diamond Exchange IDs:</h3>
+    <ul>
+      <li><strong>Diamond Exchange Master ID:</strong> Offers exclusive features and betting options for new users, including participation in exclusive tournaments and matches.</li>
+      <li><strong>Diamond Exchange 247 ID:</strong> Similar to the standard Exchange ID, but with additional features and opportunities for betting on a wide range of games.</li>
+      <li><strong>Diamondexch 09 ID:</strong> Suitable for both beginners and professional players, providing a seamless and enjoyable betting experience.</li>
+    </ul>
+    
+    <h2>Demo IDs</h2>
+    <p>Use the following demo IDs to explore the platform:</p>
+    <ul>
+      <li><strong>Diamond Exchange:</strong> Username: Diamond11, Password: Abcd1234</li>
+      <li><strong>Diamond Exchange09:</strong> Username: DiamondID334, Password: Betcricket322</li>
+      <li><strong>Diamond Exchange999:</strong> Username: BettingID7676, Password: Diamondexch24</li>
+      <li><strong>Diamond Exchange Master ID:</strong> Username: Masterbet888, Password: Exchange099</li>
+      <li><strong>Diamond Exchange 247:</strong> Username: cricketBet247, Password: Exchange099</li>
+      <li><strong>Diamond Bet 247:</strong> Username: Diamondexch724, Password: Gamesexch990</li>
+    </ul>
+    
+    <h2>Diamond Exchange 9 Login Process:</h2>
+    <ol>
+      <li><strong>WhatsApp Us:</strong> Initiate contact with us through WhatsApp. We will respond promptly.</li>
+      <li><strong>Get Portal’s Link:</strong> Request the login link from our team.</li>
+      <li><strong>Enter Username and Password:</strong> Use the provided link to access the login page and enter your details.</li>
+      <li><strong>Account Access:</strong> Click on the login button to access your account.</li>
+      <li><strong>Start Betting:</strong> Explore the platform’s features and start betting on your favorite sports events or casino games.</li>
+    </ol>
+    
+    <h2>Diamond Exchange 9 Withdrawal and Deposit Process:</h2>
+    <p>Our deposit and withdrawal process is designed to be simple and hassle-free.</p>
+    
+    <h3>Deposit and Withdrawal Details:</h3>
+    <ul>
+      <li><strong>Min Deposit:</strong> ₹100 - Maximum: ₹49,500 - Process Time: Instant</li>
+      <li><strong>Min Withdrawal:</strong> ₹500 - Maximum: ₹49,500 - Process Time: Instant</li>
+      <li><strong>Min Refill:</strong> ₹100 - Maximum: ₹49,500 - Process Time: Instant</li>
+    </ul>
+    
+    <a href="https://wa.link/diamondexchange" class="get-id-link">WhatsApp Us: For adding or withdrawing funds, contact us via WhatsApp.</a>
+    
+    <h2>Why Is Diamond Exchange 9 A Great Betting Exchange Platform?</h2>
+    <p>Diamond Exchange 9 stands out for its easy-to-use interface, numerous betting markets, and responsive customer support. From famous sports like cricket and football to Esports and political events, this platform offers a wide range of betting opportunities.</p>
+    
+    <h3>Key Benefits:</h3>
+    <ul>
+      <li>Easy-to-use features and clear layout.</li>
+      <li>Numerous betting markets.</li>
+      <li>Responsive customer support to address any concerns.</li>
+    </ul>
+    
+    <h2>Why Should You Bet On Cricket At The Diamond Exchange?</h2>
+    <p>Betting on cricket at Diamond Exchange offers multiple advantages, including unlimited access to cricket betting markets and competitive odds on matches.</p>
+    
+    <h3>Available Cricket Matches and Formats:</h3>
+    <ul>
+      <li>Indian Premier League: Bet on every match, run, and wicket.</li>
+      <li>International Test Matches: Place bets on iconic rivalries.</li>
+      <li>T20 Matches: Bet on energetic T20 cricket across various leagues and national teams.</li>
+    </ul>
+    
+    <h3>Types of Cricket Bets:</h3>
+    <ul>
+      <li>Match Winners: Predict the victor.</li>
+      <li>Top Performers: Bet on the top batsman, bowler, or scorer.</li>
+      <li>Innings and Totals: Over/under bets and specific innings totals.</li>
+    </ul>
+    
+    <h3>Other Betting Options:</h3>
+    <ul>
+      <li><strong>Bet On Live Matches:</strong> Football: Premier League, La Liga, Serie A, Bundesliga, UEFA Champions League, and more.</li>
+      <li>Tennis: Grand Slam tournaments and ATP/WTA Tour events.</li>
+      <li>Esports: League of Legends, CS:GO, Dota 2, and more.</li>
+      <li><strong>Bet On Online Games:</strong> Fantasy Sports: Fantasy Cricket, Football, Kabaddi, etc.</li>
+      <li>Online Casino Games: Roulette, Blackjack, Slots, etc.</li>
+      <li>Live Casino: Real-time games with live dealers.</li>
+    </ul>
+    
+    <a href="https://wa.link/diamondexchange" class="get-id-link">WhatsApp Us: Get your cricket betting ID and play at Diamond Exchange 9.</a>
+    </div>`
 }
+
 export const IPLIDProvider = {
     title: 'Your Trusted IPL Betting ID Provider: DR DIAMOND',
     content: `<div class="content">

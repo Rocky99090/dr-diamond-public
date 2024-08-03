@@ -18,60 +18,59 @@ const TeamSinglePage = () => {
     return (
         <>
             {/* Mission Section */}
-            <section className="about-team padding-top padding-bottom mission">
+            <section className="about-team padding-top padding-bottom mission" style={{ backgroundColor: '#ffffff' }}>
                 <Container maxWidth="md" style={{ margin: '0 auto' }}>
                     <Grid container direction="column" alignItems="center" spacing={2}>
                         <Grid item>
-                            <Typography variant="h6" >{subtitleMission}</Typography>
-                            <Typography variant="h4" className="mb-3">{titleMission}</Typography>
-                            <Typography variant="body1" className="desc">{descMission}</Typography>
+                            <Typography variant="h6" color="textPrimary" >{subtitleMission}</Typography>
+                            <Typography variant="h4" color="primary" className="mb-3">{titleMission}</Typography>
+                            <Typography variant="body1" color="textPrimary" className="desc">{descMission}</Typography>
                         </Grid>
                         {/* CTA Image */}
                         
-                        <div className="button-wrapper text-center mt-5 ">
-                        <Box
-      className="default-button"
-      sx={{ cursor: 'pointer' }}
-      onClick={handleRedirect}
-    >
-      <Typography variant="span" color="textPrimary" className="desc">
-        Whatsapp Now <i className="icofont-whatsapp"></i>
-      </Typography>
-    </Box>   </div>
+                        <div className="button-wrapper text-center mt-5 " style={{cursor:'pointer'}}>
+                    <div onClick={handleRedirect} className="default-button reverse-effect">
+                        <span>Whatsapp Now <i className="icofont-whatsapp"></i></span>
+                    </div>
+                </div>
                     </Grid>
                 </Container>
             </section>
 
             {/* Vision Section */}
-            <section className="about-team padding-top padding-bottom vision" style={{ backgroundColor: '#ffffff' }}>
+            <section className="about-team padding-top padding-bottom vision" >
                 <Container maxWidth="md" style={{ margin: '0 auto' }}>
                     <Grid container direction="column" alignItems="center" spacing={2}>
                         <Grid item>
-                            <Typography variant="h6" color="textPrimary">{subtitleVision}</Typography>
-                            <Typography variant="h4" color="primary" className="mb-3">{titleVision}</Typography>
-                            <Typography variant="body1" color="textPrimary">{descVision}</Typography>
+                            <Typography variant="h6" >{subtitleVision}</Typography>
+                            <Typography variant="h4"  className="mb-3">{titleVision}</Typography>
+                            <Typography variant="body1" >{descVision}</Typography>
                         </Grid>
                         {/* CTA Image */}
-                        <div className="button-wrapper text-center mt-5 "> 
-                        <Box className="default-button reverse-effect" onClick={handleRedirect} sx={{cursor:'pointer'}}><Typography variant="span" color='white' className="desc">Whatsapp Now  <i class="icofont-whatsapp"></i></Typography> </Box>
-                        </div>
+                        <div className="button-wrapper text-center mt-5 " style={{cursor:'pointer'}}>
+                    <div onClick={handleRedirect} className="default-button reverse-effect">
+                        <span>Whatsapp Now <i className="icofont-whatsapp"></i></span>
+                    </div>
+                </div>
                     </Grid>
                 </Container>
             </section>
 
             {/* Join Section */}
-            <section className="about-team padding-top padding-bottom join-team" >
+            <section className="about-team padding-top padding-bottom join-team" style={{ backgroundColor: '#ffffff' }} >
                 <Container maxWidth="md" style={{ margin: '0 auto' }}>
                     <Grid container direction="column" alignItems="center" spacing={2}>
                         <Grid item>
-                            <Typography variant="h6" >{subtitleJoin}</Typography>
-                            <Typography variant="h4" className="mb-3">{titleJoin}</Typography>
-                            <Typography variant="body1" className="desc">{descJoin}</Typography>
+                            <Typography variant="h6" color="textPrimary" >{subtitleJoin}</Typography>
+                            <Typography variant="h4 " color="primary" className="mb-3">{titleJoin}</Typography>
+                            <Typography variant="body1" color="textPrimary" className="desc">{descJoin}</Typography>
                         </Grid>
                         {/* CTA Image */}
-                        <div className="button-wrapper text-center mt-5 ">
-                        <Box className="default-button "  onClick={handleRedirect} sx={{cursor:'pointer'}}><Typography variant="span" color='textPrimary' className="desc">Whatsapp Now  <i class="icofont-whatsapp"></i></Typography> </Box>
-                        </div>
+                        <div className="button-wrapper text-center mt-5 " style={{cursor:'pointer'}}>
+                    <div onClick={handleRedirect} className="default-button reverse-effect">
+                        <span>Whatsapp Now <i className="icofont-whatsapp"></i></span>
+                    </div>
+                </div>
                     </Grid>
                 </Container>
             </section>

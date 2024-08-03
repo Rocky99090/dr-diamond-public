@@ -86,17 +86,27 @@ function Header() {
           <div className="mobile-logo d-lg-none">
                                         <Link to="/"><img src="/assets/images/logo/logo_2.png" alt="logo" /></Link>
            </div>
-          <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' }, justifyContent: 'center', gap:'30px' }}>
-            {pages.map((page) => (
-               <Typography variant='p'  sx={{textDecoration:'none'}} textAlign="center"><NavLink sx={{textDecoration:'none'}} to={page.id}>{page.title}</NavLink></Typography>
-            ))}
-          </Box>
-
-            <Tooltip title="Open games">
-              <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
-                <Typography sx={{color:'white'}}>Games</Typography>
-              </IconButton>
-            </Tooltip>
+              <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' }, justifyContent: 'center', gap: '30px' }}>
+      {pages.map((page, index) => (
+        <>
+          {page.title === 'Blogs' && (
+            // Insert "Games" button after "About Us"
+            <Typography key="games" variant='body1' sx={{ textDecoration: 'none' }} textAlign="center">
+              <Tooltip title="Open games">
+                <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
+                  <Typography sx={{ color: 'white' }}>Games</Typography>
+                </IconButton>
+              </Tooltip>
+            </Typography>
+          )}
+          <Typography key={index} variant='body1' sx={{ textDecoration: 'none' }} textAlign="center">
+            <NavLink style={{ textDecoration: 'none', color: 'inherit' }} to={page.id}>
+              {page.title}
+            </NavLink>
+          </Typography>
+        </>
+      ))}
+    </Box>
             <Menu
               sx={{ mt: '45px' }}
               id="menu-appbar"
@@ -119,6 +129,13 @@ function Header() {
                 </MenuItem>
               ))}
             </Menu>
+            <Typography className='d-lg-none' key="games" variant='body1' sx={{ textDecoration: 'none' }} textAlign="center">
+              <Tooltip title="Open games">
+                <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
+                  <Typography sx={{ color: 'white' }}>Games</Typography>
+                </IconButton>
+              </Tooltip>
+            </Typography>
         </Toolbar>
       </Container>
     </AppBar>

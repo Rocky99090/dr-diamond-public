@@ -239,6 +239,7 @@ body a {
   display: inline-block;
   text-decoration: none;
   color: #fff;
+  cursor: pointer;
 }
 body a:hover {
   color: #fff;
@@ -1638,10 +1639,9 @@ ul li {
   border-radius: 3px;
   background-color: rgba(255, 255, 255, 0.1);
 }
-.item-layer:hover {
+/* .item-layer:hover {
   transform: translateY(10px);
-  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.4);
-}
+} */
 .item-layer:hover:after,
 .item-layer:hover:before {
   opacity: 0;

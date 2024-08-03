@@ -10,30 +10,6 @@ const newsTitle = "Follow Us";
 const desc = "At Diamond Exchange, we have been the beloved choice for punters searching to strike gold and win big. Whether it's IPL Cricket, Tennis, Football, or other sports, we offer thrilling opportunities. Additionally, you can test your skills with games like Teen Patti and Andar Bahar, or immerse yourself in the excitement of Live Casino games such as Lucky 7, Lion Dragon Tiger, and many more.";
 const newsdesc = "At Diamond Exchange, we have been the beloved choice for punters searching to strike gold and win big.";
 
-const FooterItemList = [
-    {
-        imgUrl: '/assets/images/game/dice.gif',
-        imgAlt: 'Casino',
-        title: 'Casino',
-        proName: 'Poker',
-        proPrice: '$230',
-    },
-    {
-        imgUrl: '/assets/images/game/cricket.gif',
-        imgAlt: 'Cricket',
-        title: 'Cricket',
-        proName: 'Poker',
-        proPrice: '$230',
-    },
-    {
-        imgUrl: '/assets/images/game/plane.gif',
-        imgAlt: 'GO-CRASH',
-        title: 'GO-CRASH',
-        proName: 'Poker',
-        proPrice: '$300',
-    },
-];
-
 const Footer = () => {
 
 
@@ -101,18 +77,29 @@ const Footer = () => {
                                     </div>
                                     <div className="fm-item-content">
                                     <ul className="icons-list">   
-                                            <li><a href="https://www.instagram.com/drdiamondexch" 
-                                 target="_blank"
-                                 rel="noopener noreferrer"><i className="icofont-instagram"></i></a>
-                                            
-                                            </li>
-                                            <li><a href="https://t.me/drdiamondexch" 
-                                 target="_blank"
-                                 rel="noopener noreferrer"><i className="icofont-telegram"></i></a></li>
-                                            <li><a href="mailto:drdiamondexchhelp@gmail.com" 
-                                 target="_blank"
-                                 rel="noopener noreferrer"><i className="icofont-facebook"></i></a></li>
-                                        </ul>
+                                        <li>
+                                            <a href="https://www.instagram.com/drdiamondexch" 
+                                            target="_blank"
+                                            rel="noopener noreferrer nofollow">
+                                            <i className="icofont-instagram"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://t.me/drdiamondexch" 
+                                            target="_blank"
+                                            rel="noopener noreferrer nofollow">
+                                            <i className="icofont-telegram"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="mailto:drdiamondexchhelp@gmail.com" 
+                                            target="_blank"
+                                            rel="noopener noreferrer nofollow">
+                                            <i className="icofont-facebook"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+
                                     </div>
                                 </div>
                             </div>

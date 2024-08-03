@@ -21,10 +21,10 @@ class AboutPage extends Component {
                 <HeroThree />
                 {/* <AboutSection imgUrl={'assets/images/about/diamond-exchange-phone-mockup.webp'} /> */}
                 <TeamSinglePage />
-                
+                <SponsorSection />
                 <CtaSection imgUrl={'assets/images/cta/01.png'} />
                 <HrShape />
-                <SponsorSection />
+               
                 <Footer />
             </Fragment>
         );

@@ -183,7 +183,7 @@ const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
                         ))
                     )}
                 </div>
-                <div className="button-wrapper text-center mt-5">
+                <div className="button-wrapper text-center mt-5" style={{cursor:'pointer'}}>
                     <div onClick={handleRedirect} className="default-button reverse-effect">
                         <span>Whatsapp Now <i className="icofont-whatsapp"></i></span>
                     </div>

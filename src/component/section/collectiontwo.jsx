@@ -32,7 +32,7 @@ const CollectionSectionTwo = () => {
         return () => clearInterval(intervalId);
     }, [targetTrustedUsers, targetTotalPrizes, targetDailyContests, targetLuckyWinners]);
     return (
-        <section className="footer-section padding-top">
+        <section className="footer-section ">
             <div className="footer-top">
                 <div className="container">
                 <div className="section-header">
