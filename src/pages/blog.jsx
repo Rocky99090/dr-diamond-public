@@ -1,17 +1,26 @@
 import React, { Fragment } from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import Footer from "../component/layout/footer";
 import Header from "../component/layout/header";
 import PageHeader from "../component/layout/pageheader";
 import { blogData } from "./BlogData/blogData";
 import { truncateDescription } from "../Utilities/TruncateText";
 import HeroThree from "../component/section/hero/hero-blog";
-
+import MetaDecorator from "../Decorator/MetaDecorator";
+const content = require("../SeoData/BlogData.json");
 
 
 const BlogPage = () => {
+    const location = useLocation();
+  
     return (
         <Fragment>
+              <MetaDecorator
+    description={content.description}
+    title={content.title}
+    keywords={content.keywords}
+    pathname={location.pathname}
+/>
             <Header />
             <HeroThree />
             {/* <PageHeader title={'OUR BLOG POSTS'} curPage={'Blog'} /> */}

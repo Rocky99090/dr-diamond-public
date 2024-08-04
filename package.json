@@ -23,7 +23,9 @@
     "react-slick": "^0.30.2",
     "slick-carousel": "^1.8.1",
     "swiper": "^8.1.4",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "react-helmet": "^6.1.0",
+    "react-helmet-async": "^2.0.3"
   },
   "devDependencies": {
     "postcss": "^8.4.21",

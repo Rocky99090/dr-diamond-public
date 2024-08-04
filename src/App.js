@@ -32,6 +32,7 @@ import DiamondID from "./pages/game-pages/diamondDProvider";
 import IPLID from "./pages/game-pages/IPLIDProvider";
 import T20ID from "./pages/game-pages/T20WorldCupIDProvider";
 import CasinoID from "./pages/game-pages/CasinoBettingIDProvider";
+import { HelmetProvider } from "react-helmet-async";
 
 // import Footer from "./component/layout/footer";
 // import Header from "./component/layout/header";
@@ -48,6 +49,7 @@ function App() {
 		// <div className="App">
 		// 	<ShopPage />
 		// </div>
+    <HelmetProvider>
 		<BrowserRouter>
 			<ScrollToTop />
 			<Box
@@ -93,6 +95,7 @@ function App() {
         <Route path="ipl-id-provider" element={<IPLID />} />
 			</Routes>
 		</BrowserRouter>
+    </HelmetProvider>
 	);
 }
 
