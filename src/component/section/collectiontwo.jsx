@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Rating from './rating';
 import { Typography } from '@mui/material';
 
-const title = "Our Game Collection";
+const title = "India's No.1 Gaming Platform";
 const subtitle = "today's";
 const btnText = "Browse All games";
 
@@ -36,8 +36,8 @@ const CollectionSectionTwo = () => {
             <div className="footer-top">
                 <div className="container">
                 <div className="section-header">
-    <Typography variant="h4" className="custom-heading">
-        Best Exchange in the World
+    <Typography variant="h2" className="custom-heading">
+        India's No.1 Book
     </Typography>
 </div>
                     <div className="row g-3 justify-content-center g-lg-0">
