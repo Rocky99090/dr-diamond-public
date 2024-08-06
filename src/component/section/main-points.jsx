@@ -7,7 +7,7 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import { handleRedirect } from '../../env/credentials';
 
-const title = "Why Should you prefer DR Diamond Exchange?";
+const title = "Why Should you prefer DR DIAMOND EXCHANGE?";
 
 const SponsorListContent = [
     {

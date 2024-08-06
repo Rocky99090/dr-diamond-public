@@ -3,9 +3,9 @@ export const CricketIDProvider = {
     content:`<div class="content">
     <h1>Your Most Trusted Cricket Betting Platform in India</h1>
     <p>
-      Operating since 2011, DR DIAMOND is recognized as the most reliable provider of online cricket betting IDs in India and beyond. We offer a straightforward and hassle-free process for creating online cricket IDs and other betting IDs to engage in various sports such as online Roulette, daily fantasy sports, and live cricket matches. Our extensive experience, transparency, multiple game options, certified online IDs, and 24/7 customer support distinguish us in the market.
+      Operating since 2011, DR DIAMOND EXCHANGE is recognized as the most reliable provider of online cricket betting IDs in India and beyond. We offer a straightforward and hassle-free process for creating online cricket IDs and other betting IDs to engage in various sports such as online Roulette, daily fantasy sports, and live cricket matches. Our extensive experience, transparency, multiple game options, certified online IDs, and 24/7 customer support distinguish us in the market.
     </p>
-    <p>Looking for all cricket IDs? DR DIAMOND is your go-to destination. With over 200 games, live IPL scores, updated matches, and numerous casino games, we keep you entertained all day. You can play, win, and earn money with ease. Simply send us a WhatsApp message, and receive your ID in less than a minute.</p>
+    <p>Looking for all cricket IDs? DR DIAMOND EXCHANGE is your go-to destination. With over 200 games, live IPL scores, updated matches, and numerous casino games, we keep you entertained all day. You can play, win, and earn money with ease. Simply send us a WhatsApp message, and receive your ID in less than a minute.</p>
     <a href="https://wa.link/drdiamondseoseo" class="get-id-link">WhatsApp Us Here</a>
     
     <h2>Get Your ID Now</h2>
@@ -27,8 +27,8 @@ export const CricketIDProvider = {
       <li>Enter the Amount and Confirm: Enter your bet amount (starting from Rs 100) and click confirm. Your bet is now placed. Enjoy!</li>
     </ol>
     
-    <h2>Online Cricket Betting ID by DR DIAMOND</h2>
-    <p>Since 2011, DR DIAMOND has been a legal and trusted provider of online cricket IDs. We offer specialized portals and user-friendly platforms for over 32 games and sports.</p>
+    <h2>Online Cricket Betting ID by DR DIAMOND EXCHANGE</h2>
+    <p>Since 2011, DR DIAMOND EXCHANGE has been a legal and trusted provider of online cricket IDs. We offer specialized portals and user-friendly platforms for over 32 games and sports.</p>
     <p>Our platforms ensure transparency and security, facilitating smooth transactions worldwide. We pride ourselves on building a community where participants earn significant amounts daily.</p>
     <ul>
       <li>Unlimited sports options</li>
@@ -55,8 +55,8 @@ export const CricketIDProvider = {
       <strong>Bonuses and Promotions:</strong> Yes, a 3% bonus for new users
     </p>
     
-    <h2>What DR DIAMOND Offers</h2>
-    <p>DR DIAMOND provides two types of cricket betting options: cricket trading and match prediction bets, each offering different excitement levels.</p>
+    <h2>What DR DIAMOND EXCHANGE Offers</h2>
+    <p>DR DIAMOND EXCHANGE provides two types of cricket betting options: cricket trading and match prediction bets, each offering different excitement levels.</p>
     
     <h3>Cricket Trading</h3>
     <p>Cricket trading is similar to stock market trading, where you trade the odds of specific events in a match. The odds change based on performance and game flow. Take advantage of these changes! Buy low-value odds and sell high to maximize profits with back and lay bets.</p>
@@ -126,16 +126,16 @@ export const CricketIDProvider = {
     <h2>Top Rated Online Cricket IDs</h2>
     <p>Various online cricket betting IDs are available, and we have gathered some of the best and top-rated ones.</p>
     
-    <h3>DR DIAMOND Exchange ID</h3>
-    <p>Rated as one of the best IDs for cricket betting, the DR DIAMOND Exchange ID allows you to place bets on cricket matches, national and international tournaments, leagues, or series worldwide.</p>
+    <h3>DR DIAMOND EXCHANGE ID</h3>
+    <p>Rated as one of the best IDs for cricket betting, the DR DIAMOND EXCHANGE ID allows you to place bets on cricket matches, national and international tournaments, leagues, or series worldwide.</p>
     <ul>
       <li>Wide range of sports betting markets</li>
       <li>Secure payment options</li>
       <li>Live betting feature</li>
     </ul>
-   <a href="https://wa.link/drdiamondseoseo" class="get-id-link">WhatsApp Us: to get the DR DIAMOND Exchange ID instantly</a>
+   <a href="https://wa.link/drdiamondseoseo" class="get-id-link">WhatsApp Us: to get the DR DIAMOND EXCHANGE ID instantly</a>
     
-    <h3>DR DIAMONDexch VIP ID</h3>
+    <h3>DR DIAMOND EXCHANGEexch VIP ID</h3>
     <p>Offers access to all types of games, matches, and bets on our platform, with exclusive features and benefits.</p>
     <ul>
       <li>Quick access to accounts</li>
@@ -144,7 +144,7 @@ export const CricketIDProvider = {
       <li>Flexible payment methods</li>
     </ul>
     
-    <h3>DR DIAMONDExch 247 ID</h3>
+    <h3>DR DIAMOND EXCHANGEExch 247 ID</h3>
     <p>Provides excellent odds, exciting bonuses, and a wide variety of sports.</p>
     <ul>
       <li>Seamless access to betting markets</li>
@@ -188,7 +188,7 @@ export const CricketIDProvider = {
     </ul>
     
     <h2>How Are Odds Calculated In Online Cricket?</h2>
-    <p>DR DIAMOND follows a straightforward process for calculating winnings. The final amount depends on your betting amount and odds. For example, if you bet Rs 1000 with odds of 2.50, your total return would be Rs 2500.</p>
+    <p>DR DIAMOND EXCHANGE follows a straightforward process for calculating winnings. The final amount depends on your betting amount and odds. For example, if you bet Rs 1000 with odds of 2.50, your total return would be Rs 2500.</p>
     
     <h2>Can You Withdraw Money Won From Bonus Bet?</h2>
     <p>Bonus money cannot be withdrawn but can be used for placing more bets, increasing your chances of winning.</p>
@@ -196,8 +196,8 @@ export const CricketIDProvider = {
     <h2>New to the Platform? Discover Our Exciting Bonuses!</h2>
     <p>3% welcome bonus</p>
     
-    <h2>Why Choose DR DIAMOND For Online Cricket Betting ID</h2>
-    <p>DR DIAMOND has won the trust of thousands of customers in India and abroad with its reliable online betting IDs. We offer a seamless and user-friendly website, easy cash withdrawal, multiple payment options, and 24/7 customer support.</p>
+    <h2>Why Choose DR DIAMOND EXCHANGE For Online Cricket Betting ID</h2>
+    <p>DR DIAMOND EXCHANGE has won the trust of thousands of customers in India and abroad with its reliable online betting IDs. We offer a seamless and user-friendly website, easy cash withdrawal, multiple payment options, and 24/7 customer support.</p>
     
     <h3>Bonuses and Promotions</h3>
     <p>New users receive a 3% welcome bonus, which can go up to 30-50% on special occasions.</p>
@@ -216,7 +216,7 @@ export const CricketIDProvider = {
       <thead>
         <tr>
           <th>Criteria</th>
-          <th>DR DIAMOND</th>
+          <th>DR DIAMOND EXCHANGE</th>
           <th>Other Cricket ID Providers</th>
         </tr>
       </thead>
@@ -375,34 +375,34 @@ export const IPLIDProvider = {
     title: 'Get Online IPL Crikcet ID: DR DIAMOND EXCHANGE',
     content: `<div class="content">
     <h1>Your Trusted IPL Cricket Betting ID Provider in India</h1>
-    <p>DR DIAMOND is your trusted and most reliable IPL betting ID provider. We help you create an online ID in just a minute so you can enjoy the thrill of online betting from the comfort of your home. We also provide cricket IDs for all types of matches and series.</p>
+    <p>DR DIAMOND EXCHANGE is your trusted and most reliable IPL betting ID provider. We help you create an online ID in just a minute so you can enjoy the thrill of online betting from the comfort of your home. We also provide cricket IDs for all types of matches and series.</p>
     
     <h2>Get Your Online IPL Cricket ID</h2>
     <p>To get your IPL betting ID, follow these simple steps:</p>
     <ol>
-        <li>Visit our website at <a href="https://drdiamond.com">DR DIAMOND.in</a>.</li>
+        <li>Visit our website at <a href="https://drdiamond.com">DR DIAMOND EXCHANGE.in</a>.</li>
         <li>Click on the login or sign-in button to begin your registration.</li>
         <li>Contact us on WhatsApp at <a href="https://wa.link/drdiamondseo">WhatsApp Link</a> for your online betting ID.</li>
     </ol>
     
-    <h2>Legal IPL Online Betting ID by DR DIAMOND</h2>
-    <p>Join DR DIAMOND for a secure and legal online betting experience. Create your IPL betting ID in just a few simple steps and start betting on all BCCI events like IPL matches, World Cup, and ODIs.</p>
+    <h2>Legal IPL Online Betting ID by DR DIAMOND EXCHANGE</h2>
+    <p>Join DR DIAMOND EXCHANGE for a secure and legal online betting experience. Create your IPL betting ID in just a few simple steps and start betting on all BCCI events like IPL matches, World Cup, and ODIs.</p>
     
     <h2>Predict and Win in This IPL Season</h2>
-    <p>Winning cash by predicting the winner of IPL’s every season is exciting and rewarding with DR DIAMOND. Gain access to match previews, various betting options, and complete match analyses.</p>
+    <p>Winning cash by predicting the winner of IPL’s every season is exciting and rewarding with DR DIAMOND EXCHANGE. Gain access to match previews, various betting options, and complete match analyses.</p>
     
     <h2>IPL 2024 Betting ID</h2>
-    <p>Get closer to the IPL action with DR DIAMOND’s exclusive IPL betting ID. Indulge in the excitement of IPL matchups, watch previews, understand the game, and place your bet confidently.</p>
+    <p>Get closer to the IPL action with DR DIAMOND EXCHANGE’s exclusive IPL betting ID. Indulge in the excitement of IPL matchups, watch previews, understand the game, and place your bet confidently.</p>
     
-    <h2>Why DR DIAMOND is the Best IPL Betting ID Provider?</h2>
-    <p>DR DIAMOND offers a safe and secure platform for IPL betting. With a user-friendly interface, advanced features, and 24/7 customer support, we ensure a smooth and enjoyable betting experience.</p>
+    <h2>Why DR DIAMOND EXCHANGE is the Best IPL Betting ID Provider?</h2>
+    <p>DR DIAMOND EXCHANGE offers a safe and secure platform for IPL betting. With a user-friendly interface, advanced features, and 24/7 customer support, we ensure a smooth and enjoyable betting experience.</p>
     
     <h3>Features Comparison</h3>
     <table>
       <thead>
         <tr>
           <th>Features</th>
-          <th>DR DIAMOND IPL Betting</th>
+          <th>DR DIAMOND EXCHANGE IPL Betting</th>
           <th>Other IPL ID Providers</th>
         </tr>
       </thead>
@@ -460,7 +460,7 @@ export const IPLIDProvider = {
       </tbody>
     </table>
     
-    <h2>How DR DIAMOND Improves Your Online IPL Betting Experience</h2>
+    <h2>How DR DIAMOND EXCHANGE Improves Your Online IPL Betting Experience</h2>
     <ul>
       <li><strong>Bonuses and Promotions:</strong> 3% welcome bonus, up to 50% on special occasions.</li>
       <li><strong>Transparency and Security:</strong> Highly encrypted data security system.</li>
@@ -489,7 +489,7 @@ export const IPLIDProvider = {
       <li><strong>Easy Cash Withdrawal:</strong> Seamless payment options.</li>
     </ul>
     
-    <h2>Benefits of Creating an IPL ID with DR DIAMOND</h2>
+    <h2>Benefits of Creating an IPL ID with DR DIAMOND EXCHANGE</h2>
     <p>Full Security and Safety:</p>
     
     <p class="disclaimer">Disclaimer: Gambling can be addictive. Please play responsibly.</p>
@@ -499,14 +499,14 @@ export const T20WorldCupIDProvider = {
     title: 'Your Ultimate Destination for T20 World Cup ID!',
     content: `<div class="content">
     <h1>T20 World Cup Betting ID Provider in India</h1>
-    <p>Welcome to DR DIAMOND! In the upcoming T20 Cricket World Cup, let’s enjoy the game with our T20 World Cup ID. Predict winners, buy better odds, and win cash prizes and rewards while cheering for your favorite team!</p>
+    <p>Welcome to DR DIAMOND EXCHANGE! In the upcoming T20 Cricket World Cup, let’s enjoy the game with our T20 World Cup ID. Predict winners, buy better odds, and win cash prizes and rewards while cheering for your favorite team!</p>
     
     <h2>लाखों तक जीतें With T20 World Cup Cricket ID</h2>
     <p><a href="https://wa.link/drdiamondseo">Get Your ID Now</a> | <a href="https://wa.link/drdiamondseo">Create Your T20 World Cup ID</a></p>
     
     <h2>About Us</h2>
-    <h3>About DR DIAMOND</h3>
-    <p>At DR DIAMOND, we bring you an unparalleled experience in online gaming and betting. Whether it's predicting match outcomes, buying and selling odds, or enjoying various games, we ensure a secure and thrilling journey for every user.</p>
+    <h3>About DR DIAMOND EXCHANGE</h3>
+    <p>At DR DIAMOND EXCHANGE, we bring you an unparalleled experience in online gaming and betting. Whether it's predicting match outcomes, buying and selling odds, or enjoying various games, we ensure a secure and thrilling journey for every user.</p>
     
     <h3>Our Partners</h3>
     <ul>
@@ -565,7 +565,7 @@ export const T20WorldCupIDProvider = {
     </ul>
     
     <h2>A Responsible Gaming Experience</h2>
-    <p>At DR DIAMOND, we prioritize responsible gaming. Ensure you're 18 or above and play responsibly for a fun and safe experience.</p>
+    <p>At DR DIAMOND EXCHANGE, we prioritize responsible gaming. Ensure you're 18 or above and play responsibly for a fun and safe experience.</p>
     
     <h2>Legal Information</h2>
     <p>Ensure compliance with all legal requirements, including terms and conditions, privacy policy, and copyright information.</p>
@@ -577,11 +577,11 @@ export const CasinoBettingIDProvider = {
     title: 'DR DIAMOND EXCHANGE: Casino Betting ID Provider',
     content: `<div class="content">
     <h1>DR DIAMOND EXCHANGE : Ultimate Casino Games ID Provider</h1>
-    <p>Discover the Thrill of Casino Gaming with DR DIAMOND! Are you passionate about poker or blackjack? Look no further—our casino betting ID is all you need to elevate your gaming experience.</p>
-    <p>Choosing the right casino ID from a reliable provider can significantly impact your gaming experience. Convenience, security, and reliability are essential, and that’s where DR DIAMOND excels.</p>
+    <p>Discover the Thrill of Casino Gaming with DR DIAMOND EXCHANGE! Are you passionate about poker or blackjack? Look no further—our casino betting ID is all you need to elevate your gaming experience.</p>
+    <p>Choosing the right casino ID from a reliable provider can significantly impact your gaming experience. Convenience, security, and reliability are essential, and that’s where DR DIAMOND EXCHANGE excels.</p>
     
-    <h2>Why Choose DR DIAMOND for Your Casino Betting ID?</h2>
-    <p>DR DIAMOND stands out as the premier casino ID provider. Here’s why:</p>
+    <h2>Why Choose DR DIAMOND EXCHANGE for Your Casino Betting ID?</h2>
+    <p>DR DIAMOND EXCHANGE stands out as the premier casino ID provider. Here’s why:</p>
     <ul>
         <li><strong>Security and Convenience:</strong> Your safety and ease of use are our top priorities.</li>
         <li><strong>Enjoyment:</strong> We ensure a fun and seamless online casino experience.</li>
@@ -615,10 +615,10 @@ export const CasinoBettingIDProvider = {
     
     <h2>FAQs</h2>
     <ul>
-        <li><strong>Can I use my DR DIAMOND Casino Betting ID on multiple devices?</strong> Yes, you can access your DR DIAMOND account on multiple devices using the same login credentials.</li>
-        <li><strong>Is my personal information safe with DR DIAMOND?</strong> Absolutely. We use stringent security measures to protect your information.</li>
-        <li><strong>What payment methods does DR DIAMOND accept?</strong> We accept credit/debit cards, e-wallets, and bank transfers.</li>
-        <li><strong>Are there any fees for creating a DR DIAMOND Casino Betting ID?</strong> No, registration is entirely free.</li>
+        <li><strong>Can I use my DR DIAMOND EXCHANGE Casino Betting ID on multiple devices?</strong> Yes, you can access your DR DIAMOND EXCHANGE account on multiple devices using the same login credentials.</li>
+        <li><strong>Is my personal information safe with DR DIAMOND EXCHANGE?</strong> Absolutely. We use stringent security measures to protect your information.</li>
+        <li><strong>What payment methods does DR DIAMOND EXCHANGE accept?</strong> We accept credit/debit cards, e-wallets, and bank transfers.</li>
+        <li><strong>Are there any fees for creating a DR DIAMOND EXCHANGE Casino Betting ID?</strong> No, registration is entirely free.</li>
     </ul>
     
     <h2>Payment Methods</h2>
@@ -630,7 +630,7 @@ export const CasinoBettingIDProvider = {
     </ul>
     
     <h2>Commitment to Responsible Gaming</h2>
-    <p>We advocate for responsible gaming and recommend that only individuals 18 years or older participate. Trust DR DIAMOND for a secure and enjoyable gaming experience.</p>
+    <p>We advocate for responsible gaming and recommend that only individuals 18 years or older participate. Trust DR DIAMOND EXCHANGE for a secure and enjoyable gaming experience.</p>
     
     <h2>Transparency and Security</h2>
     <p>Your privacy is our priority. We ensure transparency in all operations to keep your information protected. For any queries, feel free to contact us.</p>

@@ -13,7 +13,7 @@ let TestimonialListContent = [
         imgIconUrl: 'assets/images/testimonial/logo/01.png',
         imgIconAlt: 'testimonial thumb',
         title: 'Somrat Islam',
-        desc: 'The betting experience with DR Diamond has been exceptional. The platform is user-friendly and offers a wide range of sports to bet on. Highly recommended!',
+        desc: 'The betting experience with DR DIAMOND EXCHANGE has been exceptional. The platform is user-friendly and offers a wide range of sports to bet on. Highly recommended!',
         dige: 'UI Designer',
         ratingcount: '5.28',
     },

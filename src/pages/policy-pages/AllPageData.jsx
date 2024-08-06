@@ -1,7 +1,7 @@
 export const TermsAndConditions = {
     title: 'Terms and Conditions',
     content: `
-    <p>Welcome to <b>Dr Diamond</b>.</p>
+    <p>Welcome to <b>DR DIAMOND EXCHANGE</b>.</p>
     <p>In addition to these Terms of Service, the Privacy Policy, which can be found here (the "Privacy Policy"), applies to your use of the Site and the Services (as defined below). The Privacy Policy is incorporated by reference into these Terms of Service and forms an integral part of them. Together, the Terms of Service and the Privacy Policy constitute the "Agreement," which is a binding legal contract between you and us, governing our relationship.</p>
     <p>In the Agreement, "you," "your," "user," or "player" refers to anyone using the Site, Services, or Software under the Agreement.</p>
     <p>Important: Please review the Privacy Policy before using the Site or Services.</p>
@@ -109,7 +109,7 @@ export const TermsAndConditions = {
     
     <h2>15. Contact Us</h2>
     <p>For any questions regarding the Agreement, please contact us at: <b>Drdiamondexch.in</b></p>
-    <p>Thank you for using <b>Dr Diamond</b>. Enjoy your time here!</p>`
+    <p>Thank you for using <b>DR DIAMOND EXCHANGE</b>. Enjoy your time here!</p>`
 }
 
 export const PrivacyPolicyData = {
@@ -158,13 +158,13 @@ export const PrivacyPolicyData = {
 export const ResponsibleGaming = {
     title: 'Responsible Gaming',
     content: `
-    <p><b>Dr Diamond</b> is an online gaming and betting platform where you can place bets on games and sports. We are committed to promoting responsible betting practices to provide all our users with a safe and enjoyable betting environment. Please carefully read the following guidelines.</p>
+    <p><b>DR DIAMOND EXCHANGE</b> is an online gaming and betting platform where you can place bets on games and sports. We are committed to promoting responsible betting practices to provide all our users with a safe and enjoyable betting environment. Please carefully read the following guidelines.</p>
 
     <h2>1. Always Set Betting Limits</h2>
     <p>We recommend and encourage you to always set your betting limits to manage your gaming activities responsibly. You can set a deposit limit, bet limit, loss limit, and time limit to stay within your budget.</p>
 
     <h2>2. Who Are Restricted</h2>
-    <p><b>Dr Diamond</b> is an online betting site that is not made for people below 18 years old. We strictly restrict minors from entering our site. We are committed to protecting minors from the risk of online betting and ensuring you follow legal regulations. It is not just our priority but your priority too to promote responsible gaming and restrict underage betting.</p>
+    <p><b>DR DIAMOND EXCHANGE</b> is an online betting site that is not made for people below 18 years old. We strictly restrict minors from entering our site. We are committed to protecting minors from the risk of online betting and ensuring you follow legal regulations. It is not just our priority but your priority too to promote responsible gaming and restrict underage betting.</p>
 
     <h2>3. Never Bet More Than You Can Afford to Lose</h2>
     <p>We have been mentioning betting limits throughout our pages. As exciting as it sounds to win big, it is also important to avoid big losses. So, never bet more than you can afford to lose and take breaks from betting if you feel it’s impacting your finances and well-being.</p>
@@ -191,7 +191,7 @@ export const ResponsibleGaming = {
     </ul>
 
     <h2>Privacy and Policy</h2>
-    <p><b>Dr Diamond</b> respects the privacy and confidentiality of every user. Any information you share with us regarding betting is kept safe and secure with our data-encrypted system.</p>
+    <p><b>DR DIAMOND EXCHANGE</b> respects the privacy and confidentiality of every user. Any information you share with us regarding betting is kept safe and secure with our data-encrypted system.</p>
 
     <h3>Information Collection</h3>
     <p>The information we collect may include your name, phone number, and payment details. We use this information only to provide you with your online betting ID and winning amount.</p>
