@@ -7,7 +7,7 @@ import 'slick-carousel/slick/slick-theme.css';
 import Rating from './rating';
 import { handleRedirect } from '../../env/credentials';
 
-const title = "Our Game Collection";
+const title = "India's No.1 Gaming Platform";
 
 const CollectionSection = () => {
     const theme = useTheme();
