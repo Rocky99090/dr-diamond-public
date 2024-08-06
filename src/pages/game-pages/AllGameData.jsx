@@ -6,14 +6,14 @@ export const CricketIDProvider = {
       Operating since 2011, DR DIAMOND is recognized as the most reliable provider of online cricket betting IDs in India and beyond. We offer a straightforward and hassle-free process for creating online cricket IDs and other betting IDs to engage in various sports such as online Roulette, daily fantasy sports, and live cricket matches. Our extensive experience, transparency, multiple game options, certified online IDs, and 24/7 customer support distinguish us in the market.
     </p>
     <p>Looking for all cricket IDs? DR DIAMOND is your go-to destination. With over 200 games, live IPL scores, updated matches, and numerous casino games, we keep you entertained all day. You can play, win, and earn money with ease. Simply send us a WhatsApp message, and receive your ID in less than a minute.</p>
-    <a href="https://wa.link/diamondexchange" class="get-id-link">WhatsApp Us Here</a>
+    <a href="https://wa.link/drdiamondseo" class="get-id-link">WhatsApp Us Here</a>
     
     <h2>Get Your ID Now</h2>
-    <a href="https://wa.link/diamondexchange" class="get-id-link">Get Your ID Now</a>
+    <a href="https://wa.link/drdiamondseo" class="get-id-link">Get Your ID Now</a>
     
     <h2>How Do I Create an Online Cricket ID?</h2>
     <p>Creating an online cricket ID with us is as easy as betting. Follow the steps in the video or send us a message on WhatsApp, and you’ll receive your ID instantly!</p>
-    <a href="https://wa.link/diamondexchange" class="get-id-link">WhatsApp Us</a>
+    <a href="https://wa.link/drdiamondseo" class="get-id-link">WhatsApp Us</a>
     
     <h3>Choose Your Platform Get Your ID in 2 minutes</h3>
     
@@ -76,7 +76,7 @@ export const CricketIDProvider = {
     
     <h2>Upcoming Cricket World Cup Matches 2024</h2>
     <p>Get your Online Cricket ID now to join the action!</p>
-    <a href="https://wa.link/diamondexchange" class="get-id-link">Get Your ID Now</a>
+    <a href="https://wa.link/drdiamondseo" class="get-id-link">Get Your ID Now</a>
     
     <h2>How To Add Funds</h2>
     <p>Adding funds to your online cricket ID is simple:</p>
@@ -133,7 +133,7 @@ export const CricketIDProvider = {
       <li>Secure payment options</li>
       <li>Live betting feature</li>
     </ul>
-   <a href="https://wa.link/diamondexchange" class="get-id-link">WhatsApp Us: to get the DR DIAMOND Exchange ID instantly</a>
+   <a href="https://wa.link/drdiamondseo" class="get-id-link">WhatsApp Us: to get the DR DIAMOND Exchange ID instantly</a>
     
     <h3>DR DIAMONDexch VIP ID</h3>
     <p>Offers access to all types of games, matches, and bets on our platform, with exclusive features and benefits.</p>
@@ -253,12 +253,12 @@ export const DiamondIDProvider = {
     <p>Diamond Exchange, also known as Diamond Exch, is a legal and secure online betting platform offering a unique and exciting gaming experience. Established in 2022, Diamond Exchange provides users with the opportunity to play and place bets on their favorite cricket matches and games. With a focus on security and fair gaming, every customer can enjoy the game without worry.</p>
     
     <h2>Get Your Cricket Betting ID</h2>
-    <p>To participate in Diamond Exchange's games and bet on live cricket matches, you'll need a cricket betting ID. We've been providing these IDs for many years. To get your cricket ID, WhatsApp us at <a href="https://wa.link/diamondexchange">WhatsApp Link</a> or follow the process below.</p>
-    <a href="https://wa.link/diamondexchange" class="get-id-link">Get A 3% Bonus On Your First ID</a>
+    <p>To participate in Diamond Exchange's games and bet on live cricket matches, you'll need a cricket betting ID. We've been providing these IDs for many years. To get your cricket ID, WhatsApp us at <a href="https://wa.link/drdiamondseo">WhatsApp Link</a> or follow the process below.</p>
+    <a href="https://wa.link/drdiamondseo" class="get-id-link">Get A 3% Bonus On Your First ID</a>
     
     <h2>How Do I Create a Diamond Exchange ID?</h2>
     <p>Creating your Diamondexch 09 betting ID is simple and effortless. You only need to contact us on WhatsApp. Within a few minutes, you'll be all set to place bets with your ID.</p>
-    <a href="https://wa.link/diamondexchange" class="get-id-link">WhatsApp Us: to get the Diamond Exchange ID instantly</a>
+    <a href="https://wa.link/drdiamondseo" class="get-id-link">WhatsApp Us: to get the Diamond Exchange ID instantly</a>
     
     <h2>About Diamond Exchange 9</h2>
     <p>Diamondexch 9 is a captivating platform in the online betting market, converging equal opportunities, profits, amusement, and excitement. Participate in online cricket events, betting, or engage in casino games to transform your time and luck into reward-winning chances.</p>
@@ -328,7 +328,7 @@ export const DiamondIDProvider = {
       <li><strong>Min Refill:</strong> ₹100 - Maximum: ₹49,500 - Process Time: Instant</li>
     </ul>
     
-    <a href="https://wa.link/diamondexchange" class="get-id-link">WhatsApp Us: For adding or withdrawing funds, contact us via WhatsApp.</a>
+    <a href="https://wa.link/drdiamondseo" class="get-id-link">WhatsApp Us: For adding or withdrawing funds, contact us via WhatsApp.</a>
     
     <h2>Why Is Diamond Exchange 9 A Great Betting Exchange Platform?</h2>
     <p>Diamond Exchange 9 stands out for its easy-to-use interface, numerous betting markets, and responsive customer support. From famous sports like cricket and football to Esports and political events, this platform offers a wide range of betting opportunities.</p>
@@ -367,7 +367,7 @@ export const DiamondIDProvider = {
       <li>Live Casino: Real-time games with live dealers.</li>
     </ul>
     
-    <a href="https://wa.link/diamondexchange" class="get-id-link">WhatsApp Us: Get your cricket betting ID and play at Diamond Exchange 9.</a>
+    <a href="https://wa.link/drdiamondseo" class="get-id-link">WhatsApp Us: Get your cricket betting ID and play at Diamond Exchange 9.</a>
     </div>`
 }
 
