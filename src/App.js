@@ -42,7 +42,7 @@ import { HelmetProvider } from "react-helmet-async";
 
 function App() {
 	const openWhatsapp = () => {
-		window.location.href = "https://wa.link/drdiamondseoseo?text=I want Id"
+		window.location.href = "https://wa.link/drdiamondseo?text=I want Id"
 	}
 	return (
 		

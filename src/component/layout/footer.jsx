@@ -7,8 +7,8 @@ import { Typography } from "@mui/material";
 
 const postTitle = "Quick Links";
 const newsTitle = "Follow Us";
-const desc = "At Diamond Exchange, we have been the beloved choice for punters searching to strike gold and win big. Whether it's IPL Cricket, Tennis, Football, or other sports, we offer thrilling opportunities. Additionally, you can test your skills with games like Teen Patti and Andar Bahar, or immerse yourself in the excitement of Live Casino games such as Lucky 7, Lion Dragon Tiger, and many more.";
-const newsdesc = "At Diamond Exchange, we have been the beloved choice for punters searching to strike gold and win big.";
+const desc = "At DR Diamond Exchange, we have been the beloved choice for punters searching to strike gold and win big. Whether it's IPL Cricket, Tennis, Football, or other sports, we offer thrilling opportunities. Additionally, you can test your skills with games like Teen Patti and Andar Bahar, or immerse yourself in the excitement of Live Casino games such as Lucky 7, Lion Dragon Tiger, and many more.";
+const newsdesc = "At DR Diamond Exchange, we have been the beloved choice for punters searching to strike gold and win big.";
 
 const Footer = () => {
 
