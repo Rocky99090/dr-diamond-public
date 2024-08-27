@@ -190,37 +190,37 @@ body h6 {
   text-transform: uppercase;
 }
 body h1 {
-  font-size: calc(1.6875rem + 5.25vw);
+  font-size: 2.5rem !important;
 }
 @media (min-width: 1200px) {
   body h1 {
-    font-size: 5.625rem;
+    font-size: 2.5rem !important;
   }
 }
 body h2 {
-  font-size: calc(1.375rem + 1.5vw);
+  font-size: 2rem !important;
 }
 @media (min-width: 1200px) {
   body h2 {
-    font-size: 2.5rem;
+    font-size: 2rem !important;
   }
 }
 body h3 {
-  font-size: calc(1.275rem + 0.3vw);
+  font-size: 1.5rem !important;
 }
 @media (min-width: 1200px) {
   body h3 {
-    font-size: 1.5rem;
+    font-size: 1.5rem !important;
   }
 }
 body h4 {
-  font-size: 1.25rem;
+  font-size: 1.5rem !important;
 }
 body h5 {
-  font-size: 1.125rem;
+  font-size: 1.125rem !important;
 }
 body h6 {
-  font-size: 1rem;
+  font-size: 1rem  !important;
 }
 body a > h1,
 body a > h2,
@@ -1391,7 +1391,7 @@ select {
   display: table;
 }
 .container {
-  max-width: 1170px;
+  max-width: 1280px !important;
   margin: 0 auto;
   padding-inline: 20px;
   width: 100%;
@@ -7142,3 +7142,12 @@ button {
 .MuiList-root{
   background-color: white !important;
 }
+.blog-single-section{
+  background-color: white !important;
+  .container{
+    background: linear-gradient(90deg, #0088cc, #2c3e50) !important;
+  }
+}
+/* .blog-single-content{
+  background: linear-gradient(90deg, #0088cc, #2c3e50) !important;
+} */

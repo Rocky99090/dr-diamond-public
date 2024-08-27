@@ -8,6 +8,7 @@ import { ParallaxBanner, ParallaxBannerLayer } from 'react-scroll-parallax';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
+import { handleRedirect } from '../../../env/credentials';
 const heroData = [{
     bgImg: heroImg,
 },{
@@ -20,7 +21,7 @@ const openWhatsapp = () => {
 
 const MySlider = () => (
     <Carousel autoPlay showThumbs = {false} showStatus = {false}>
-      <div onClick={openWhatsapp}>
+      <div onClick={handleRedirect}>
         <img src={'assets/images/banner/blog1-mobile.webp'} alt="Slide 1" />
       </div>
       {/* <div>
@@ -31,7 +32,7 @@ const MySlider = () => (
   );
   const MySliderWeb = () => (
     <Carousel autoPlay showThumbs = {false} showStatus = {false}>
-      <div onClick={openWhatsapp}>
+      <div onClick={handleRedirect}>
         <img src={'/assets/images/banner/blog1-web.webp'} alt="Slide 1" />
       </div>
       {/* <div>

@@ -1,6 +1,6 @@
 export const blogData = [
     {
-        id: 1,
+        id: "Cricket Betting Strategies: A Beginner’s Guide with DR Diamond",
         imgUrl: '/assets/images/blog/blog1.jpg',
         imgAlt: 'Blog Thumb',
         title: 'Cricket Betting Strategies: A Beginner’s Guide with DR DIAMOND EXCHANGE',
@@ -8,6 +8,12 @@ export const blogData = [
         btnText: 'read more',
         pubDate: '15 May 2022',
         pubAuthor: 'Rajib Raj',
+        metaKeywords:'Blogs Section-MARK1',
+        metaTitle:'Blogs Section-MARK1',
+        metaDescription:'Blogs Section-MARK1',
+        ogTitle:'Blogs Section-MARK1',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'Blogs Section-MARK1',
         content: `
             <h2>Are you new to the world of online cricket ID providers in India and feeling a bit overwhelmed by all the odds, markets, and teams?</h2>
             <p>Don’t worry—you’re not the only one. Cricket betting is exciting but also a complex venture, especially for beginners. That’s where <b><a href="https://drdiamond.com/">DR DIAMOND EXCHANGE</a></b> comes to the rescue as the perfect companion on this thrilling journey.</p>
@@ -58,7 +64,7 @@ export const blogData = [
         `
     },
     {
-        id: 2,
+        id: "ICC T20 Cricket World Cup: A Betting Guide with DR DIAMOND EXCHANGE",
         imgUrl: '/assets/images/blog/03.jpg',
         imgAlt: 'Blog Thumb',
         title: 'ICC T20 Cricket World Cup: A Betting Guide with DR DIAMOND EXCHANGE',
@@ -66,6 +72,12 @@ export const blogData = [
         btnText: 'read more',
         pubDate: '14 June 2023',
         pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'Blogs Section-MARK2',
+        metaTitle:'Blogs Section-MARK2',
+        metaDescription:'Blogs Section-MARK2',
+        ogTitle:'Blogs Section-MARK2',
+        ogImage:'Blogs Section-MARK2',
+        ogUrl:'Blogs Section-MARK2',
         content: `
             <h2>ICC T20 Cricket World Cup: A Betting Guide with DR DIAMOND EXCHANGE</h2>
             <p>Welcome to DR DIAMOND EXCHANGE's ultimate guide to the ICC T20 Cricket World Cup! Whether you're a beginner or an experienced bettor, the <b><a href="https://drdiamond.com/">best cricket betting site in India</a></b> is here to help you navigate the exciting world of cricket betting. So, grab your cricket cap, and let's get started on our thrilling adventure!</p>

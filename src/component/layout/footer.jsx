@@ -37,7 +37,7 @@ const Footer = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-3 col-md-6 col-12">
+                        <div className="col-lg-2 col-md-6 col-12">
                             <div className="footer-middle-item-wrapper">
                                 <div className="footer-middle-item mb-lg-0">
                                     <div className="fm-item-title">
@@ -48,12 +48,31 @@ const Footer = () => {
                                             <li><NavLink to="/">Home</NavLink></li>
                                             <li><NavLink to="/about">About Us</NavLink></li>
                                             <li><NavLink to="/blog">Blog</NavLink></li>
+                                            
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-3 col-md-6 col-12">
+                        <div className="col-lg-2 col-md-6 col-12">
+                            <div className="footer-middle-item-wrapper">
+                                <div className="footer-middle-item mb-lg-0">
+                                    <div className="fm-item-title">
+                                        <h4> Game Links </h4>
+                                    </div>
+                                    <div className="fm-item-content">
+                                    <ul className="">   
+                                            <li><NavLink to="/cricket-id-provider">Cricket ID Provider</NavLink></li>
+                                            <li><NavLink to="/diamond-id-provider">Diamond Exchange ID</NavLink></li>
+                                            <li><NavLink to="/casino-id-provider">Casino ID Provider</NavLink></li>
+                                            <li><NavLink to="/t20-world-cup">T20 WorldCup ID Provider</NavLink></li>
+                                            <li><NavLink to="/ipl-id-provider">IPL ID Provider</NavLink></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-2 col-md-6 col-12">
                             <div className="footer-middle-item-wrapper">
                                 <div className="footer-middle-item mb-lg-0">
                                     <div className="fm-item-title">

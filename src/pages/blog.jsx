@@ -16,11 +16,11 @@ const BlogPage = () => {
     return (
         <Fragment>
               <MetaDecorator
-    description={content.description}
-    title={content.title}
-    keywords={content.keywords}
-    pathname={location.pathname}
-/>
+                description={content.description}
+                title={content.title}
+                keywords={content.keywords}
+                pathname={location.pathname}
+                />
             <Header />
             <HeroThree />
             {/* <PageHeader title={'OUR BLOG POSTS'} curPage={'Blog'} /> */}

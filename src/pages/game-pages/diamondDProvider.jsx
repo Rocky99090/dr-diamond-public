@@ -5,12 +5,20 @@ import Footer from "../../component/layout/footer";
 import './app-page-game.css'
 import { CricketIDProvider, DiamondIDProvider } from "./AllGameData";
 import { Typography } from "@mui/material";
+import { useLocation } from "react-router-dom";
+import MetaDecorator from "../../Decorator/MetaDecorator";
 const DiamondID = () => {
 
 const data = DiamondIDProvider
-
+const location = useLocation();
     return (
         <Fragment>
+             <MetaDecorator
+                    description={data.metaDescription}
+                    title={data.metaTitle}
+                    keywords={data.metaKeywords}
+                    pathname={location.pathname}
+                    />
             <Header />
             <div className="blog-single-section padding-top padding-bottom" style={{background:'#fff'}} >
             <div className="section-header" color='primary'>

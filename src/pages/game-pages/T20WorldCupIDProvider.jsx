@@ -5,12 +5,21 @@ import Footer from "../../component/layout/footer";
 import './app-page-game.css'
 import { CricketIDProvider, T20WorldCupIDProvider } from "./AllGameData";
 import { Typography } from "@mui/material";
+import { useLocation } from "react-router-dom";
+import MetaDecorator from "../../Decorator/MetaDecorator";
 const T20ID = () => {
 
 const data = T20WorldCupIDProvider
 
+const location = useLocation();
     return (
         <Fragment>
+             <MetaDecorator
+                    description={data.metaDescription}
+                    title={data.metaTitle}
+                    keywords={data.metaKeywords}
+                    pathname={location.pathname}
+                    />
         <Header />
         <div className="blog-single-section padding-top padding-bottom" style={{background:'#fff'}} >
         <div className="section-header" color='primary'>

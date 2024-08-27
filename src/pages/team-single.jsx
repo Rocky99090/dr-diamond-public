@@ -22,8 +22,8 @@ const TeamSinglePage = () => {
                 <Container maxWidth="md" style={{ margin: '0 auto' }}>
                     <Grid container direction="column" alignItems="center" spacing={2}>
                         <Grid item>
-                            <Typography variant="h6" color="textPrimary" >{subtitleMission}</Typography>
-                            <Typography variant="h4" color="primary" className="mb-3">{titleMission}</Typography>
+                            <Typography variant="h4" color="textPrimary" >{subtitleMission}</Typography>
+                            <Typography variant="h2" color="primary" className="mb-3">{titleMission}</Typography>
                             <Typography variant="body1" color="textPrimary" className="desc">{descMission}</Typography>
                         </Grid>
                         {/* CTA Image */}
@@ -42,8 +42,8 @@ const TeamSinglePage = () => {
                 <Container maxWidth="md" style={{ margin: '0 auto' }}>
                     <Grid container direction="column" alignItems="center" spacing={2}>
                         <Grid item>
-                            <Typography variant="h6" >{subtitleVision}</Typography>
-                            <Typography variant="h4"  className="mb-3">{titleVision}</Typography>
+                            <Typography variant="h4" >{subtitleVision}</Typography>
+                            <Typography variant="h2"  className="mb-3">{titleVision}</Typography>
                             <Typography variant="body1" >{descVision}</Typography>
                         </Grid>
                         {/* CTA Image */}
@@ -61,8 +61,8 @@ const TeamSinglePage = () => {
                 <Container maxWidth="md" style={{ margin: '0 auto' }}>
                     <Grid container direction="column" alignItems="center" spacing={2}>
                         <Grid item>
-                            <Typography variant="h6" color="textPrimary" >{subtitleJoin}</Typography>
-                            <Typography variant="h4 " color="primary" className="mb-3">{titleJoin}</Typography>
+                            <Typography variant="h4" color="textPrimary" >{subtitleJoin}</Typography>
+                            <Typography variant="h2 " color="primary" className="mb-3">{titleJoin}</Typography>
                             <Typography variant="body1" color="textPrimary" className="desc">{descJoin}</Typography>
                         </Grid>
                         {/* CTA Image */}

@@ -1,5 +1,11 @@
 export const CricketIDProvider = {
     title:'DR DIAMOND EXCHANGE - Online Cricket ID Provider',
+    metaKeywords:'Blogs Section-MARK2',
+    metaTitle:'DR DIAMOND EXCHANGE - Online Cricket ID Provider',
+    metaDescription:'Blogs Section-MARK2',
+    ogTitle:'Blogs Section-MARK2',
+    ogImage:'Blogs Section-MARK2',
+    ogUrl:'Blogs Section-MARK2',
     content:`<div class="content">
     <h1>Your Most Trusted Cricket Betting Platform in India</h1>
     <p>
@@ -248,6 +254,12 @@ export const CricketIDProvider = {
 }
 export const DiamondIDProvider = {
     title: 'Experience Online Betting with Diamond Exchange Platform',
+    metaKeywords:'Blogs Section-MARK2',
+    metaTitle:'Experience Online Betting with Diamond Exchange Platform',
+    metaDescription:'Blogs Section-MARK2',
+    ogTitle:'Blogs Section-MARK2',
+    ogImage:'Blogs Section-MARK2',
+    ogUrl:'Blogs Section-MARK2',
     content: `<div class="content">
     <h1>Diamond Exchange ID Provider in India</h1>
     <p>Diamond Exchange, also known as Diamond Exch, is a legal and secure online betting platform offering a unique and exciting gaming experience. Established in 2022, Diamond Exchange provides users with the opportunity to play and place bets on their favorite cricket matches and games. With a focus on security and fair gaming, every customer can enjoy the game without worry.</p>
@@ -373,6 +385,12 @@ export const DiamondIDProvider = {
 
 export const IPLIDProvider = {
     title: 'Get Online IPL Crikcet ID: DR DIAMOND EXCHANGE',
+    metaKeywords:'Blogs Section-MARK2',
+    metaTitle:'Get Online IPL Crikcet ID: DR DIAMOND EXCHANGE',
+    metaDescription:'Blogs Section-MARK2',
+    ogTitle:'Blogs Section-MARK2',
+    ogImage:'Blogs Section-MARK2',
+    ogUrl:'Blogs Section-MARK2',
     content: `<div class="content">
     <h1>Your Trusted IPL Cricket Betting ID Provider in India</h1>
     <p>DR DIAMOND EXCHANGE is your trusted and most reliable IPL betting ID provider. We help you create an online ID in just a minute so you can enjoy the thrill of online betting from the comfort of your home. We also provide cricket IDs for all types of matches and series.</p>
@@ -497,6 +515,12 @@ export const IPLIDProvider = {
 }
 export const T20WorldCupIDProvider = {
     title: 'Your Ultimate Destination for T20 World Cup ID!',
+    metaKeywords:'Blogs Section-MARK2',
+    metaTitle:'Your Ultimate Destination for T20 World Cup ID!',
+    metaDescription:'Blogs Section-MARK2',
+    ogTitle:'Blogs Section-MARK2',
+    ogImage:'Blogs Section-MARK2',
+    ogUrl:'Blogs Section-MARK2',
     content: `<div class="content">
     <h1>T20 World Cup Betting ID Provider in India</h1>
     <p>Welcome to DR DIAMOND EXCHANGE! In the upcoming T20 Cricket World Cup, let’s enjoy the game with our T20 World Cup ID. Predict winners, buy better odds, and win cash prizes and rewards while cheering for your favorite team!</p>
@@ -575,6 +599,12 @@ export const T20WorldCupIDProvider = {
 }
 export const CasinoBettingIDProvider = {
     title: 'DR DIAMOND EXCHANGE: Casino Betting ID Provider',
+    metaKeywords:'Blogs Section-MARK2',
+    metaTitle:'Casino Betting ID Provider',
+    metaDescription:'Blogs Section-MARK2',
+    ogTitle:'Blogs Section-MARK2',
+    ogImage:'Blogs Section-MARK2',
+    ogUrl:'Blogs Section-MARK2',
     content: `<div class="content">
     <h1>DR DIAMOND EXCHANGE : Ultimate Casino Games ID Provider</h1>
     <p>Discover the Thrill of Casino Gaming with DR DIAMOND EXCHANGE! Are you passionate about poker or blackjack? Look no further—our casino betting ID is all you need to elevate your gaming experience.</p>

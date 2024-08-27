@@ -4,8 +4,10 @@ import Header from "../component/layout/header";
 import PageHeader from "../component/layout/pageheader";
 import GoogleMap from "../component/section/googlemap";
 import { Typography } from "@mui/material";
-import { NavLink } from "react-router-dom";
+import { NavLink, useLocation } from "react-router-dom";
 import HeroThree from "../component/section/hero/hero-contact";
+import MetaDecorator from "../Decorator/MetaDecorator";
+const content = require("../SeoData/ContactUsData.json");
 
 const infosubtitle = "Get in touch with us";
 const infotitle = "We're Always Eager To Hear From You!";
@@ -36,14 +38,16 @@ const infoListContent = [
   ];
 
 const ContactUs = () => {
-    const [contactName, setContactName] = useState('');
-    const [contactEmail, setContactEmail] = useState('');
-    const [contactSubject, setContactSubject] = useState('');
-    const [contactNumber, setContactNumber] = useState('');
-    const [contactMessage, setContactMessage] = useState('');
+    const location = useLocation();
 
     return (
         <Fragment>
+              <MetaDecorator
+                description={content.description}
+                title={content.title}
+                keywords={content.keywords}
+                pathname={location.pathname}
+                />
             <Header />
             <HeroThree />
             <div className="info-section padding-top padding-bottom">

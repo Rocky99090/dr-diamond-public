@@ -36,7 +36,7 @@ const CollectionSectionTwo = () => {
             <div className="footer-top">
                 <div className="container">
                 <div className="section-header">
-    <Typography variant="h4" className="custom-heading">
+    <Typography variant="h2"  sx={{fontWeight:700}} className="custom-heading">
         India's No.1 Book
     </Typography>
 </div>

@@ -5,15 +5,23 @@ import Footer from "../../component/layout/footer";
 import './app-page-game.css'
 import { CasinoBettingIDProvider, CricketIDProvider } from "./AllGameData";
 import { Typography } from "@mui/material";
+import MetaDecorator from "../../Decorator/MetaDecorator";
+import { useLocation } from "react-router-dom";
 const CasinoID = () => {
 
 const data = CasinoBettingIDProvider
-
+const location = useLocation();
     return (
         <Fragment>
+             <MetaDecorator
+                    description={data.metaDescription}
+                    title={data.metaTitle}
+                    keywords={data.metaKeywords}
+                    pathname={location.pathname}
+                    />
             <Header />
             <div className="blog-single-section padding-top padding-bottom" style={{background:'#fff'}} >
-            <div className="section-header" color='primary'>
+            <div className="section-header" color='primary' >
                     <Typography variant='h4' className='custom-heading' color={"black"}>{data.title}</Typography>
                 </div>
                 <div className="container">
