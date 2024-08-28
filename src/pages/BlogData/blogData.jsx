@@ -1,8 +1,8 @@
 export const blogData = [
     {
-        id: "Cricket Betting Strategies: A Beginner’s Guide with DR Diamond",
+        id: "Cricket-Betting-Strategies-A-Beginners-Guide-with-DR-Diamond",
         imgUrl: '/assets/images/blog/blog1.jpg',
-        imgAlt: 'Blog Thumb',
+        imgAlt: 'Cricket Betting Strategies: A Beginner’s Guide with DR DIAMOND EXCHANGE',
         title: 'Cricket Betting Strategies: A Beginner’s Guide with DR DIAMOND EXCHANGE',
         desc: 'Are you new to the world of online cricket ID providers in India and feeling a bit overwhelmed by all the odds, markets, and teams?',
         btnText: 'read more',
@@ -15,7 +15,7 @@ export const blogData = [
         ogImage:'Blogs Section-MARK1',
         ogUrl:'Blogs Section-MARK1',
         content: `
-            <h2>Are you new to the world of online cricket ID providers in India and feeling a bit overwhelmed by all the odds, markets, and teams?</h2>
+            <h2>Cricket Betting Strategies: A Beginner’s Guide with DR DIAMOND EXCHANGE</h2>
             <p>Don’t worry—you’re not the only one. Cricket betting is exciting but also a complex venture, especially for beginners. That’s where <b><a href="https://drdiamond.com/">DR DIAMOND EXCHANGE</a></b> comes to the rescue as the perfect companion on this thrilling journey.</p>
             
             <h3>Understanding the Basics:</h3>
@@ -60,13 +60,14 @@ export const blogData = [
                 <li>Cricket betting may seem complex at first, but with a little guidance and the right strategies, you can enhance your chances of success. DR DIAMOND EXCHANGE is not just your gateway to the thrilling world of cricket betting but also a trusted companion in making informed decisions.</li>
                 <li>Remember to research and analyze, as they are your best friends in the betting market. Be disciplined and diversified in your betting approach, and don’t forget to explore in-play betting for added excitement.</li>
                 <li>With DR DIAMOND EXCHANGE by your side, you're well-equipped to navigate the exciting world of cricket betting on trusted cricket betting sites in India. So, what are you waiting for? <b><a href="https://drdiamond.com/contact">Contact us for cricket id</a></b> and start your winning journey today!</li>
+
             </ul>
         `
     },
     {
-        id: "ICC T20 Cricket World Cup: A Betting Guide with DR DIAMOND EXCHANGE",
+        id: "ICC-T20-Cricket-World-Cup-A-Betting-Guide-with-DR-DIAMOND-EXCHANGE",
         imgUrl: '/assets/images/blog/03.jpg',
-        imgAlt: 'Blog Thumb',
+        imgAlt: 'ICC T20 Cricket World Cup: A Betting Guide with DR DIAMOND EXCHANGE',
         title: 'ICC T20 Cricket World Cup: A Betting Guide with DR DIAMOND EXCHANGE',
         desc: 'Welcome to DR DIAMOND EXCHANGE\'s ultimate guide to the ICC T20 Cricket World Cup! Whether you\'re a beginner or an experienced bettor, the best betting site in India is here to help you navigate the exciting world of cricket betting. So, grab your cricket cap, and let\'s get started on our thrilling adventure!',
         btnText: 'read more',
@@ -86,7 +87,7 @@ export const blogData = [
             <p>Explore why DR DIAMOND EXCHANGE is the preferred choice in cricket betting sites. We're more than just a betting site; we're the best in the game. With various betting markets, competitive odds, and a seamless user experience, DR DIAMOND EXCHANGE guarantees that you have everything you need for a fantastic betting journey.</p>
     
             <h3>Getting Started with Cricket Betting</h3>
-            <p>If you're new to cricket betting, you must learn the basics. Betting involves predicting the outcome of cricket matches and placing bets on various markets, such as match winners, top run-scorers, and top wicket-takers. The ICC T20 Cricket World Cup is one of the biggest events in cricket, offering plenty of opportunities for bettors.</p>
+            <p>If you're new to cricket betting, you must learn the basics. Betting involves predicting the outcome of cricket matches and placing bets on various markets, such as match winners, top run-scorers, and top wicket-takers. The ICC <b><a href="https://drdiamond.com/t20-world-cup">T20 Cricket World Cup ID</a></b> is one of the biggest events in cricket, offering plenty of opportunities for bettors.</p>
     
             <h3>Top Betting Tips for the ICC T20 Cricket World Cup</h3>
             <ul>
