@@ -1,17 +1,17 @@
 export const CricketIDProvider = {
     title:'DR DIAMOND EXCHANGE - Online Cricket ID Provider',
-    metaKeywords:'Blogs Section-MARK2',
-    metaTitle:'DR DIAMOND EXCHANGE - Online Cricket ID Provider',
-    metaDescription:'Blogs Section-MARK2',
-    ogTitle:'Blogs Section-MARK2',
+    metaKeywords:'online cricket id provider in india, best cricket id provider in India, best online cricket betting id provider in India, Cricket Betting ID Platform in india, cricket betting id online in India, cricket betting id provider in India',
+    metaTitle:'Online Cricket ID Provider | Cricket Betting Platform in India - Dr Diamond Exchange',
+    metaDescription:'Dr Dimaond Exchange is Best Online Cricket ID Provider🏏 and Cricket Betting Platform in India. Offers Secure Betting IDs like Diamond Exch ID, IPL ID, Casino ID and other games..',
+    ogTitle:'Online Cricket ID Provider | Cricket Betting Platform in India - Dr Diamond Exchange',
     ogImage:'Blogs Section-MARK2',
-    ogUrl:'Blogs Section-MARK2',
+    ogUrl:'https://drdiamond.com/cricket-id-provider',
     content:`<div class="content">
     <h1>Your Most Trusted Cricket Betting Platform in India</h1>
     <p>
-      Operating since 2011, DR DIAMOND EXCHANGE is recognized as the most reliable provider of online cricket betting IDs in India and beyond. We offer a straightforward and hassle-free process for creating online cricket IDs and other betting IDs to engage in various sports such as online Roulette, daily fantasy sports, and live cricket matches. Our extensive experience, transparency, multiple game options, certified online IDs, and 24/7 customer support distinguish us in the market.
+      Operating since 2011, DR DIAMOND EXCHANGE is recognized as the most reliable provider of online cricket betting IDs and <a href="https://drdiamond.com/diamond-id-provider">Diamond Exchange ID provider in India</a> and beyond. We offer a straightforward and hassle-free process for creating online cricket IDs and other betting IDs to engage in various sports such as online Roulette, daily fantasy sports, and live cricket matches. Our extensive experience, transparency, multiple game options, certified online IDs, and 24/7 customer support distinguish us in the market.
     </p>
-    <p>Looking for all cricket IDs? DR DIAMOND EXCHANGE is your go-to destination. With over 200 games, live IPL scores, updated matches, and numerous casino games, we keep you entertained all day. You can play, win, and earn money with ease. Simply send us a WhatsApp message, and receive your ID in less than a minute.</p>
+    <p>Looking for all cricket IDs? <a href="https://drdiamond.com/">DR DIAMOND EXCHANGE</a> is your go-to destination. With over 200 games, live IPL scores, updated matches, and numerous casino games, we keep you entertained all day. You can play, win, and earn money with ease. Simply send us a WhatsApp message, and receive your ID in less than a minute.</p>
     <a href="https://wa.link/drdiamondseo" class="get-id-link">WhatsApp Us Here</a>
     
     <h2>Get Your ID Now</h2>
@@ -26,7 +26,7 @@ export const CricketIDProvider = {
     <h2>How To Place Bets On Cricket Matches</h2>
     <p>Here’s how you can place bets after receiving your ID link on WhatsApp from our team. Follow these steps:</p>
     <ol>
-      <li>Login Into Your Cricket Betting Account: Click the link shared on WhatsApp and use the credentials provided by our team. Your deposited amount will be displayed.</li>
+      <li>Login Into Your <a href="https://drdiamond.com/">Cricket Betting Sites</a> Account: Click the link shared on WhatsApp and use the credentials provided by our team. Your deposited amount will be displayed.</li>
       <li>Navigate to the Cricket Betting Section: Our user-friendly platform makes it easy to find the cricket betting section, where you'll see information about ongoing and upcoming matches.</li>
       <li>Select the Match You Want to Bet On: Choose from the available matches and select the one you want to participate in.</li>
       <li>Place Your Bet: After selecting the match, explore the various betting options like ‘win home team or away team,’ ‘player scores,’ etc. Choose one at a time.</li>
