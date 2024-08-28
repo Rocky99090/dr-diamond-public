@@ -74,7 +74,7 @@ export const blogData = [
         pubDate: '14 June 2023',
         pubAuthor: 'DR DIAMOND EXCHANGE',
         metaKeywords:'ICC T20 Cricket World Cup',
-        metaTitle:'ICC T20 Cricket World Cup: A Betting Guide with DR DIAMOND EXCHANGE',
+        metaTitle:'ICC T20 Cricket World Cup: A Betting Guide with DR DIAMONDs EXCHANGE',
         metaDescription:'Welcome to DR DIAMOND EXCHANGE\'s ultimate guide to the ICC T20 Cricket World Cup! Whether you\'re a beginner or an experienced bettor, the best betting site in India is here to help you navigate the exciting world of cricket betting. So, grab your cricket cap, and let\'s get started on our thrilling adventure!'',
         ogTitle:'ICC T20 Cricket World Cup A Betting Guide with DR DIAMOND EXCHANGE',
         ogImage:'Blogs Section-MARK1',
