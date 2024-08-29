@@ -7146,6 +7146,8 @@ button {
   background-color: white !important;
   .container{
     background: linear-gradient(90deg, #0088cc, #2c3e50) !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
   }
 }
 /* .blog-single-content{
