@@ -5,13 +5,13 @@ export const CricketIDProvider = {
     metaDescription:'Dr Dimaond Exchange is Best Online Cricket ID Provider🏏 and Cricket Betting Platform in India. Offers Secure Betting IDs like Diamond Exch ID, IPL ID, Casino ID and other games..',
     ogTitle:'Online Cricket ID Provider | Cricket Betting Platform in India - Dr Diamond Exchange',
     ogImage:'Blogs Section-MARK2',
-    ogUrl:'https://drdiamond.com/cricket-id-provider',
+    ogUrl:'https://drdiamondexch.com/cricket-id-provider',
     content:`<div class="content">
     <h1>Your Most Trusted Cricket Betting Platform in India</h1>
     <p>
-      Operating since 2011, DR DIAMOND EXCHANGE is recognized as the most reliable provider of online cricket betting IDs and <b><a href="https://drdiamond.com/diamond-id-provider">Diamond Exchange ID provider in India</a></b> and beyond. We offer a straightforward and hassle-free process for creating online cricket IDs and other betting IDs to engage in various sports such as online Roulette, daily fantasy sports, and live cricket matches. Our extensive experience, transparency, multiple game options, certified online IDs, and 24/7 customer support distinguish us in the market.
+      Operating since 2011, DR DIAMOND EXCHANGE is recognized as the most reliable provider of online cricket betting IDs and <b><a href="https://drdiamondexch.com/diamond-id-provider">Diamond Exchange ID provider in India</a></b> and beyond. We offer a straightforward and hassle-free process for creating online cricket IDs and other betting IDs to engage in various sports such as online Roulette, daily fantasy sports, and live cricket matches. Our extensive experience, transparency, multiple game options, certified online IDs, and 24/7 customer support distinguish us in the market.
     </p>
-    <p>Looking for all cricket IDs? <b><a href="https://drdiamond.com/">DR DIAMOND EXCHANGE</a></b> is your go-to destination. With over 200 games, live IPL scores, updated matches, and numerous casino games, we keep you entertained all day. You can play, win, and earn money with ease. Simply send us a WhatsApp message, and receive your ID in less than a minute.</p>
+    <p>Looking for all cricket IDs? <b><a href="https://drdiamondexch.com/">DR DIAMOND EXCHANGE</a></b> is your go-to destination. With over 200 games, live IPL scores, updated matches, and numerous casino games, we keep you entertained all day. You can play, win, and earn money with ease. Simply send us a WhatsApp message, and receive your ID in less than a minute.</p>
     <a href="https://wa.link/drdiamondseo" class="get-id-link">WhatsApp Us Here</a>
     
     <h2>Get Your ID Now</h2>
@@ -26,7 +26,7 @@ export const CricketIDProvider = {
     <h2>How To Place Bets On Cricket Matches</h2>
     <p>Here’s how you can place bets after receiving your ID link on WhatsApp from our team. Follow these steps:</p>
     <ol>
-      <li>Login Into Your <b><a href="https://drdiamond.com/">Cricket Betting Sites</a></b> Account: Click the link shared on WhatsApp and use the credentials provided by our team. Your deposited amount will be displayed.</li>
+      <li>Login Into Your <b><a href="https://drdiamondexch.com/">Cricket Betting Sites</a></b> Account: Click the link shared on WhatsApp and use the credentials provided by our team. Your deposited amount will be displayed.</li>
       <li>Navigate to the Cricket Betting Section: Our user-friendly platform makes it easy to find the cricket betting section, where you'll see information about ongoing and upcoming matches.</li>
       <li>Select the Match You Want to Bet On: Choose from the available matches and select the one you want to participate in.</li>
       <li>Place Your Bet: After selecting the match, explore the various betting options like ‘win home team or away team,’ ‘player scores,’ etc. Choose one at a time.</li>
@@ -259,10 +259,10 @@ export const DiamondIDProvider = {
     metaDescription:'Diamond Exchange ID Provider - Are you Ready to Experience Online Cricket Betting? We Provide Safe & Secure Diamond Exchange ID with Original Dimaond Exchange Platform in India',
     ogTitle:'Diamond Exchange ID Provider - Dr Diamond Exchange',
     ogImage:'Blogs Section-MARK2',
-    ogUrl:'https://drdiamond.com/diamond-id-provider',
+    ogUrl:'https://drdiamondexch.com/diamond-id-provider',
     content: `<div class="content">
     <h1>Diamond Exchange ID Provider in India</h1>
-    <p>Diamond Exchange, also known as Diamond Exch, is a legal and secure <b><a href="https://drdiamond.com/cricket-id-provider">Cricket Betting ID Platform in india</a></b> offering a unique and exciting gaming experience. Established in 2022, Diamond Exchange provides users with the opportunity to play and place bets on their favorite cricket matches and games. With a focus on security and fair gaming, every customer can enjoy the game without worry.</p>
+    <p>Diamond Exchange, also known as Diamond Exch, is a legal and secure <b><a href="https://drdiamondexch.com/cricket-id-provider">Cricket Betting ID Platform in india</a></b> offering a unique and exciting gaming experience. Established in 2022, Diamond Exchange provides users with the opportunity to play and place bets on their favorite cricket matches and games. With a focus on security and fair gaming, every customer can enjoy the game without worry.</p>
     
     <h2>Get Your Diamond Exchange ID</h2>
     <p>To participate in Diamond Exchange's games and bet on live cricket matches, you'll need a cricket betting ID. We've been providing these IDs for many years. To get your cricket ID, WhatsApp us at <a href="https://wa.link/drdiamondseo">WhatsApp Link</a> or follow the process below.</p>
@@ -273,7 +273,7 @@ export const DiamondIDProvider = {
     <a href="https://wa.link/drdiamondseo" class="get-id-link">WhatsApp Us: to get the Diamond Exchange ID instantly</a>
     
     <h2>About Diamond Exchange 9</h2>
-    <p>Diamondexch 9 is a captivating platform in the online betting market, converging equal opportunities, profits, amusement, and excitement. Participate in online cricket events, betting, or engage in <b><a href="https://drdiamond.com/casino-id-provider">casino game id provider</a></b> to transform your time and luck into reward-winning chances.</p>
+    <p>Diamondexch 9 is a captivating platform in the online betting market, converging equal opportunities, profits, amusement, and excitement. Participate in online cricket events, betting, or engage in <b><a href="https://drdiamondexch.com/casino-id-provider">casino game id provider</a></b> to transform your time and luck into reward-winning chances.</p>
     
     <h3>Features of Diamondexch 9:</h3>
     <ul>
@@ -301,7 +301,7 @@ export const DiamondIDProvider = {
     </ul>
     
     <h2>What Is Diamond Exchange ID?</h2>
-    <p>A Diamond Exchange ID is a password-protected unique identifier provided to gamers and punters. This ID enables you to bet on online games, live matches, casino games, daily fantasy sports, and prediction games. Our <b><a href="https://drdiamond.com/">India's No.1 Gaming Platform</a></b> ensures safe and smooth participation in any game, anytime.</p>
+    <p>A Diamond Exchange ID is a password-protected unique identifier provided to gamers and punters. This ID enables you to bet on online games, live matches, casino games, daily fantasy sports, and prediction games. Our <b><a href="https://drdiamondexch.com/">India's No.1 Gaming Platform</a></b> ensures safe and smooth participation in any game, anytime.</p>
     
     <h3>Multiple Diamond Exchange IDs:</h3>
     <ul>
@@ -390,15 +390,15 @@ export const IPLIDProvider = {
     metaDescription:'Dr Diamond Exchange is Most Trusted and Reliable IPL Cricket Betting ID Provider in India🏏 We Create Safe and Secure Online Gaming IDs like, IPL ID, Casino ID, T20 Wolrd Cup ID and',
     ogTitle:'IPL Betting ID Provider in India - Dr Dimaond Exchange',
     ogImage:'Blogs Section-MARK2',
-    ogUrl:'https://drdiamond.com/ipl-id-provider',
+    ogUrl:'https://drdiamondexch.com/ipl-id-provider',
     content: `<div class="content">
     <h1>Your Trusted IPL Cricket Betting ID Provider in India</h1>
-    <p>DR DIAMOND EXCHANGE is your trusted and most reliable IPL & <b><a href="https://drdiamond.com/cricket-id-provider">Cricket betting ID provider in India</a></b>. We help you create an online ID in just a minute so you can enjoy the thrill of online betting from the comfort of your home. We also provide cricket IDs for all types of matches and series.</p>
+    <p>DR DIAMOND EXCHANGE is your trusted and most reliable IPL & <b><a href="https://drdiamondexch.com/cricket-id-provider">Cricket betting ID provider in India</a></b>. We help you create an online ID in just a minute so you can enjoy the thrill of online betting from the comfort of your home. We also provide cricket IDs for all types of matches and series.</p>
     
     <h2>Get Your Online IPL Cricket ID</h2>
     <p>To get your IPL betting ID, follow these simple steps:</p>
     <ol>
-        <li>Visit our website at <a href="https://drdiamond.com">DR DIAMOND EXCHANGE</a></li>
+        <li>Visit our website at <a href="https://drdiamondexch.com">DR DIAMOND EXCHANGE</a></li>
         <li>Click on the login or sign-in button to begin your registration.</li>
         <li>Contact us on WhatsApp at <a href="https://wa.link/drdiamondseo">WhatsApp Link</a> for your online betting ID.</li>
     </ol>
@@ -413,7 +413,7 @@ export const IPLIDProvider = {
     <p>Get closer to the IPL action with DR DIAMOND EXCHANGE’s exclusive IPL betting ID. Indulge in the excitement of IPL matchups, watch previews, understand the game, and place your bet confidently.</p>
     
     <h2>Why DR DIAMOND EXCHANGE is the Best IPL Betting ID Provider?</h2>
-    <p>DR DIAMOND EXCHANGE offers a safe and secure <b><a href="https://drdiamond.com/">top gaming platform in india</a></b>. With a user-friendly interface, advanced features, and 24/7 customer support, we ensure a smooth and enjoyable betting experience.</p>
+    <p>DR DIAMOND EXCHANGE offers a safe and secure <b><a href="https://drdiamondexch.com/">top gaming platform in india</a></b>. With a user-friendly interface, advanced features, and 24/7 customer support, we ensure a smooth and enjoyable betting experience.</p>
     
     <h3>Features Comparison</h3>
     <table>
@@ -496,7 +496,7 @@ export const IPLIDProvider = {
     </ul>
     
     <h2>What is the Difference Between IPL Betting ID and Online Cricket ID?</h2>
-    <p>The <b><a href="https://drdiamond.com/ipl-id-provider">IPL betting ID</a></b> is specifically for IPL matches, while the Online Cricket Betting ID covers a range of cricket-related activities. Choose the one that best suits your betting preferences.</p>
+    <p>The <b><a href="https://drdiamondexch.com/ipl-id-provider">IPL betting ID</a></b> is specifically for IPL matches, while the Online Cricket Betting ID covers a range of cricket-related activities. Choose the one that best suits your betting preferences.</p>
     
     <h2>Safe and Secure Betting</h2>
     <ul>
@@ -520,7 +520,7 @@ export const T20WorldCupIDProvider = {
     metaDescription:'T20 World Cup ID 🏆- Dr Diamond Exchange is Trusted T20 World Cup Betting ID Provider in India. Explore our Secure Betting Platform and Get Your T20 Cricket ID.',
     ogTitle:'World Cup Betting ID Provider in India - Dr Diamond Exchange',
     ogImage:'Blogs Section-MARK2',
-    ogUrl:'https://drdiamond.com/t20-world-cup',
+    ogUrl:'https://drdiamondexch.com/t20-world-cup',
     content: `<div class="content">
     <h1>T20 World Cup Betting ID Provider in India</h1>
     <p>Welcome to DR DIAMOND EXCHANGE! In the upcoming T20 Cricket World Cup, let’s enjoy the game with our T20 World Cup ID. Predict winners, buy better odds, and win cash prizes and rewards while cheering for your favorite team!</p>
@@ -530,14 +530,14 @@ export const T20WorldCupIDProvider = {
     
     <h2>About Us</h2>
     <h3>About DR DIAMOND EXCHANGE</h3>
-    <p>At <b><a href="https://drdiamond.com/">DR DIAMOND EXCHANGE</a></b>, we bring you an unparalleled experience in online gaming and betting. Whether it's predicting match outcomes, buying and selling odds, or enjoying various games, we ensure a secure and thrilling journey for every user.</p>
+    <p>At <b><a href="https://drdiamondexch.com/">DR DIAMOND EXCHANGE</a></b>, we bring you an unparalleled experience in online gaming and betting. Whether it's predicting match outcomes, buying and selling odds, or enjoying various games, we ensure a secure and thrilling journey for every user.</p>
     
     <h3>Our Partners</h3>
     <ul>
       <li>Sky Exchange Id</li>
       <li>Lord Exchange Id</li>
       <li>Silver Exchange Id</li>
-      <li><b><a href="https://drdiamond.com/diamond-id-provider">Diamond Exchange Id</a></b></li>
+      <li><b><a href="https://drdiamondexch.com/diamond-id-provider">Diamond Exchange Id</a></b></li>
       <li>Radhe Exchange Id</li>
       <li>Goexch9 com</li>
       <li>gold365</li>
@@ -551,13 +551,13 @@ export const T20WorldCupIDProvider = {
       <li>Jackpot Casino Games</li>
       <li>Lottery</li>
       <li>Online Roulette</li>
-      <li><b><a href="https://drdiamond.com/ipl-id-provider">IPL Betting ID</a></b></li>
+      <li><b><a href="https://drdiamondexch.com/ipl-id-provider">IPL Betting ID</a></b></li>
       <li>Daily Fantasy Sports</li>
       <li>Rummy</li>
       <li>Slot</li>
       <li>Online Sports Betting</li>
       <li>Teen Patti Real Cash Game</li>
-      <li><b><a href="https://drdiamond.com/casino-id-provider">Casino Betting ID</a></b></li>
+      <li><b><a href="https://drdiamondexch.com/casino-id-provider">Casino Betting ID</a></b></li>
     </ul>
     
     <h3>Customer Reviews</h3>
@@ -604,14 +604,14 @@ export const CasinoBettingIDProvider = {
     metaDescription:'Get Casino Betting ID 🎰🎲 with Dr Dimaond Exchange, We are Leading Casino Game ID Provider in India. Offers 200+ Live Games with 24*7 Customer Support.',
     ogTitle:'Casino Game ID Provider in India | Dr Dimaond Exchange',
     ogImage:'Blogs Section-MARK2',
-    ogUrl:'https://drdiamond.com/casino-id-provider',
+    ogUrl:'https://drdiamondexch.com/casino-id-provider',
     content: `<div class="content">
     <h1>DR DIAMOND EXCHANGE : Ultimate Casino Games ID Provider</h1>
     <p>Discover the Thrill of Casino Gaming with DR DIAMOND EXCHANGE! Are you passionate about poker or blackjack? Look no further—our casino betting ID is all you need to elevate your gaming experience.</p>
-    <p>Choosing the right casino ID from a reliable provider can significantly impact your gaming experience. Convenience, security, and reliability are essential, and that’s where <b><a href="https://drdiamond.com/">DR DIAMOND EXCHANGE</a></b> excels.</p>
+    <p>Choosing the right casino ID from a reliable provider can significantly impact your gaming experience. Convenience, security, and reliability are essential, and that’s where <b><a href="https://drdiamondexch.com/">DR DIAMOND EXCHANGE</a></b> excels.</p>
     
     <h2>Why Choose DR DIAMOND EXCHANGE for Your Casino Betting ID?</h2>
-    <p>DR DIAMOND EXCHANGE stands out as the premier casino & <b><a href="https://drdiamond.com/cricket-id-provider">cricket betting ID provider</a></b>. Here’s why:</p>
+    <p>DR DIAMOND EXCHANGE stands out as the premier casino & <b><a href="https://drdiamondexch.com/cricket-id-provider">cricket betting ID provider</a></b>. Here’s why:</p>
     <ul>
         <li><strong>Security and Convenience:</strong> Your safety and ease of use are our top priorities.</li>
         <li><strong>Enjoyment:</strong> We ensure a fun and seamless online casino experience.</li>
@@ -663,7 +663,7 @@ export const CasinoBettingIDProvider = {
     <p>We advocate for responsible gaming and recommend that only individuals 18 years or older participate. Trust DR DIAMOND EXCHANGE for a secure and enjoyable gaming experience.</p>
     
     <h2>Transparency and Security</h2>
-    <p>Your privacy is our priority. We ensure transparency in all operations to keep your information protected. For any queries, feel free to <b><a href="https://drdiamond.com/contact">contact us for cricket id</a></b>.</p>
+    <p>Your privacy is our priority. We ensure transparency in all operations to keep your information protected. For any queries, feel free to <b><a href="https://drdiamondexch.com/contact">contact us for cricket id</a></b>.</p>
     
     <h2>Disclaimer</h2>
     <p>This site is for users aged 18 and above. Online betting is illegal in Telangana, Arunachal Pradesh, Sikkim, Assam, and Tamil Nadu. If you are from these regions, please exit the site immediately.</p>

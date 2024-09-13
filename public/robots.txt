@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
-Sitemap : https://drdiamond.com/sitemap.xml
+Sitemap : https://drdiamondexch.com/sitemap.xml
 User-agent: *
 Disallow:

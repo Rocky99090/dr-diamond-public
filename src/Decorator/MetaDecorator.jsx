@@ -10,8 +10,8 @@ const MetaDecorator = ({ title, description, keywords, pathname }) => (
         <meta name="description" content={description} />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
-        <meta property="og:image" content='https://drdiamond.com/static/media/1favicon.png' />
-        <meta property="og:url" content={`https://drdiamond.com//${pathname}`} />
+        <meta property="og:image" content='https://drdiamondexch.com/static/media/1favicon.png' />
+        <meta property="og:url" content={`https://drdiamondexch.com//${pathname}`} />
   </Helmet>
 );
 MetaDecorator.propTypes = {
