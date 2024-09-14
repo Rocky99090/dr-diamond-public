@@ -66,7 +66,7 @@ export const blogData = [
     },
     {
         id: "ICC-T20-Cricket-World-Cup-A-Betting-Guide-with-DR-DIAMOND-EXCHANGE",
-        imgUrl: '/assets/images/blog/03.jpg',
+        imgUrl: '/assets/images/blog/4.jpg',
         imgAlt: 'ICC T20 Cricket World Cup: A Betting Guide with DR DIAMOND EXCHANGE',
         title: 'ICC T20 Cricket World Cup: A Betting Guide with DR DIAMOND EXCHANGE',
         desc: 'Welcome to DR DIAMOND EXCHANGE\'s ultimate guide to the ICC T20 Cricket World Cup! Whether you\'re a beginner or an experienced bettor, the best betting site in India is here to help you navigate the exciting world of cricket betting. So, grab your cricket cap, and let\'s get started on our thrilling adventure!',
