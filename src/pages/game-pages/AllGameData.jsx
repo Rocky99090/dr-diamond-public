@@ -384,7 +384,7 @@ export const DiamondIDProvider = {
 }
 
 export const IPLIDProvider = {
-    title: 'Get Online IPL Crikcet ID: DR DIAMOND EXCHANGE',
+    title: 'Get Online IPL Cricket ID: DR DIAMOND EXCHANGE',
     metaKeywords:'IPL id, IPL id provider in india, IPL betting id  provider in india, IPL cricket id online in india',
     metaTitle:'IPL ID | IPL Cricket ID | IPL Betting ID Provider in India - Dr Dimaond Exchange',
     metaDescription:'Dr Diamond Exchange is Most Trusted and Reliable IPL id, IPL Cricket ID, IPL Betting ID Provider in India🏏 We Create Safe and Secure Online IPL Gaming IDs like, IPL ID, Casino ID, T20 Wolrd Cup ID and',
