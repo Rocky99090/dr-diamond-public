@@ -16,6 +16,7 @@ export const blogData = [
         ogImage:'Blogs Section-MARK1',
         ogUrl:'https://drdiamondexch.com/blog-single/Unlock-Your-Winning-Potential-with-Dr-Diamond-India-Best-Cricket-ID-Provider',
         content: `
+        <h2>Unlock Your Winning Potential with Dr Diamond: India’s Best Cricket ID Provider</h2>
         <p>Welcome to Dr Diamond, your ultimate destination for online cricket betting! As India’s leading online cricket ID provider, we’re here to elevate your betting experience and maximize your winning opportunities. With thrilling matches on the horizon, there's no better time to engage with the <b><a href="https://drdiamondexch.com/cricket-id-provider">best online cricket betting ID provider in India</a></b>.</p>
     
         <h2>Mastering Cricket Betting with Dr Diamond</h2>
