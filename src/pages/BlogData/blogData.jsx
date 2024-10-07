@@ -16,6 +16,7 @@ export const blogData = [
         ogImage:'Blogs Section-MARK1',
         ogUrl:'https://drdiamondexch.com/blog-single/Indias-Thrilling-Test-Victory-Over-Bangladesh-A-Masterclass-in-Dominance',
         content: `
+        <h2>Indias Thrilling Test Victory Over Bangladesh A Masterclass in Dominance</h2
         <p>On October 1, 2024, India claimed an unforgettable victory over Bangladesh in the second Test of the series, continuing their dominance in the format. This historic win showcased India's ability to break records while maintaining their supremacy across all cricket formats.</p>
 
         <h2>India’s Explosive Batting Display</h2>
