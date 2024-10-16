@@ -255,8 +255,8 @@ export const CricketIDProvider = {
 export const DiamondIDProvider = {
     title: 'Experience Online Betting with Diamond Exchange Platform',
     metaKeywords:'diamond id provider in india, diamond exchange id provider in india, diamond exchange cricket id in india, diamond exchange platform in india',
-    metaTitle:'Diamond Exchange | Diamond Exchange ID Provider | Dimaond Exchange Platform in India - Dr Diamond Exchange',
-    metaDescription:'Diamond Exchange ID Provider - Are you Ready to Experience Online Cricket Betting? We Provide Safe & Secure Diamond Exchange ID with Original Dimaond Exchange Platform in India',
+    metaTitle:'Diamond Exchange💎 | Diamond Exchange ID Provider | Dimaond Exchange Platform in India - Dr Diamond Exchange',
+    metaDescription:'Diamond Exchange ID Provider💎- Are you Ready to Experience Online Cricket Betting? We Provide Safe & Secure Diamond Exchange ID with Original Dimaond Exchange Platform in India',
     ogTitle:'Diamond Exchange ID Provider - Dr Diamond Exchange',
     ogImage:'Blogs Section-MARK2',
     ogUrl:'https://drdiamondexch.com/diamond-id-provider',
@@ -386,8 +386,8 @@ export const DiamondIDProvider = {
 export const IPLIDProvider = {
     title: 'Get Online IPL Cricket ID: DR DIAMOND EXCHANGE',
     metaKeywords:'IPL id, IPL id provider in india, IPL betting id  provider in india, IPL cricket id online in india',
-    metaTitle:'IPL ID | IPL Cricket ID | IPL Betting ID Provider in India - Dr Dimaond Exchange',
-    metaDescription:'Dr Diamond Exchange is Most Trusted and Reliable IPL id, IPL Cricket ID, IPL Betting ID Provider in India🏏 We Create Safe and Secure Online IPL Gaming IDs like, IPL ID, Casino ID, T20 Wolrd Cup ID and',
+    metaTitle:'IPL ID🏏 | IPL Cricket ID | IPL Betting ID Provider in India - Dr Dimaond Exchange',
+    metaDescription:'Dr Diamond Exchange is Most Trusted and Reliable IPL Id🏏, IPL Cricket ID, IPL Betting ID Provider in India🏏 We Create Safe and Secure Online IPL Gaming IDs like, IPL ID, Casino ID, T20 Wolrd Cup ID and',
     ogTitle:'IPL Betting ID Provider in India - Dr Dimaond Exchange',
     ogImage:'Blogs Section-MARK2',
     ogUrl:'https://drdiamondexch.com/ipl-id-provider',
@@ -516,8 +516,8 @@ export const IPLIDProvider = {
 export const T20WorldCupIDProvider = {
     title: 'Your Ultimate Destination for T20 World Cup ID!',
     metaKeywords:'T20 World Cup ID | T20 world cup id provider, world cup betting id provider, T20 Cricket ID Online in india',
-    metaTitle:'T20 World Cup ID | T20 World Cup Cricket ID | T20 World Cup Betting ID Provider in India - Dr Diamond Exchange',
-    metaDescription:'T20 World Cup ID 🏆- Dr Diamond Exchange is Trusted T20 World Cup Cricket ID & T20 World Cup Betting ID Provider in India. Explore our Secure Betting Platform and Get Your T20 Cricket ID.',
+    metaTitle:'T20 World Cup ID🏆| T20 World Cup Cricket ID | T20 World Cup Betting ID Provider in India - Dr Diamond Exchange',
+    metaDescription:'T20 World Cup ID🏆- Dr Diamond Exchange is Trusted T20 World Cup Cricket ID & T20 World Cup Betting ID Provider in India. Explore our Secure Betting Platform and Get Your T20 Cricket ID.',
     ogTitle:'World Cup Betting ID Provider in India - Dr Diamond Exchange',
     ogImage:'Blogs Section-MARK2',
     ogUrl:'https://drdiamondexch.com/t20-world-cup',
@@ -600,7 +600,7 @@ export const T20WorldCupIDProvider = {
 export const CasinoBettingIDProvider = {
     title: 'DR DIAMOND EXCHANGE: Casino Betting ID Provider',
     metaKeywords:'casino id, casino id provider in india, casino betting id provider in india, casino game id provider',
-    metaTitle:'Casino ID | Casino Betting ID | Casino Game ID Provider in India | Dr Dimaond Exchange',
+    metaTitle:'Casino ID🎲 | Casino Betting ID | Casino Game ID Provider in India | Dr Dimaond Exchange',
     metaDescription:'Get Casino Betting ID in India 🎰🎲 with Dr Dimaond Exchange, We are Leading Casino Betting Game ID Provider in India. Offers 200+ Live Games with 24*7 Customer Support.',
     ogTitle:'Casino Game ID Provider in India | Dr Dimaond Exchange',
     ogImage:'Blogs Section-MARK2',
