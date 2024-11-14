@@ -1,6 +1,59 @@
 export const blogData = [
 
     {
+        id: "TATA-IPL-2025-Player-Retentions-and-Whats-Next-for-Indian-Gaming-Platforms",
+        imgUrl: '/assets/images/blog/TATA IPL 2025 Player Retentions and What’s Next for Indian Gaming Platforms.jpg',
+        imgAlt: 'TATA IPL 2025: Player Retentions and What’s Next for Indian Gaming Platforms',
+        title: 'TATA IPL 2025: Player Retentions and What’s Next for Indian Gaming Platforms',
+        desc: 'The excitement for TATA IPL 2025 is already building up, as the player retention window officially closed on October 31, 2024. With all 10 franchises locking in their core lineups, the anticipation for the upcoming season is palpable. A total of 46 players have been retained across all teams, investing a massive INR 558.5 crore, setting the stage for an action-packed season of cricket.',
+        btnText: 'read more',
+        pubDate: '14 November 2024',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'Indian Gaming Platforms',
+        metaTitle:'TATA IPL 2025: Player Retentions and What’s Next for Indian Gaming Platforms',
+        metaDescription:"The excitement for TATA IPL 2025 is already building up, as the player retention window officially closed on October 31, 2024. With all 10 franchises locking in their core lineups, the anticipation for the upcoming season is palpable. A total of 46 players have been retained across all teams, investing a massive INR 558.5 crore, setting the stage for an action-packed season of cricket.",
+        ogTitle:'TATA IPL 2025: Player Retentions and What’s Next for Indian Gaming Platforms',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/TATA-IPL-2025-Player-Retentions-and-Whats-Next-for-Indian-Gaming-Platforms',
+        content: `
+           <h2>TATA IPL 2025: Player Retentions and What’s Next for Indian Gaming Platforms</h2>
+    <p>The excitement for TATA IPL 2025 is already building up, as the player retention window officially closed on October 31, 2024. With all 10 franchises locking in their core lineups, the anticipation for the upcoming season is palpable. A total of 46 players have been retained across all teams, investing a massive INR 558.5 crore, setting the stage for an action-packed season of cricket.</p>
+
+    <p>Among the big names retained, the defending champions, Kolkata Knight Riders, and the inaugural season champions, Rajasthan Royals, have opted for full retentions, keeping six players each. Teams like Chennai Super Kings, Gujarat Titans, Lucknow Super Giants, Mumbai Indians, and Sunrisers Hyderabad have held on to five players, while Delhi Capitals, Royal Challengers Bengaluru, and Punjab Kings have retained a smaller number of players. With a hefty INR 120 crore salary cap available for the mega auction, franchises are now poised to fine-tune their squads.</p>
+
+    <p>For cricket fans and fantasy sports enthusiasts, IPL is more than just a tournament; it's an event that fuels excitement on and off the field. The growing popularity of fantasy sports and <b><a href="https://drdiamondexch.com/cricket-id-provider">cricket betting platforms</a></b>, such as Dr Diamond Exchange, offers a unique way for fans to engage with the game. As teams prepare for the upcoming season, fans are eagerly anticipating the player performances, strategic changes, and the overall spectacle of IPL 2025.</p>
+
+    <h2>Retained Players</h2>
+    <ul>
+        <li><strong>Chennai Super Kings:</strong> Ruturaj Gaikwad, Matheesha Pathirana, Shivam Dube, Ravindra Jadeja, MS Dhoni</li>
+        <li><strong>Delhi Capitals:</strong> Axar Patel, Kuldeep Yadav, Tristan Stubbs, Abhishek Porel</li>
+        <li><strong>Gujarat Titans:</strong> Rashid Khan, Shubman Gill, Sai Sudharsan, Rahul Tewatia, Shahrukh Khan</li>
+        <li><strong>Kolkata Knight Riders:</strong> Rinku Singh, Varun Chakaravarthy, Sunil Narine, Andre Russell, Harshit Rana, Ramandeep Singh</li>
+        <li><strong>Lucknow Super Giants:</strong> Nicholas Pooran, Ravi Bishnoi, Mayank Yadav, Mohsin Khan, Ayush Badoni</li>
+        <li><strong>Mumbai Indians:</strong> Jasprit Bumrah, Suryakumar Yadav, Hardik Pandya, Rohit Sharma, Tilak Varma</li>
+        <li><strong>Punjab Kings:</strong> Shashank Singh, Prabhsimran Singh</li>
+        <li><strong>Rajasthan Royals:</strong> Sanju Samson, Yashaswi Jaiswal, Riyan Parag, Dhruv Jurel, Shimron Hetmyer, Sandeep Sharma</li>
+        <li><strong>Royal Challengers Bengaluru:</strong> Virat Kohli, Rajat Patidar, Yash Dayal</li>
+        <li><strong>Sunrisers Hyderabad:</strong> Pat Cummins, Abhishek Sharma, Nitish Kumar Reddy, Heinrich Klaasen, Travis Head</li>
+    </ul>
+
+    <h2>Dr Diamond Exchange: Your Gaming Platform for IPL 2025</h2>
+    <p>If you’re looking to improve your IPL experience, Dr Diamond Exchange is the ultimate <b><a href="https://drdiamondexch.com/">gaming platform in India</a></b>. As one of the top Indian gaming platforms, it offers a thrilling and secure space for players to get involved in fantasy sports, betting, and other engaging activities throughout the IPL season. Whether you’re a seasoned bettor or a new player, Dr Diamond Exchange caters to every type of cricket enthusiast, ensuring a seamless and exciting gaming experience.</p>
+
+    <p>With the IPL 2025 right around the corner, there’s no better time to get started. You can engage with the game beyond the stadium by selecting your fantasy cricket teams, placing bets, and even participating in exclusive challenges. The anticipation surrounding the IPL is only going to get higher, and platforms like Dr Diamond Exchange ensure that you don’t miss a single moment of the action.</p>
+
+    <p>So, gear up for IPL 2025, as the best players across the world bring their A-game to the pitch. Join Dr Diamond Exchange today and become part of the excitement, whether you're betting on match outcomes or predicting player performances. With IPL and fantasy gaming combining, there’s plenty of fun and rewards in store this season.</p>
+
+    <p><strong>Are you ready for the thrill of IPL 2025?</strong><br>Get ready to make your predictions and test your cricketing knowledge on one of the best gaming platforms in India—Dr Diamond Exchange.</p>
+</body>
+</html>
+
+
+`
+    },
+
+
+    {
         id: "IPL-2025-Player-Auction-Highlights-New-Teams-and-Key-Updates",
         imgUrl: '/assets/images/blog/IPL 2025 Player Auction Highlights, New Teams, and Key Updates.jpg',
         imgAlt: 'IPL 2025 Player Auction Highlights, New Teams, and Key Updates',
