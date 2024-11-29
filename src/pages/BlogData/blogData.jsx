@@ -1,6 +1,52 @@
 export const blogData = [
 
     {
+        id: "Rishabh-Pants-₹27-Crore-Record-Breaking-Auction-A-New-Era-for-Indian-Cricket-and-Gaming-Enthusiasts",
+        imgUrl: '/assets/images/blog/Rishabh Pants ₹27 Crore Record Breaking Auction.jpg',
+        imgAlt: 'Rishabh Pant’s ₹27 Crore Record-Breaking Auction: A New Era for Indian Cricket and Gaming Enthusiasts',
+        title: 'Rishabh Pant’s ₹27 Crore Record-Breaking Auction: A New Era for Indian Cricket and Gaming Enthusiasts',
+        desc: 'The Indian Premier League (IPL) has always been a stage for history-making moments, and the 2025 auction held in Jeddah added another chapter to its legacy. Rishabh Pant became the most expensive player in IPL history, fetching a staggering ₹27 crore from Lucknow Super Giants (LSG). This record-breaking bid surpassed the ₹26.75 crore paid for Shreyas Iyer by Punjab Kings just moments earlier.',
+        btnText: 'read more',
+        pubDate: '28 November 2024',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'Best Sports Websites in India',
+        metaTitle:'Rishabh Pant’s ₹27 Crore Record-Breaking Auction: A New Era for Indian Cricket and Gaming Enthusiasts',
+        metaDescription:"The Indian Premier League (IPL) has always been a stage for history-making moments, and the 2025 auction held in Jeddah added another chapter to its legacy. Rishabh Pant became the most expensive player in IPL history, fetching a staggering ₹27 crore from Lucknow Super Giants (LSG). This record-breaking bid surpassed the ₹26.75 crore paid for Shreyas Iyer by Punjab Kings just moments earlier.",
+        ogTitle:'Rishabh Pant’s ₹27 Crore Record-Breaking Auction: A New Era for Indian Cricket and Gaming Enthusiasts',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/Rishabh-Pants-₹27-Crore-Record-Breaking-Auction-A-New-Era-for-Indian-Cricket-and-Gaming-Enthusiasts',
+        content: `
+            <h2>Rishabh Pant’s ₹27 Crore Record-Breaking Auction: A New Era for Indian Cricket and Gaming Enthusiasts</h2>
+            <p>The Indian Premier League (IPL) has always been a stage for history-making moments, and the 2025 auction held in Jeddah added another chapter to its legacy. Rishabh Pant became the most expensive player in IPL history, fetching a staggering ₹27 crore from Lucknow Super Giants (LSG). This record-breaking bid surpassed the ₹26.75 crore paid for Shreyas Iyer by Punjab Kings just moments earlier.</p>
+            <p>Pant’s triumphant return to the IPL after a 14-month injury hiatus due to a car accident made this moment all the more spectacular. His unwavering resilience and game-changing abilities sparked an intense bidding war that captivated fans and franchises.</p>
+        </section>
+        
+        <section>
+            <h2>Transforming Cricket and Gaming in India</h2>
+            <p>Pant’s record auction signals more than just a milestone for cricket; it highlights the growing intersection between sports and gaming platforms in India. With cricket being a cornerstone of the Indian entertainment landscape, platforms like <strong>Dr Diamond Exchange</strong> are redefining how fans engage with their favorite sport.</p>
+            <p>As a leading Indian gaming platform, Dr Diamond Exchange provides a seamless and innovative experience for cricket lovers. From live match updates to gaming features that bring the thrill of the IPL to your fingertips, this platform bridges the gap between the virtual and real-world excitement of cricket.</p>
+        </section>
+
+        <section>
+            <h2>Rishabh Pant: A Star Player in Cricket and Gaming</h2>
+            <p>Pant’s exceptional skills make him a sought-after icon, both on the field and in the gaming space. His ability to deliver under pressure resonates with players on platforms like Dr Diamond Exchange, where strategy and precision are key to success. Gaming enthusiasts often look to recreate the energy of the IPL, making Indian gaming platforms integral to the modern cricket experience.</p>
+        </section>
+
+        <section>
+            <h2>The Evolving Landscape of Indian Gaming Platforms</h2>
+            <p>The IPL’s influence extends far beyond the cricket pitch, driving the evolution of gaming platforms in India. Dr Diamond Exchange, as a trailblazer, offers unparalleled opportunities for users to participate in the excitement, whether through virtual games, predictions, or interactive features.</p>
+            <p>The 2025 IPL season, with its record-breaking deals and superstar performances, is set to elevate the fan experience. For gaming enthusiasts, platforms like Dr Diamond Exchange ensure they remain part of the action every step of the way.</p>
+        </section>
+
+        <section>
+            <p>As Rishabh Pant prepares to lead LSG with his unmatched talent, the combination of cricket and gaming promises an unforgettable season. Experience the thrill, strategy, and excitement on the best Indian gaming platform – <strong>Dr Diamond Exchange</strong>.</p>
+
+`
+    },
+
+
+    
+    {
         id: "TATA-IPL-2025-Player-Retentions-and-Whats-Next-for-Indian-Gaming-Platforms",
         imgUrl: '/assets/images/blog/TATA IPL 2025 Player Retentions and What’s Next for Indian Gaming Platforms.jpg',
         imgAlt: 'TATA IPL 2025: Player Retentions and What’s Next for Indian Gaming Platforms',
