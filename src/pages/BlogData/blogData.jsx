@@ -2,7 +2,7 @@ export const blogData = [
 
     {
         id: "AB-de-Villiers-The-Man-Who-Changed-Cricket-Forever",
-        imgUrl: '/assets/images/blog/AB de Villiers: The Man Who Changed Cricket Forever.jpg',
+        imgUrl: '/assets/images/blog/AB de Villiers The Man Who Changed Cricket Forever.jpg',
         imgAlt: 'AB de Villiers The Man Who Changed Cricket Forever',
         title: 'AB de Villiers The Man Who Changed Cricket Forever',
         desc: 'In the world of cricket, there are players who capture the imagination of fans and leave an indelible mark on the game. One such player is Abraham Benjamin de Villiers, a name that is synonymous with elegance, innovation, and fearlessness. For many, AB de Villiers wasn’t just a cricketer – he was a magician with the bat. A man capable of creating shots that seemed to defy the laws of physics and playing with an unpredictable flair that made him a nightmare for bowlers across the globe. But what made de Villiers truly special was his versatility. His ability to play shots in every direction, combined with his innovative approach, earned him the nickname “Mr. 360.”',
@@ -46,7 +46,7 @@ export const blogData = [
         </section>
         <section>
             <h2>Conclusion</h2>
-            <p>AB de Villiers’ retirement may have marked the end of an era, but his legacy in cricket, especially in the IPL, continues to inspire. His records stand as a challenge to future generations, and his unmatched style of play ensures that he will always be remembered as one of the game’s greats. For cricket bettors, staying informed through the latest cricket blogs and tips is key to making successful bets, especially when players like AB de Villiers were once in action. So, whether you're a fan or a bettor, de Villiers’ impact on cricket will never be forgotten.</p>
+            <p>AB de Villiers’ retirement may have marked the end of an era, but his legacy in cricket, especially in the IPL, continues to inspire. His records stand as a challenge to future generations, and his unmatched style of play ensures that he will always be remembered as one of the game’s greats. For cricket bettors, staying informed through the <b><a href="https://drdiamondexch.com/blog">latest cricket blogs and tips</a></b> is key to making successful bets, especially when players like AB de Villiers were once in action. So, whether you're a fan or a bettor, de Villiers’ impact on cricket will never be forgotten.</p>
 
 `
     },
