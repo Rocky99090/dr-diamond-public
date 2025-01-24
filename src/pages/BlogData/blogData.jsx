@@ -2,7 +2,7 @@ export const blogData = [
 
     {
         id: "From-Passion-to-Play-Explore-the-World-of-DR-Diamond-Exchange-for-Cricket-Enthusiasts",
-        imgUrl: '/assets/images/blog/From T20 to Tests How Indian Batting is Adapting to Change.jpg',
+        imgUrl: '/assets/images/blog/From Passion to Play: Explore the World of DR Diamond Exchange for Cricket Enthusiasts.jpg',
         imgAlt: 'From Passion to Play: Explore the World of DR Diamond Exchange for Cricket Enthusiasts',
         title: 'From Passion to Play: Explore the World of DR Diamond Exchange for Cricket Enthusiasts',
         desc: 'Cricket enthusiasts are always on the lookout for ways to draw closer to the game. From keenly following up live scores to discussing each minute detail of the match with their friends, the excitement never comes to an end. However, in this world where digital innovation is transforming the way we engage with sports, cricket has much more than being a spectator. It will be great when the passion of playing the game merges with the high-end technology empowering innovation, analysis, and participation in a totally new way. The DR Diamond Exchange platform offers Cricket enthusiasts the ability to engage in a different cricket experience in a completely innovative, responsible gaming environment.',
