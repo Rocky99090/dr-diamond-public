@@ -2,7 +2,7 @@ export const blogData = [
 
     {
         id: "ICC-Champions-Trophy-2025-Your-Roadmap-to-the-IN-vs-NZ",
-        imgUrl: '/assets/images/blog/ICC Champions Trophy 2025: Your Roadmap to the IN vs NZ.jpg',
+        imgUrl: '/assets/images/blog/ICC Champions Trophy 2025 Your Roadmap to the IN vs NZ.jpg',
         imgAlt: 'ICC Champions Trophy 2025: Your Roadmap to the IN vs NZ',
         title: 'ICC Champions Trophy 2025: Your Roadmap to the IN vs NZ',
         desc: 'The ICC Champions Trophy 2025 has turned out to be one rollercoaster ride of matchless thrillers, and cricket fans are all ready now for the decisive finale. India is scheduled to meet New Zealand on March 9, 2025, at Dubai International Cricket Stadium in an effort to take the most-coveted trophy.The duo teams have shown explosive form in facing gigantic tests to reach so far. With glory, rivalry, and history riding on, this final will be an experience to remember.',
@@ -40,7 +40,6 @@ export const blogData = [
         
         <h2>Conclusion: A Final for the Ages</h2>
         <p>With India and New Zealand set to face each other in the ICC Champions Trophy 2025 final, fans can look forward to a battle of nerves, skill, and determination. Whether it is India's desire to regain supremacy or New Zealand's quest for their first Champions Trophy, the match is going to be a cricketing extravaganza. With the countdown on, one question remains—on March 9, who will hoist the trophy? The world will be watching as history is made in Dubai!</p>
-
 
 `
     },
