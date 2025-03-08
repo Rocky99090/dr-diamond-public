@@ -1,6 +1,52 @@
 export const blogData = [
 
     {
+        id: "ICC-Champions-Trophy-2025-Your-Roadmap-to-the-IN-vs-NZ",
+        imgUrl: '/assets/images/blog/ICC Champions Trophy 2025: Your Roadmap to the IN vs NZ.jpg',
+        imgAlt: 'ICC Champions Trophy 2025: Your Roadmap to the IN vs NZ',
+        title: 'ICC Champions Trophy 2025: Your Roadmap to the IN vs NZ',
+        desc: 'The ICC Champions Trophy 2025 has turned out to be one rollercoaster ride of matchless thrillers, and cricket fans are all ready now for the decisive finale. India is scheduled to meet New Zealand on March 9, 2025, at Dubai International Cricket Stadium in an effort to take the most-coveted trophy.The duo teams have shown explosive form in facing gigantic tests to reach so far. With glory, rivalry, and history riding on, this final will be an experience to remember.',
+        btnText: 'read more',
+        pubDate: '08 March 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'Best cricket ID provider in India',
+        metaTitle:'ICC Champions Trophy 2025: Your Roadmap to the IN vs NZ',
+        metaDescription:"The ICC Champions Trophy 2025 has turned out to be one rollercoaster ride of matchless thrillers, and cricket fans are all ready now for the decisive finale. India is scheduled to meet New Zealand on March 9, 2025, at Dubai International Cricket Stadium in an effort to take the most-coveted trophy.The duo teams have shown explosive form in facing gigantic tests to reach so far. With glory, rivalry, and history riding on, this final will be an experience to remember.",
+        ogTitle:'ICC Champions Trophy 2025: Your Roadmap to the IN vs NZ',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/ICC-Champions-Trophy-2025-Your-Roadmap-to-the-IN-vs-NZ',
+        content: `
+            <h2>ICC Champions Trophy 2025: Your Roadmap to the IN vs NZ</h2>
+        
+        <p>The ICC Champions Trophy 2025 has turned out to be one rollercoaster ride of matchless thrillers, and cricket fans are all ready now for the decisive finale. India is scheduled to meet New Zealand on March 9, 2025, at Dubai International Cricket Stadium in an effort to take the most-coveted trophy. The duo teams have shown explosive form in facing gigantic tests to reach so far. With glory, rivalry, and history riding on, this final will be an experience to remember.</p>
+        
+        <h2>India and New Zealand: A Journey of Grit and Glory</h2>
+        <p>India and New Zealand both went through a rollercoaster ride to the Champions Trophy 2025 final, with first-class cricket and grit. India, under the leadership of Virat Kohli, overwhelmed with an all-around performance to outshine edge-of-the-seat thriller during the group stage and beat a closely contested semifinal match against Australia. With Rohit Sharma's batting and Jasprit Bumrah's lethal bowling, the Men in Blue have been invincible.</p>
+        <p>New Zealand, who were famous for being consistent in ICC tournaments, went on to win against South Africa by a margin of a massive 50 runs in the semifinal. Due to consistent batting by Devon Conway and Trent Boult's sharpness with the ball with Kane Williamson leading, the Black Caps are now close to making history.</p>
+        
+        <h2>A Rivalry Etched in ICC History</h2>
+        <p>Whenever India and New Zealand clash in ICC tournaments, the tension runs high. New Zealand has long dominated, having won the 2000 Champions Trophy final and the 2021 ICC World Test Championship. But in this tournament, India flipped the script as they beat the Kiwis by 44 runs in the group stage. The match offers India an opportunity to take revenge against previous failures and New Zealand will attempt to assert its dominance in pressure matches.</p>
+        
+        <h2>Players Who Can Turn the Game</h2>
+        <p>The climax for the Champions Trophy 2025 will showcase some of the finest talents in world cricket. Leading India’s charge will be none other than Kohli who is expected to single-handedly turn the match around in case of a high-pressure chase. Jasprit Bumrah, with his deadly yorkers and ability to pick up wickets at crucial times, is still a threat to the opposing team.</p>
+        <p>New Zealand, however, will bank on Kane Williamson, the pillar of their batting unit. Devon Conway's form will be crucial in providing the Black Caps with a good platform, while Trent Boult, known for performing under pressure, will seek to unsettle India's top order through early wickets.</p>
+        
+        <h2>The Grand Stage: Conditions and Match-Day Setup</h2>
+        <p>The Dubai International Cricket Stadium has a well-balanced pitch, providing a suitable challenge to both batters and bowlers. Hot and humid weather will make fitness and stamina top considerations.</p>
+        <p>To go with the high-octane on-field action is the presence of elite ICC umpires Paul Reiffel and Richard Illingworth, who will implement fair play rules in this high-voltage game.</p>
+        
+        <h2>Stay Updated with DR Diamond Exchange</h2>
+        <p>For the most up-to-date news, expert views, and exclusive analysis of Champions Trophy 2025, please visit <b><a href="https://drdiamondexch.com/blog">Latest Cricket Blogs</a></b> on DR Diamond Exchange. Starting from match previews to player or strategic reports, DR Diamond Exchange has everything that you should know about cricket.</p>
+        
+        <h2>Conclusion: A Final for the Ages</h2>
+        <p>With India and New Zealand set to face each other in the ICC Champions Trophy 2025 final, fans can look forward to a battle of nerves, skill, and determination. Whether it is India's desire to regain supremacy or New Zealand's quest for their first Champions Trophy, the match is going to be a cricketing extravaganza. With the countdown on, one question remains—on March 9, who will hoist the trophy? The world will be watching as history is made in Dubai!</p>
+
+
+`
+    },
+
+
+    {
         id: "Rolling-the-Dice-Online-The-Best-Casino-ID-Provider-in-India",
         imgUrl: '/assets/images/blog/Rolling the Dice Online The Best Casino ID Provider in India.jpg',
         imgAlt: 'Rolling the Dice Online: The Best Casino ID Provider in India',
