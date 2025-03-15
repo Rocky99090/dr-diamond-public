@@ -1,5 +1,60 @@
 export const blogData = [
 
+{
+        id: "IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More",
+        imgUrl: '/assets/images/blog/IPL Match 2025: Schedule, Ticket Booking Details, and More.jpg',
+        imgAlt: 'IPL Match 2025: Schedule, Ticket Booking Details, and More',
+        title: 'IPL Match 2025: Schedule, Ticket Booking Details, and More',
+        desc: 'With the excitement building, IPL 2025 will kick off with 74 matches on March 22, 2025, across 13 venues throughout India. The tournament opener will be a high-octane clash at Eden Gardens in Kolkata, where Kolkata Knight Riders will take on Royal Challengers Bangalore, while the grand finale will take place in Kolkata on May 25, 2025. This is an exciting time for teams, allied with the live experience that cricket fans are looking forward to before they are fully absorbed in booking tickets to the matches. If youre wondering where to get your tickets for the IPL 2025 and what they will cost, here is everything you need to know.',
+        btnText: 'read more',
+        pubDate: '15 March 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'Best cricket ID provider in India',
+        metaTitle:'IPL Match 2025: Schedule, Ticket Booking Details, and More',
+        metaDescription:"With the excitement building, IPL 2025 will kick off with 74 matches on March 22, 2025, across 13 venues throughout India. The tournament opener will be a high-octane clash at Eden Gardens in Kolkata, where Kolkata Knight Riders will take on Royal Challengers Bangalore, while the grand finale will take place in Kolkata on May 25, 2025. This is an exciting time for teams, allied with the live experience that cricket fans are looking forward to before they are fully absorbed in booking tickets to the matches. If you're wondering where to get your tickets for the IPL 2025 and what they will cost, here is everything you need to know.",
+        ogTitle:'IPL Match 2025: Schedule, Ticket Booking Details, and More',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More',
+        content: `
+            <h2>IPL Match 2025: Schedule, Ticket Booking Details, and More</h2>
+        
+        <p>With the excitement building, IPL 2025 will kick off with 74 matches on March 22, 2025, across 13 venues throughout India. The tournament opener will be a high-octane clash at Eden Gardens in Kolkata, where Kolkata Knight Riders will take on Royal Challengers Bangalore, while the grand finale will take place in Kolkata on May 25, 2025. This is an exciting time for teams, allied with the live experience that cricket fans are looking forward to before they are fully absorbed in booking tickets to the matches. If you're wondering where to get your tickets for the IPL 2025 and what they will cost, here is everything you need to know.</p>
+    </section>
+
+    <section>
+        <h2>Where Is IPL 2025 Being Played?</h2>
+        <p>The event will be conducted in multiple venues, with several teams hosting matches in multiple home grounds. Delhi Capitals (DC) will host their home games in Visakhapatnam and at the New Delhi Arun Jaitley Stadium. Rajasthan Royals (RR) will have half their matches held in Guwahati and at the Sawai Mansingh Stadium in Jaipur. Punjab Kings (PBKS) will have matches at New PCA Stadium in New Chandigarh and HPCA Stadium in Dharamsala. Gujarat Titans (GT) will have their home matches in the Narendra Modi Stadium in Ahmedabad, while Mumbai Indians (MI) will have their matches in the iconic Wankhede Stadium in Mumbai.</p>
+        <p>Chennai Super Kings (CSK) will be home to the MA Chidambaram Stadium in Chennai, and Kolkata Knight Riders (KKR) will be home to Eden Gardens in Kolkata.</p>
+        <p>Qualifier and Eliminator matches of the IPL 2025 Playoffs will be held in Hyderabad, and Qualifier 2 and the final will be held in Kolkata.</p>
+    </section>
+
+    <section>
+        <h2>How to Book IPL 2025 Tickets Online</h2>
+        <p>Cricket fans looking to book IPL match 2025 tickets online have a variety of websites to choose from. Official ticketing partners like BookMyShow, Paytm Insider, and IPLT20.com will be selling tickets online. To buy your ticket, visit a ticket website like BookMyShow, Paytm, or the official website of IPL. Choose your match and your desired location. Choose your seating category, ranging from General Admission to VIP or Corporate Boxes. Go to the checkout and provide your payment information. Pay through debit/credit card, UPI, or net banking. Upon payment, you will get a confirmation SMS or email with e-ticket information. The most convenient method to book IPL tickets is online booking, as it enables you to compare prices, select the best seats, and save time from waiting in queues.</p>
+
+    <section>
+        <h2>How to Buy IPL 2025 Tickets Offline</h2>
+        <p>For those who prefer buying IPL 2025 tickets offline, stadium box offices and authorized retail outlets will be issuing physical tickets. In order to buy tickets offline, visit the stadium box office or an authorized ticket outlet. Check for ticket availability for your preferred match and seat type. Provide a valid document such as Aadhaar, PAN card, or passport if requested. Pay in cash, card, or mobile wallet and collect your ticket upon payment confirmation. It is advisable to arrive early while purchasing tickets offline, as in-demand matches get sold out early.</p>
+    </section>
+
+    <section>
+        <h2>IPL Cricket Ticket Price for 2025</h2>
+        <p>The cost of an IPL 2025 ticket will range according to the stadium, category of seat, and demand. While the official ticket prices have to be announced, referring to past seasons, general stands may start from ₹500-₹1,000, while premium seats may range from ₹5,000 to ₹25,000 or more and include VIP hospitality boxes. However, for affordable tickets, advanced booking is highly suggested, as last-minute purchases might notch a little high in demand.</p>
+    </section>
+
+    <section>
+        <h2>IPL Betting ID Provider in India – DR Diamond Exchange</h2>
+        <p>For those who enjoy the thrill of betting on the IPL, DR Diamond Exchange stands tall as a respected <b><a href="https://drdiamondexch.com/ipl-id-provider">IPL ID provider in India</a></b>. With their verified betting ID, which works brilliantly for all forms of IPL cricket betting, football, Teen Patti, Andar Bahar, and countless casino games, the <b><a href="https://drdiamondexch.com/">DR Diamond Exchange</a></b> has established a firmly secure, glitch-free arena for all. The best security features, easily accomplished deposits and withdrawals, along with 24/7 active support – whatever may come, DR Diamond Exchange has your smoothest betting experience in check. This is the site that welcomes seasoned thinkers and new players in equal measure, a world where safety and fun both hold hands.</p>
+    </section>
+
+    <section>
+        <h2>Final Thoughts</h2>
+        <p>Now that the calendar of IPL 2025 has been announced and tickets are available both online and offline, cricket fans are now ready to enjoy another thrilling season. If you are going to watch the matches live in the stadium or bet on your favorite teams through credible IPL betting ID providers in India, the season is ready to be packed with action and excitement. Make sure to book your IPL match 2025 tickets quickly to not miss the biggest cricket event of the year!</p>
+
+`
+    },
+
+
     {
         id: "ICC-Champions-Trophy-2025-Your-Roadmap-to-the-IN-vs-NZ",
         imgUrl: '/assets/images/blog/ICC Champions Trophy 2025 Your Roadmap to the IN vs NZ.jpg',
