@@ -2,7 +2,7 @@ export const blogData = [
 
 {
         id: "IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More",
-        imgUrl: '/assets/images/blog/IPL Match 2025: Schedule, Ticket Booking Details, and More.jpg',
+        imgUrl: '/assets/images/blog/IPL Match 2025 Schedule, Ticket Booking Details, and More.jpg',
         imgAlt: 'IPL Match 2025: Schedule, Ticket Booking Details, and More',
         title: 'IPL Match 2025: Schedule, Ticket Booking Details, and More',
         desc: 'With the excitement building, IPL 2025 will kick off with 74 matches on March 22, 2025, across 13 venues throughout India. The tournament opener will be a high-octane clash at Eden Gardens in Kolkata, where Kolkata Knight Riders will take on Royal Challengers Bangalore, while the grand finale will take place in Kolkata on May 25, 2025. This is an exciting time for teams, allied with the live experience that cricket fans are looking forward to before they are fully absorbed in booking tickets to the matches. If youre wondering where to get your tickets for the IPL 2025 and what they will cost, here is everything you need to know.',
