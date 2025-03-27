@@ -2,7 +2,7 @@ export const blogData = [
 
     {
         id: "How-to-Book-RCB-IPL-2025-Tickets-Prices-Dates-More",
-        imgUrl: '/assets/images/blog/How to Book RCB IPL 2025 Tickets —Prices, Dates & More.jpg',
+        imgUrl: '/assets/images/blog/How to Book RCB IPL 2025 Tickets —Prices, Dates & More.png',
         imgAlt: 'How to Book RCB IPL 2025 Tickets —Prices, Dates & More',
         title: 'How to Book RCB IPL 2025 Tickets —Prices, Dates & More',
         desc: 'The Royal Challengers Bengaluru (RCB) will be competing in the IPL 2025, beginning with their first match against the Kolkata Knight Riders on March 22, 2025, at Eden Gardens, Kolkata. If you are a fan of RCB, it is a good idea to buy your tickets quickly (they do sell out fast) while prices are as low as ₹999 to cheer and watch RCB in person',
