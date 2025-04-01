@@ -3,20 +3,20 @@ export const blogData = [
     {
         id: "Step-by-step-Process-for-starting-an-online-casino-in-2025",
         imgUrl: '/assets/images/blog/Step-by-step-Process-for-starting-an-online-casino-in-2025.png',
-        imgAlt: 'Step-by-step-Process-for-starting-an-online-casino-in-2025',
-        title: 'Step-by-step-Process-for-starting-an-online-casino-in-2025',
+        imgAlt: 'Step by step Process for starting an online casino in 2025',
+        title: 'Step by step Process for starting an online casino in 2025',
         desc: 'The casino industry continues to be a lucrative business in 2025, attracting millions of players worldwide. There are vast opportunities for online gaming platforms. However, setting up a successful casino platform like DR Diamond Exchange, a top-notch Casino ID Provider in India,  requires careful planning, legal compliance, and significant investment. In this guide, well walk you through the essential steps to start your casino successfully.',
         btnText: 'read more',
         pubDate: '01 Apirl 2025',
         pubAuthor: 'DR DIAMOND EXCHANGE',
         metaKeywords:'Best cricket Betting ID provider in India',
-        metaTitle:'Step-by-step-Process-for-starting-an-online-casino-in-2025',
-        metaDescription:"The casino industry continues to be a lucrative business in 2025, attracting millions of players worldwide. There are vast opportunities for online gaming platforms. However, setting up a successful casino platform like DR Diamond Exchange, a top-notch Casino ID Provider in India,  requires careful planning, legal compliance, and significant investment. In this guide, we'll walk you through the essential steps to start your casino successfully.",
-        ogTitle:'Step-by-step-Process-for-starting-an-online-casino-in-2025',
+        metaTitle:'Step by step Process for starting an online casino in 2025',
+        metaDescription:"The casino Industry continues to be a lucrative business in 2025, attracting millions of players worldwide. There are vast opportunities for online gaming platforms. However, setting up a successful casino platform like DR Diamond Exchange, a top-notch Casino ID Provider in India,  requires careful planning, legal compliance, and significant investment. In this guide, we'll walk you through the essential steps to start your casino successfully.",
+        ogTitle:'Step by step Process for starting an online casino in 2025',
         ogImage:'Blogs Section-MARK1',
         ogUrl:'https://drdiamondexch.com/blog-single/Step-by-step-Process-for-starting-an-online-casino-in-2025',
         content: `
-            <h2>Step-by-step-Process-for-starting-an-online-casino-in-2025</h2>
+            <h2>Step by step Process for starting an online casino in 2025</h2>
         
                <p>The casino industry continues to be a lucrative business in 2025, attracting millions of players worldwide. There are vast opportunities for online gaming platforms. However, setting up a successful casino platform like DR Diamond Exchange, a top-notch <b><a href="https://drdiamondexch.com/casino-id-provider">Casino ID Provider in India</a></b>, requires careful planning, legal compliance, and significant investment. In this guide, we'll walk you through the essential steps to start your casino successfully.</p>
     </section>
@@ -74,19 +74,19 @@ export const blogData = [
         id: "Gujarat-Titans-IPL-2025-Ticket-Booking-Match-Schedule-Ultimate-Fan-Guide",
         imgUrl: '/assets/images/blog/Gujarat-Titans-IPL-2025-Ticket-Booking-Match-Schedule-Ultimate-Fan-Guide.png',
         imgAlt: 'Gujarat-Titans-IPL-2025-Ticket-Booking-Match-Schedule-Ultimate-Fan-Guide',
-        title: 'Gujarat-Titans-IPL-2025-Ticket-Booking-Match-Schedule-Ultimate-Fan-Guide',
+        title: 'Gujarat Titans IPL 2025 Ticket Booking Match Schedule Ultimate Fan Guide',
         desc: 'The Indian Premier League (IPL) 2025 season is underway, and the Gujarat Titans (GT) are set to captivate their fans with thrilling performances.DR Diamond Exchange presents this comprehensive guide that provides details on match schedules, Gujarat titans ticket booking procedures, and insights into the iconic Narendra Modi Stadium.',
         btnText: 'read more',
         pubDate: '01 April 2025',
         pubAuthor: 'DR DIAMOND EXCHANGE',
         metaKeywords:'Best cricket Betting ID provider in India',
-        metaTitle:'Gujarat-Titans-IPL-2025-Ticket-Booking-Match-Schedule-Ultimate-Fan-Guide',
+        metaTitle:'Gujarat Titans IPL 2025 Ticket Booking Match Schedule Ultimate Fan Guide',
         metaDescription:"The Indian Premier League (IPL) 2025 season is underway, and the Gujarat Titans (GT) are set to captivate their fans with thrilling performances.DR Diamond Exchange presents this comprehensive guide that provides details on match schedules, Gujarat titans ticket booking procedures, and insights into the iconic Narendra Modi Stadium.",
-        ogTitle:'Gujarat-Titans-IPL-2025-Ticket-Booking-Match-Schedule-Ultimate-Fan-Guide',
+        ogTitle:'Gujarat Titans IPL 2025 Ticket Booking Match Schedule Ultimate Fan Guide',
         ogImage:'Blogs Section-MARK1',
         ogUrl:'https://drdiamondexch.com/blog-single/Gujarat-Titans-IPL-2025-Ticket-Booking-Match-Schedule-Ultimate-Fan-Guide',
         content: `
-            <h2>Gujarat-Titans-IPL-2025-Ticket-Booking-Match-Schedule-Ultimate-Fan-Guide</h2>
+            <h2>Gujarat Titans IPL 2025 Ticket Booking Match Schedule Ultimate Fan Guide</h2>
         
         <p>The Indian Premier League (IPL) 2025 season is underway, and the Gujarat Titans (GT) are set to captivate their fans with thrilling performances. DR Diamond Exchange presents this comprehensive guide that provides details on match schedules, Gujarat Titans ticket booking procedures, and insights into the iconic Narendra Modi Stadium.</p>
     </section>
