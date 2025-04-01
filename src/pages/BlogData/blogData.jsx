@@ -3,9 +3,9 @@ export const blogData = [
     {
         id: "Step-by-step-Process-for-starting-an-online-casino-in-2025",
         imgUrl: '/assets/images/blog/Step-by-step-Process-for-starting-an-online-casino-in-2025',
-        imgAlt: 'Step-by-step-Process-for-starting-an-online-casino-in-2025,
+        imgAlt: 'Step-by-step-Process-for-starting-an-online-casino-in-2025',
         title: 'Step-by-step-Process-for-starting-an-online-casino-in-2025',
-        desc: 'The casino industry continues to be a lucrative business in 2025, attracting millions of players worldwide. There are vast opportunities for online gaming platforms. However, setting up a successful casino platform like DR Diamond Exchange, a top-notch Casino ID Provider in India,  requires careful planning, legal compliance, and significant investment. In this guide, we'll walk you through the essential steps to start your casino successfully.',
+        desc: 'The casino industry continues to be a lucrative business in 2025, attracting millions of players worldwide. There are vast opportunities for online gaming platforms. However, setting up a successful casino platform like DR Diamond Exchange, a top-notch Casino ID Provider in India,  requires careful planning, legal compliance, and significant investment. In this guide, well walk you through the essential steps to start your casino successfully.',
         btnText: 'read more',
         pubDate: '01 Apirl 2025',
         pubAuthor: 'DR DIAMOND EXCHANGE',
