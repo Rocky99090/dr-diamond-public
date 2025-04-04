@@ -1,6 +1,120 @@
 export const blogData = [
 
     {
+        id: "RCB-vs-DC-on-April-10-Which-team-will-dominate-the-IPL-encounter",
+        imgUrl: '/assets/images/blog/RCB vs DC on April 10 Which team will dominate the IPL encounter.png',
+        imgAlt: 'RCB vs DC on April 10 Which team will dominate the IPL encounter',
+        title: 'RCB vs DC on April 10 Which team will dominate the IPL encounter',
+        desc: 'The Indian Premier League (IPL) 2025 season is set to feature an exciting clash between the Royal Challengers Bengaluru (RCB) and the Delhi Capitals (DC) on April 10 at the M. Chinnaswamy Stadium in Bengaluru. This encounter promises to be a thrilling contest as both teams aim to assert their dominance early in the tournament. Both teams have high-performing team members, Virat Kohli and KL Rahul. No matter who wins, one thing’s for sure that the RCB vs DC match is going to be an amazing one.',
+        btnText: 'read more',
+        pubDate: '03 Apirl 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'IPL Betting ID provider in India',
+        metaTitle:'RCB vs DC on April 10 Which team will dominate the IPL encounter',
+        metaDescription:"The Indian Premier League (IPL) 2025 season is set to feature an exciting clash between the Royal Challengers Bengaluru (RCB) and the Delhi Capitals (DC) on April 10 at the M. Chinnaswamy Stadium in Bengaluru. This encounter promises to be a thrilling contest as both teams aim to assert their dominance early in the tournament. Both teams have high-performing team members, Virat Kohli and KL Rahul. No matter who wins, one thing’s for sure that the RCB vs DC match is going to be an amazing one.",
+        ogTitle:'RCB vs DC on April 10 Which team will dominate the IPL encounter',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/RCB-vs-DC-on-April-10-Which-team-will-dominate-the-IPL-encounter',
+        content: `
+            <h2>RCB vs DC on April 10: Which team will dominate the IPL encounter?</h2>
+         <p>The Indian Premier League (IPL) 2025 season is set to feature an exciting clash between the <strong>Royal Challengers Bengaluru (RCB)</strong> and the <strong>Delhi Capitals (DC)</strong> on <strong>April 10</strong> at the <strong>M. Chinnaswamy Stadium</strong> in Bengaluru. This encounter promises to be a thrilling contest as both teams aim to assert their dominance early in the tournament. With high-performing players like <strong>Virat Kohli</strong> and <strong>KL Rahul</strong>, the RCB vs DC match is bound to be a spectacular showdown.</p>
+
+  <p>In this blog, we will review the past performance of the RCB and DC teams and estimate which team will dominate and lead the head-to-head IPL battle.</p>
+
+  <h2>RCB vs DC Match Details</h2>
+  <ul>
+    <li><strong>Fixture:</strong> Royal Challengers Bengaluru vs Delhi Capitals</li>
+    <li><strong>Scheduled Date:</strong> 10th April 2025</li>
+    <li><strong>Venue:</strong> M. Chinnaswamy Stadium, Bengaluru</li>
+    <li><strong>Start Time:</strong> 7:30 PM IST</li>
+  </ul>
+
+  <h2>RCB vs DC Match Venue: M. Chinnaswamy Stadium</h2>
+  <p>The M. Chinnaswamy Stadium, located in the heart of Bengaluru, is renowned for its batting-friendly pitch and shorter boundaries, making it a haven for high-scoring matches. The stadium's electrifying atmosphere, fueled by passionate RCB supporters, adds to the home advantage that the Royal Challengers often enjoy.</p>
+
+  <h2>Team Performance Overview</h2>
+
+  <h3>Royal Challengers Bengaluru (RCB)</h3>
+  <p>Historically, RCB has been a formidable force in the IPL, known for their explosive batting lineup. As of the end of the 2024 season, RCB has played a total of 31 matches against DC, winning 19 of them.</p>
+
+  <h3>Delhi Capitals (DC)</h3>
+  <p>DC has shown significant improvement over recent seasons, becoming strong contenders in the league. By the conclusion of the 2024 season, DC had faced RCB 31 times, securing victory in 11 encounters.</p>
+
+  <h2>Players of RCB and DC IPL Teams</h2>
+
+  <div style="display: flex; gap: 40px;">
+    <div>
+      <h3>RCB Squad</h3>
+      <ul>
+        <li>Rajat Patidar</li>
+        <li>Virat Kohli</li>
+        <li>Phil Salt</li>
+        <li>Jitesh Sharma</li>
+        <li>Devdutt Padikkal</li>
+        <li>Faf du Plessis</li>
+        <li>Donovan Ferreira</li>
+        <li>Krunal Pandya</li>
+        <li>Swapnil Singh</li>
+        <li>Tim David</li>
+        <li>Romario Shepherd</li>
+        <li>Manoj Bhandage</li>
+        <li>Jacob Bethell</li>
+        <li>Ajay Mandal</li>
+        <li>Josh Hazlewood</li>
+        <li>Manvanth Kumar L</li>
+        <li>Rasikh Dar</li>
+        <li>Tripurana Vijay</li>
+        <li>Suyash Sharma</li>
+        <li>Madhav Tiwari</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3>DC Squad</h3>
+      <ul>
+        <li>KL Rahul</li>
+        <li>Harry Brook</li>
+        <li>Jake Fraser-McGurk</li>
+        <li>Karun Nair</li>
+        <li>Swastik Chhikara</li>
+        <li>Abishek Porel</li>
+        <li>Tristan Stubbs</li>
+        <li>Sameer Rizvi</li>
+        <li>Ashutosh Sharma</li>
+        <li>Darshan Nalkande</li>
+        <li>Vipraj Nigam</li>
+        <li>Bhuvneshwar Kumar</li>
+        <li>Axar Patel</li>
+        <li>Nuwan Thushara</li>
+        <li>Mitchell Starc</li>
+        <li>Lungi Ngidi</li>
+        <li>T Natarajan</li>
+        <li>Abhinandan Singh</li>
+        <li>Mohit Sharma</li>
+        <li>Mohit Rathee</li>
+        <li>Mukesh Kumar</li>
+        <li>Yash Dayal</li>
+        <li>Dushmantha Chameera</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2>Reviewing RCB vs DC Head to Head</h2>
+  <p>The rivalry of RCB vs DC has been marked by competitive matches. As of the 2024 season, the two teams have clashed 31 times, with RCB leading the head-to-head with 19 wins compared to DC's 11 victories. Notably, at the M. Chinnaswamy Stadium, RCB has won 6 out of 11 encounters, indicating a slight home advantage.</p>
+
+  <h2>Connect with DR Diamond Exchange: Top Gaming Platform in India</h2>
+  <p>Who said you can’t be a part of the amusement that comes with IPL? You can get your cricket ID from <strong>DR Diamond Exchange</strong> and play along with safe bets. The reason why we are categorized under Top Gaming Platforms in India is our efficiency and diligence toward user privacy and secured services.</p>
+  <p>Start your betting journey and earn unlimited benefits. Just contact us through <strong>WhatsApp</strong>, and an expert will guide you through the process of getting a suitable betting ID. Get started now!</p>
+
+  <h2>Conclusion</h2>
+  <p>Considering the historical data and current team compositions, RCB has an edge, especially with the home-ground advantage. The inclusion of players like <strong>Livingstone</strong> adds depth to their squad. However, DC's recent performances and the presence of game-changers like <strong>Pant</strong> and <strong>Patel</strong> suggest they are more than capable of turning the tables. This IPL Season 18 will feature the most awaited match between RCB vs DC on <strong>10 April</strong>, and fans are more than excited to witness who will win and by how many runs.</p>
+
+               
+`
+    },
+
+
+    {
         id: "Step-by-step-Process-for-starting-an-online-casino-in-2025",
         imgUrl: '/assets/images/blog/Step-by-step-Process-for-starting-an-online-casino-in-2025.png',
         imgAlt: 'Step by step Process for starting an online casino in 2025',
