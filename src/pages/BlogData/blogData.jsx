@@ -103,7 +103,7 @@ export const blogData = [
   <p>The rivalry of RCB vs DC has been marked by competitive matches. As of the 2024 season, the two teams have clashed 31 times, with RCB leading the head-to-head with 19 wins compared to DC's 11 victories. Notably, at the M. Chinnaswamy Stadium, RCB has won 6 out of 11 encounters, indicating a slight home advantage.</p>
 
   <h2>Connect with DR Diamond Exchange: Top Gaming Platform in India</h2>
-  <p>Who said you can’t be a part of the amusement that comes with IPL? You can get your cricket ID from <strong>DR Diamond Exchange</strong> and play along with safe bets. The reason why we are categorized under <a href="https://drdiamondexch.com">Top Gaming Platforms in India </a>is our efficiency and diligence toward user privacy and secured services.</p>
+  <p>Who said you can’t be a part of the amusement that comes with IPL? You can get your cricket ID from <strong>DR Diamond Exchange</strong> and play along with safe bets. The reason why we are categorized under <a href="https://drdiamondexch.com"><strong>Top Gaming Platforms in India <strong></a>is our efficiency and diligence toward user privacy and secured services.</p>
   <p>Start your betting journey and earn unlimited benefits. Just contact us through <strong>WhatsApp</strong>, and an expert will guide you through the process of getting a suitable betting ID. Get started now!</p>
 
   <h2>Conclusion</h2>
