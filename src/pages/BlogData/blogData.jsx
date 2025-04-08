@@ -78,15 +78,15 @@ export const blogData = [
 
   <h3>KKR vs RR Over the Years</h3>
   <p>
-    The first match between these two was  IPL 2008, where RR won by 45 runs—still their biggest win over KKR. Since then, both teams have fought hard in a closely matched rivalry.
+    The first match between these two was in IPL 2008, where RR won by 45 runs—still their biggest win over KKR. Since then, both teams have fought hard in a closely matched rivalry.
   </p>
 
   <p>
     In fact, their first-ever encounter featured the <strong>first super over in IPL history</strong>, and again in 2014. RR’s <strong>9-wicket win at Eden Gardens in IPL 2024</strong> stands out as a major highlight.
   </p>
 
-
-
+  <!-- You can insert a graph or image here -->
+  <img src="/assets/images/blog/KKR vs RR Head to Head.png" alt="KKR vs RR Head to Head Graph">
 
   <h2>KKR vs RR Highlights – Memorable Matches</h2>
   <ol>
