@@ -1,6 +1,146 @@
 export const blogData = [
 
     {
+        id: "KKR-vs-RR-Head-to-Head-Which-Team-Will-Win-on-4th-May",
+        imgUrl: '/assets/images/blog/KKR vs RR Head to Head Which Team Will Win on 4th May.png',
+        imgAlt: 'KKR vs RR Head to Head Which Team Will Win on 4th May',
+        title: 'KKR vs RR Head to Head Which Team Will Win on 4th May',
+        desc: 'The clash between KKR vs RR is one of the most thrilling fixtures in IPL 2025. Historically, both teams hold similar winning records against each other, making it both challenging and exciting to predict the next winner. As of this IPL season 18, KKR had won from RR with 8 wickets. It will be a great experience to watch who will win the next upcoming match on 4th May 2025. In this blog, we will cover.',
+        btnText: 'read more',
+        pubDate: '03 Apirl 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'KKR vs RR Head-to-Head Record',
+        metaTitle:'KKR vs RR Head to Head Which Team Will Win on 4th May',
+        metaDescription:"The clash between KKR vs RR is one of the most thrilling fixtures in IPL 2025. Historically, both teams hold similar winning records against each other, making it both challenging and exciting to predict the next winner. As of this IPL season 18, KKR had won from RR with 8 wickets. It will be a great experience to watch who will win the next upcoming match on 4th May 2025. In this blog, we will cover.",
+        ogTitle:'KKR vs RR Head to Head Which Team Will Win on 4th May',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/KKR-vs-RR-Head-to-Head-Which-Team-Will-Win-on-4th-May',
+        content: `
+            <h2>KKR vs RR Head to Head: Which Team Will Win on 4th May?</h2>
+         <p>
+    The clash between <strong>KKR vs RR</strong> is one of the most thrilling fixtures in IPL 2025. Historically, both teams hold similar winning records against each other, making it both challenging and exciting to predict the next winner. As of this IPL Season 18, <strong>KKR won against RR by 8 wickets</strong>. It will be a great experience to watch who will win the upcoming match on <strong>4th May 2025</strong>.
+  </p>
+
+  <h2>In this blog, we will cover:</h2>
+  <ul>
+    <li>KKR vs RR Head-to-Head Record</li>
+    <li>KKR vs RR Highlights & Key Moments</li>
+    <li>KKR vs RR Match Tickets & Where to Watch</li>
+    <li>RR vs KKR Match Prediction & Players to Watch</li>
+  </ul>
+
+  <h2>KKR vs RR Head-to-Head Analysis</h2>
+  <p>
+    Before we conduct an RR vs KKR match prediction, it's important to look back at their past encounters to recognize key performances, dominant players, and how it may reshape the upcoming KKR vs. RR match on 4th May 2025.
+  </p>
+
+  <h3>KKR vs RR Head-to-Head Stats</h3>
+  <table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+      <tr>
+        <th></th>
+        <th>KKR</th>
+        <th>RR</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Matches Won</td>
+        <td>15</td>
+        <td>14</td>
+      </tr>
+      <tr>
+        <td>Highest Score</td>
+        <td>223 runs</td>
+        <td>224 runs</td>
+      </tr>
+      <tr>
+        <td>Lowest Score</td>
+        <td>125 runs</td>
+        <td>81 runs</td>
+      </tr>
+      <tr>
+        <td>Highest Individual Score</td>
+        <td>109 runs by Sunil Narine (IPL 2024)</td>
+        <td>107 runs by Jos Buttler (IPL 2024)</td>
+      </tr>
+      <tr>
+        <td>Best Bowling Figure</td>
+        <td>4/20 by Kuldeep Yadav</td>
+        <td>5/40 by Yuzvendra Chahal</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>
+    Apart from these, there were <strong>2 matches that ended in a tie</strong>. Both went into super overs, and RR came out on top in both, showing their ability to handle pressure moments better.
+  </p>
+
+  <h3>KKR vs RR Over the Years</h3>
+  <p>
+    The first match between these two was in IPL 2008, where RR won by 45 runs—still their biggest win over KKR. Since then, both teams have fought hard in a closely matched rivalry.
+  </p>
+
+  <p>
+    In fact, their first-ever encounter featured the <strong>first super over in IPL history</strong>, and again in 2014. RR’s <strong>9-wicket win at Eden Gardens in IPL 2024</strong> stands out as a major highlight.
+  </p>
+
+  <!-- You can insert a graph or image here -->
+  <img src="/assets/images/blog/kkr-vs-rr-graph.png" alt="KKR vs RR Head to Head Graph">
+
+  <h2>KKR vs RR Highlights – Memorable Matches</h2>
+  <ol>
+    <li>
+      <strong>RR’s Record Chase (IPL 2024):</strong> Jos Buttler’s stunning century helped RR chase down 224 runs.
+    </li>
+    <li>
+      <strong>Sunil Narine’s All-Round Show (2023):</strong> 47 runs off 20 balls + 2 wickets led KKR to victory.
+    </li>
+    <li>
+      <strong>Sanju Samson’s 85 (IPL 2021):</strong> A powerful knock that nearly won RR the match.
+    </li>
+  </ol>
+
+  <p>You can watch RR vs KKR highlight matches on:</p>
+  <ul>
+    <li>Hotstar</li>
+    <li>IPL Official YouTube Channel</li>
+    <li>Jio Cinema</li>
+  </ul>
+
+  <h2>How to Buy KKR vs RR Tickets?</h2>
+  <p>
+    Tickets can be bought from the official IPL website, the Rajasthan Royals’ official site, or third-party platforms like <strong>BookMyShow</strong> and <strong>Paytm</strong>. Just search for IPL 2025 schedule, select the <strong>KKR vs RR match</strong>, choose your seats, make the payment, and receive your tickets via email.
+  </p>
+
+  <h2>Enhance Your IPL Experience with the Best Cricket ID Provider</h2>
+  <p>
+    Want to start betting but don’t know where to get a cricket ID? <strong>Dr Diamond Exchange</strong> is the best Cricket ID Provider in India, helping you earn while you enjoy. It’s the right time to turn your cricket knowledge into profits.
+  </p>
+
+  <h2>RR vs KKR Match Prediction – Who Will Win?</h2>
+  <p>Here are a few factors to consider:</p>
+  <ul>
+    <li><strong>Form:</strong> RR is in better recent form.</li>
+    <li><strong>Pitch:</strong> Eden Gardens favors batsmen and spinners.</li>
+    <li><strong>Key Players:</strong>
+      <br><strong>RR Squad:</strong> Yashasvi Jaiswal, Sanju Samson, Riyan Parag (c), Nitish Rana, Dhruv Jurel (wk)
+      <br><strong>KKR Squad:</strong> Sunil Narine, Varun Chakravarthy, Andre Russell, Rinku Singh, Harshit Rana
+    </li>
+  </ul>
+
+  <p>
+    Based on the current conditions, both teams have an <strong>equal chance of winning</strong> the KKR vs RR match on <strong>4th May 2025</strong>. No matter what happens, it will be a phenomenal game to watch!
+  </p>
+
+  <h3>FAQ</h3>
+  <p><strong>Q: What is the record of KKR vs RR?</strong><br>
+  A: KKR and RR have faced each other <strong>31 times</strong>. KKR has won 15 matches, RR has won 14, and 2 matches ended in a tie.</p>
+
+`
+    },
+
+    {
         id: "RCB-vs-DC-on-April-10-Which-team-will-dominate-the-IPL-encounter",
         imgUrl: '/assets/images/blog/RCB vs DC on April 10 Which team will dominate the IPL encounter.png',
         imgAlt: 'RCB vs DC on April 10 Which team will dominate the IPL encounter',
