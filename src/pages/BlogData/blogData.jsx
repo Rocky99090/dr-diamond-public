@@ -115,7 +115,7 @@ export const blogData = [
 
   <h2>Enhance Your IPL Experience with the Best Cricket ID Provider</h2>
   <p>
-    Want to start betting but don’t know where to get a cricket ID? <strong>Dr Diamond Exchange</strong> is the best < a href="https://drdiamondexch.com/cricket-id-provider">Cricket ID Provider in India,</a> helping you earn while you enjoy. It’s the right time to turn your cricket knowledge into profits.
+    Want to start betting but don’t know where to get a cricket ID? <strong>Dr Diamond Exchange</strong> is the best <a href="https://drdiamondexch.com/cricket-id-provider">Cricket ID Provider in India,</a> helping you earn while you enjoy. It’s the right time to turn your cricket knowledge into profits.
   </p>
 
   <h2>RR vs KKR Match Prediction – Who Will Win?</h2>
@@ -125,7 +125,7 @@ export const blogData = [
     <li><strong>Pitch:</strong> Eden Gardens favors batsmen and spinners.</li>
     <li><strong>Key Players:</strong>
       <br><strong>RR Squad:</strong> Yashasvi Jaiswal, Sanju Samson, Riyan Parag (c), Nitish Rana, Dhruv Jurel (wk)
-      <br><strong>KKR Squad:</strong> Sunil Narine, Varun Chakravarthy, Andre Russell,<a href="https://en.wikipedia.org/wiki/Rinku_Singh_(cricketer)" Rinku Singh,</a> Harshit Rana
+      <br><strong>KKR Squad:</strong> Sunil Narine, Varun Chakravarthy, Andre Russell,<a href="https://en.wikipedia.org/wiki/Rinku_Singh_(cricketer)"> Rinku Singh,</a> Harshit Rana
     </li>
   </ul>
 
