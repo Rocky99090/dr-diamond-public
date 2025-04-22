@@ -1,5 +1,106 @@
 export const blogData = [
 
+
+    {
+        id: "SRH-VS-KKR-Head-to-Head:-Overview-of-Team-Stats and Performance in IPL 2025",
+        imgUrl: '/assets/images/blog/SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
+        imgAlt: 'SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
+        title: 'SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
+        desc: "The Indian Premier League (IPL) has produced some of cricket's most intense rivalries, and the KKR vs. SRH Head-to-Head battles stand out for their unpredictability and excitement. As two of the league's most competitive franchises, Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have delivered memorable encounters over the years. In this comprehensive blog, we'll explore their head-to-head record, key players, tactical approaches, upcoming match details, and predictions while maintaining focus on the KKR vs SRH narrative.",
+        btnText: 'read more',
+        pubDate: '22 Apirl 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'SRH VS KKR Head-to-Head',
+        metaTitle:'SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
+        metaDescription:"The Indian Premier League (IPL) has produced some of cricket's most intense rivalries, and the KKR vs. SRH Head-to-Head battles stand out for their unpredictability and excitement. As two of the league's most competitive franchises, Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have delivered memorable encounters over the years. In this comprehensive blog, we'll explore their head-to-head record, key players, tactical approaches, upcoming match details, and predictions while maintaining focus on the KKR vs SRH narrative.",
+        ogTitle:'SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/KKR-vs-RR-Head-to-Head-Which-Team-Will-Win-on-4th-May',
+        content: `
+            <h2>SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025</h2>
+
+    <p>The Indian Premier League (IPL) has produced some of cricket's most intense rivalries, and the KKR vs. SRH Head-to-Head battles stand out for their unpredictability and excitement. As two of the league's most competitive franchises, Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have delivered memorable encounters over the years.</p>
+
+    <h2>Next SRH vs KKR Head-to-Head Match Details</h2>
+    <ul>
+        <li><strong>Date:</strong> 10th May 2025</li>
+        <li><strong>Venue:</strong> Rajiv Gandhi International Stadium</li>
+        <li><strong>Time:</strong> 7:30 PM IST</li>
+        <li><strong>Pitch Report:</strong> Favors batsmen; spinners may get help later; dew could impact the second innings.</li>
+    </ul>
+
+    <h2>SRH vs KKR IPL 2025 Squads</h2>
+
+    <h3>Sunrisers Hyderabad (SRH)</h3>
+    <ul>
+        <li>Ishan Kishan</li>
+        <li>Pat Cummins</li>
+        <li>Travis Head</li>
+        <li>Abhishek Sharma</li>
+        <li>Aniket Verma</li>
+        <li>Nitesh Kumar Reddy</li>
+        <li>Zeeshan Ansaari</li>
+        <li>Manish Pandey</li>
+        <li>Luvnith Sisodiya</li>
+        <li>Eshan Malinga</li>
+        <li>Mohammad Shami</li>
+        <li>Kamindu Mendis</li>
+        <li>Jaydev Unadkat</li>
+        <li>Sachin Baby</li>
+        <li>Mayank Markande</li>
+        <li>Heinrich Klaasen</li>
+        <li>Atharve Taide</li>
+        <li>Harshal Patel</li>
+    </ul>
+
+    <h3>Kolkata Knight Riders (KKR)</h3>
+    <ul>
+        <li>Ajinkya Rahane</li>
+        <li>Rinku Singh</li>
+        <li>Quinton De Kock</li>
+        <li>Rahmanullah Gurbaz</li>
+        <li>Angkrish Raghuvanshi</li>
+        <li>Rowman Powell</li>
+        <li>Simarjeet Singh</li>
+        <li>Venkatish Iyer</li>
+        <li>Anukul Roy</li>
+        <li>Moeen Ali</li>
+        <li>Ramandeep Singh</li>
+        <li>Brydon Carse</li>
+        <li>Andree Russel</li>
+        <li>Anrich Nortje</li>
+        <li>Vaibhav Arora</li>
+        <li>Spencer Johnson</li>
+        <li>Harshit Rana</li>
+        <li>Sunil Narine</li>
+    </ul>
+
+    <h2>SRH vs KKR Head-to-Head Analysis for IPL 2025</h2>
+    <p>As of IPL 2025, KKR leads the head-to-head battle with 16 wins to SRH’s 10 in 26 matches. While KKR dominates overall, SRH has proven clutch in playoffs and high-stakes games. Expect a tactical showdown as both teams recalibrate with fresh auction strategies and the Impact Player rule in effect.</p>
+
+    <h3>Key Stats and Insights:</h3>
+    <ul>
+        <li>KKR has a 70% win rate at Eden Gardens vs SRH.</li>
+        <li>KKR's highest score against SRH: 232/2 in 2018.</li>
+        <li>SRH bowled KKR out for 115 in 2021.</li>
+        <li>Playoffs: SRH leads 2-1 in knockout games vs KKR.</li>
+    </ul>
+
+    <h2>SRH vs KKR Head-to-Head Analysis (2009-2025): A Rivalry of Contrasting Fortunes</h2>
+    <p>Since SRH's entry in 2013, they’ve played KKR 26 times. KKR's dominant record doesn’t overshadow SRH’s standout playoff performances, including a dramatic Eliminator win in 2017. Eden Gardens favors KKR’s spin-heavy attack, while SRH’s pace arsenal is their primary weapon.</p>
+
+    <p>Looking ahead, IPL 2025 could mark a turning point with both squads rebuilding post-mega auction. Watch for impact from key players like <strong>Rinku Singh</strong>, <strong>Sunil Narine</strong>, <strong>Pat Cummins</strong>, and <strong>Heinrich Klaasen</strong>.</p>
+
+    <h2>Bet on IPL 2025 with Confidence</h2>
+    <p><span class="highlight">Looking for a trusted IPL betting ID provider in India?</span> <strong>DR Diamond Exchange</strong> offers secure services, competitive odds, 24/7 support, and exclusive bonuses. Sign up now at DR Diamond Exchange and elevate your betting experience – whether you're backing KKR or SRH!</p>
+
+</body>
+</html>
+
+      
+`
+    },
+
     {
         id: "KKR-vs-RR-Head-to-Head-Which-Team-Will-Win-on-4th-May",
         imgUrl: '/assets/images/blog/KKR vs RR Head to Head Which Team Will Win on 4th May.png',
