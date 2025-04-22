@@ -3,7 +3,7 @@ export const blogData = [
 
     {
         id: "SRH-VS-KKR-Head-to-Head:-Overview-of-Team-Stats and Performance in IPL 2025",
-        imgUrl: '/assets/images/blog/SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
+        imgUrl: '/assets/images/blog/SRH VS KKR Head-to-Head Overview of Team Stats and Performance in IPL 2025.png',
         imgAlt: 'SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
         title: 'SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
         desc: "The Indian Premier League (IPL) has produced some of cricket's most intense rivalries, and the KKR vs. SRH Head-to-Head battles stand out for their unpredictability and excitement. As two of the league's most competitive franchises, Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have delivered memorable encounters over the years. In this comprehensive blog, we'll explore their head-to-head record, key players, tactical approaches, upcoming match details, and predictions while maintaining focus on the KKR vs SRH narrative.",
@@ -31,68 +31,61 @@ export const blogData = [
 
     <h2>SRH vs KKR IPL 2025 Squads</h2>
 
-    <h3>Sunrisers Hyderabad (SRH)</h3>
-    <ul>
-        <li>Ishan Kishan</li>
-        <li>Pat Cummins</li>
-        <li>Travis Head</li>
-        <li>Abhishek Sharma</li>
-        <li>Aniket Verma</li>
-        <li>Nitesh Kumar Reddy</li>
-        <li>Zeeshan Ansaari</li>
-        <li>Manish Pandey</li>
-        <li>Luvnith Sisodiya</li>
-        <li>Eshan Malinga</li>
-        <li>Mohammad Shami</li>
-        <li>Kamindu Mendis</li>
-        <li>Jaydev Unadkat</li>
-        <li>Sachin Baby</li>
-        <li>Mayank Markande</li>
-        <li>Heinrich Klaasen</li>
-        <li>Atharve Taide</li>
-        <li>Harshal Patel</li>
-    </ul>
+<h2>SRH vs KKR Team Members</h2>
 
-    <h3>Kolkata Knight Riders (KKR)</h3>
-    <ul>
-        <li>Ajinkya Rahane</li>
-        <li>Rinku Singh</li>
-        <li>Quinton De Kock</li>
-        <li>Rahmanullah Gurbaz</li>
-        <li>Angkrish Raghuvanshi</li>
-        <li>Rowman Powell</li>
-        <li>Simarjeet Singh</li>
-        <li>Venkatish Iyer</li>
-        <li>Anukul Roy</li>
-        <li>Moeen Ali</li>
-        <li>Ramandeep Singh</li>
-        <li>Brydon Carse</li>
-        <li>Andree Russel</li>
-        <li>Anrich Nortje</li>
-        <li>Vaibhav Arora</li>
-        <li>Spencer Johnson</li>
-        <li>Harshit Rana</li>
-        <li>Sunil Narine</li>
-    </ul>
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%; max-width: 600px;">
+    <thead>
+        <tr>
+            <th>SRH IPL 2025 Squad</th>
+            <th>KKR IPL 2025 Squad</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Ishan Kishan</td><td>Ajinkya Rahane</td></tr>
+        <tr><td>Pat Cummins</td><td>Rinku Singh</td></tr>
+        <tr><td>Travis Head</td><td>Quinton De Kock</td></tr>
+        <tr><td>Abhishek Sharma</td><td>Rahmanullah Gurbaz</td></tr>
+        <tr><td>Aniket Verma</td><td>Angkrish Raghuvanshi</td></tr>
+        <tr><td>Nitesh Kumar Reddy</td><td>Rowman Powell</td></tr>
+        <tr><td>Zeeshan Ansaari</td><td>Manish Pandey</td></tr>
+        <tr><td>Rahul Chahar</td><td>Luvnith Sisodiya</td></tr>
+        <tr><td>Simarjeet Singh</td><td>Venkatish Iyer</td></tr>
+        <tr><td>Eshan Malinga</td><td>Anukul Roy</td></tr>
+        <tr><td>Mohammad Shami</td><td>Moeen Ali</td></tr>
+        <tr><td>Kamindu Mendis</td><td>Ramandeep Singh</td></tr>
+    </tbody>
+</table>
+
+<br>
+
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%; max-width: 600px;">
+    <tbody>
+        <tr><td>Brydon Carse</td><td>Andre Russel</td></tr>
+        <tr><td>Jaydev Unadkat</td><td>Anrich Nortje</td></tr>
+        <tr><td>Eshan Malinga</td><td>Vaibhav Arora</td></tr>
+        <tr><td>Sachin Baby</td><td>Mayank Markande</td></tr>
+        <tr><td>Heinrich Klaasen</td><td>Spencer Johnson</td></tr>
+        <tr><td>Atharve Taide</td><td>Harshit Rana</td></tr>
+        <tr><td>Harshal Patel</td><td>Sunil Narine</td></tr>
+    </tbody>
+</table>
+
+
 
     <h2>SRH vs KKR Head-to-Head Analysis for IPL 2025</h2>
     <p>As of IPL 2025, KKR leads the head-to-head battle with 16 wins to SRH’s 10 in 26 matches. While KKR dominates overall, SRH has proven clutch in playoffs and high-stakes games. Expect a tactical showdown as both teams recalibrate with fresh auction strategies and the Impact Player rule in effect.</p>
+<br>
+ <img style="width:100%;" src="/assets/images/blog/graph.jpg" alt=""><br>
 
-    <h3>Key Stats and Insights:</h3>
-    <ul>
-        <li>KKR has a 70% win rate at Eden Gardens vs SRH.</li>
-        <li>KKR's highest score against SRH: 232/2 in 2018.</li>
-        <li>SRH bowled KKR out for 115 in 2021.</li>
-        <li>Playoffs: SRH leads 2-1 in knockout games vs KKR.</li>
-    </ul>
-
+<p>The  <a href="https://drdiamondexch.com/blog-single/IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More"><b> IPL 2025 Match Schedule </b> </a> could see a shift in dynamics, with both teams likely to revamp their squads in the mega auction. KKR's strength at Eden Gardens, where they enjoy a 70% win rate against SRH, remains a key factor, while SRH's bowling attack, led by Pat Cummins and Bhuvneshwar Kumar, could exploit Kolkata's middle-order vulnerabilities. With potential new signings and fresh strategies, their clashes in IPL 2025 promise high-octane action, tactical battles, and edge-of-the-seat finishes. Whether KKR maintains its dominance or SRH closes the gap will be a storyline to watch.
+</p>
     <h2>SRH vs KKR Head-to-Head Analysis (2009-2025): A Rivalry of Contrasting Fortunes</h2>
     <p>Since SRH's entry in 2013, they’ve played KKR 26 times. KKR's dominant record doesn’t overshadow SRH’s standout playoff performances, including a dramatic Eliminator win in 2017. Eden Gardens favors KKR’s spin-heavy attack, while SRH’s pace arsenal is their primary weapon.</p>
 
-    <p>Looking ahead, IPL 2025 could mark a turning point with both squads rebuilding post-mega auction. Watch for impact from key players like <strong>Rinku Singh</strong>, <strong>Sunil Narine</strong>, <strong>Pat Cummins</strong>, and <strong>Heinrich Klaasen</strong>.</p>
+    <p>Looking ahead, IPL 2025 could mark a turning point with both squads rebuilding post-mega auction. Watch for impact from key players like <strong>< a href="https://drdiamondexch.com/blog-single/Rinku-Singhs-Six-Still-Making-Waves-Across-South-Africa"> Rinku Singh</strong>,</a> <strong>Sunil Narine</strong>, <strong>Pat Cummins</strong>, and <strong>Heinrich Klaasen</strong>.</p>
 
-    <h2>Bet on IPL 2025 with Confidence</h2>
-    <p><span class="highlight">Looking for a trusted IPL betting ID provider in India?</span> <strong>DR Diamond Exchange</strong> offers secure services, competitive odds, 24/7 support, and exclusive bonuses. Sign up now at DR Diamond Exchange and elevate your betting experience – whether you're backing KKR or SRH!</p>
+    <h2>Bet on IPL 2025 with Confidence - Get Your Premium Betting ID Today</h2>
+    <p>Looking for a trusted IPL betting ID provider in India? DR Diamond Exchange offers security and is known as the < a href="https://drdiamondexch.com/ipl-id-provider"> best IPL Betting ID Provider </a> in India with competitive odds and 24/7 support. Get exclusive bonuses and seamless transactions if you're backing KKR or SRH. Sign up now at DR Diamond Exchange and elevate your betting experience today</p>
 
 </body>
 </html>
