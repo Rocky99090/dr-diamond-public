@@ -82,10 +82,10 @@ export const blogData = [
     <h2>SRH vs KKR Head-to-Head Analysis (2009-2025): A Rivalry of Contrasting Fortunes</h2>
     <p>Since SRH's entry in 2013, they’ve played KKR 26 times. KKR's dominant record doesn’t overshadow SRH’s standout playoff performances, including a dramatic Eliminator win in 2017. Eden Gardens favors KKR’s spin-heavy attack, while SRH’s pace arsenal is their primary weapon.</p>
 
-    <p>Looking ahead, IPL 2025 could mark a turning point with both squads rebuilding post-mega auction. Watch for impact from key players like <strong>< a href="https://drdiamondexch.com/blog-single/Rinku-Singhs-Six-Still-Making-Waves-Across-South-Africa"> Rinku Singh</strong>,</a> <strong>Sunil Narine</strong>, <strong>Pat Cummins</strong>, and <strong>Heinrich Klaasen</strong>.</p>
+    <p>Looking ahead, IPL 2025 could mark a turning point with both squads rebuilding post-mega auction. Watch for impact from key players like <strong><a href="https://drdiamondexch.com/blog-single/Rinku-Singhs-Six-Still-Making-Waves-Across-South-Africa"> Rinku Singh</a> </strong>, <strong>Sunil Narine</strong>, <strong>Pat Cummins</strong>, and <strong>Heinrich Klaasen</strong>.</p>
 
     <h2>Bet on IPL 2025 with Confidence - Get Your Premium Betting ID Today</h2>
-    <p>Looking for a trusted IPL betting ID provider in India? DR Diamond Exchange offers security and is known as the < a href="https://drdiamondexch.com/ipl-id-provider"> best IPL Betting ID Provider </a> in India with competitive odds and 24/7 support. Get exclusive bonuses and seamless transactions if you're backing KKR or SRH. Sign up now at DR Diamond Exchange and elevate your betting experience today</p>
+    <p>Looking for a trusted IPL betting ID provider in India? DR Diamond Exchange offers security and is known as the <a href="https://drdiamondexch.com/ipl-id-provider"><strong> best IPL Betting ID Provider</strong> </a> in India with competitive odds and 24/7 support. Get exclusive bonuses and seamless transactions if you're backing KKR or SRH. Sign up now at DR Diamond Exchange and elevate your betting experience today</p>
 
 </body>
 </html>
