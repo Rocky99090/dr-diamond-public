@@ -1,24 +1,106 @@
 export const blogData = [
 
+    {
+        id: "CSK-vs-KKR-on-9th-May:-Stats,-Match-Preview,-and-win-Predictions",
+        imgUrl: '/assets/images/blog/CSK vs KKR on 9th May Stats, Match Preview, and win Predictions.png',
+        imgAlt: 'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
+        title: 'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
+        desc: "Are you excited for the next CSK vs. KKR IPL 2025 match that’s scheduled for 7th May? Then this blog is for you. Get insights on their face-off this season and past years. We will also go through the finalized team members for this most-awaited match. By the end of the blog, you will also learn who has a high possibility of winning the next match. Let’s dive in.",
+        btnText: 'read more',
+        pubDate: '22 Apirl 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'CSK vs KKR on 9th May',
+        metaTitle:'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
+        metaDescription:"Are you excited for the next CSK vs. KKR IPL 2025 match that’s scheduled for 7th May? Then this blog is for you. Get insights on their face-off this season and past years. We will also go through the finalized team members for this most-awaited match. By the end of the blog, you will also learn who has a high possibility of winning the next match. Let’s dive in.",
+        ogTitle:'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/CSK-vs-KKR-on-9th-May:-Stats,-Match-Preview,-and-win-Predictions',
+        content: `
+            <h2>CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions </h2>
 
+ <p>Are you excited for the next CSK vs. KKR IPL 2025 match that’s scheduled for 7th May? Then this blog is for you. Get insights on their face-off this season and past years. We will also go through the finalized team members for this most-awaited match. By the end of the blog, you will also learn who has a high possibility of winning the next match. Let’s dive in.</p>
+
+  <h2>CSK vs KKR Match Details</h2>
+  <p><strong>Scheduled Day:</strong> 7th May 2025</p>
+  <p><strong>KKR vs CSK Match Venue:</strong> Eden Gardens, Kolkata</p>
+  <p><strong>Hours of play:</strong> Match begins at 17:30 IST</p>
+
+  <h2>CSK vs KKR Head to Head-to-Head Matches Summary</h2>
+  <p>Both the teams, CSK and KKR, are known for giving the best performance in the IPL league, and whenever they compete against each other, the domination is equally imposed. CSK has won the final trophy 5 times, and KKR has won 3 times. From the start till now, they have fought against each other 31 times. CSK has won 19 times, while KKR has secured only 11 matches.</p>
+
+  <p>According to the <a href="https://drdiamondexch.com/blog-single/IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More"><strong>  IPL Match 2025 Schedule, </strong></a> the first match between CSK and KKR was held on April 9, which was won by 8 wickets with 59 balls to spare. Even though the match was held in CSK’s home ground, CSK didn't get much luck. But now that Dhoni has taken the captaincy, we can expect to see great team strategy in the next face-off on 7th May.</p>
+
+  <h2>CSK vs KKR battle performance from 2009 to 2025</h2>
+  <p>CSK and KKR have been each other’s top competitors since the beginning of this league. Let’s review the number of matches won by each team over the past years.</p>
+
+  <table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+      <tr>
+        <th>Year</th>
+        <th>First Match Winner</th>
+        <th>Second Match Winner</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>2008</td><td>CSK</td><td>CSK</td></tr>
+      <tr><td>2009</td><td>CSK</td><td>Both abandoned</td></tr>
+      <tr><td>2010</td><td>CSK</td><td>CSK</td></tr>
+      <tr><td>2011</td><td>CSK</td><td>KKR</td></tr>
+      <tr><td>2012</td><td>KKR</td><td>CSK</td></tr>
+      <tr><td>2013</td><td>CSK</td><td>CSK</td></tr>
+      <tr><td>2014</td><td>CSK</td><td>KKR</td></tr>
+      <tr><td>2015</td><td>CSK</td><td>KKR</td></tr>
+      <tr><td>2018</td><td>CSK</td><td>KKR</td></tr>
+      <tr><td>2019</td><td>CSK</td><td>CSK</td></tr>
+      <tr><td>2020</td><td>KKR</td><td>CSK</td></tr>
+      <tr><td>2021</td><td>CSK</td><td>CSK</td></tr>
+      <tr><td>2022</td><td>KKR</td><td></td></tr>
+      <tr><td>2023</td><td>CSK</td><td>KKR</td></tr>
+      <tr><td>2024</td><td>CSK</td><td></td></tr>
+    </tbody>
+  </table>
+
+  <h2>List of Team Members of CSK and KKR</h2>
+
+  <h3>CSK team members:</h3>
+  <p>The Chennai Super Kings (CSK) squad for IPL 2025 includes Ruturaj Gaikwad (captain), MS Dhoni, Devon Conway, Sheikh Rasheed, Vansh Bedi, Rahul Tripathi, Andre Siddarth, Ravindra Jadeja, Shivam Dube, Sam Curran, Ravichandran Ashwin, Rachin Ravindra, Deepak Hooda, Jamie Overton, Vijay Shankar, Ramakrishna Ghosh, Anshul Kamboj, Matheesha Pathirana, Mukesh Choudhary, Khaleel Ahmed, Nathan Ellis, Noor Ahmad, Kamlesh Nagarkoti, Shreyas Gopal, and Gurjapneet Singh.</p>
+
+  <h3>KKR Team Members:</h3>
+  <p>The Kolkata Knight Riders (KKR) squad for IPL 2025 includes Ajinkya Rahane (captain), <a href="https://drdiamondexch.com/blog-single/Rinku-Singhs-Six-Still-Making-Waves-Across-South-Africa"><strong> Rinku Singh, </strong></a>     Quinton de Kock, Rahmanullah Gurbaz, Angkrish Raghuvanshi, Rovman Powell, Manish Pandey, Luvnith Sisodia, Venkatesh Iyer, Anukul Roy, Moeen Ali, Ramandeep Singh, Andre Russell, Anrich Nortje, Vaibhav Arora, Mayank Markande, Spencer Johnson, Harshit Rana, Sunil Narine, Varun Chakravarthy, Chetan Sakariya, and Umran Malik.</p>
+
+  <h2>CSK vs. KKR: AI predicts who will win the next match</h2>
+  <p>According to ChatGPT analysis, considering KKR's current form and their recent victory over CSK at Chepauk, they appear to have the upper hand in the upcoming match. While CSK has a strong historical record at home, their recent performances suggest challenges in regaining form.​</p>
+
+  <p><strong>Predicted Winner:</strong> Kolkata Knight Riders (KKR)​</p>
+
+  <p>However, cricket is inherently unpredictable, and CSK's experienced lineup, including players like MS Dhoni, can never be underestimated.</p>
+
+  <p>According to Gemini, predicting the winner at this stage is challenging without considering team form closer to the date. However, based on the current standings and team composition, both teams appear evenly matched. LSG will have the home advantage, but RCB has shown strong performances recently. It could be a close contest, with the team that performs better on the day likely to win.</p>
+
+  <h2>Take your IPL journey to the next level with DR diamond Exchange</h2>
+  <p>Are you tired of just watching IPL and want to upgrade your IPL journey? Then it's time to visit DR Diamond Exchange, the <a href="https://drdiamondexch.com/diamond-id-provider" > <strong> Best Diamond Exchange ID Provider in India. </strong> </a> From here, you can get premium cricket betting IDs. We offer secure services to each user and provide betting IDs within a few seconds.</p>
+
+      
+`
+    },
 
     {
         id: "SRH-VS-KKR-Head-to-Head:-Overview-of-Team-Stats-and-Performance-in-IPL-2025",
         imgUrl: '/assets/images/blog/SRH VS KKR Head-to-Head Overview of Team Stats and Performance in IPL 2025.png',
-        imgAlt: 'SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
-        title: 'SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
+        imgAlt: 'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
+        title: 'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
         desc: "The Indian Premier League (IPL) has produced some of cricket's most intense rivalries, and the KKR vs. SRH Head-to-Head battles stand out for their unpredictability and excitement. As two of the league's most competitive franchises, Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have delivered memorable encounters over the years. In this comprehensive blog, we'll explore their head-to-head record, key players, tactical approaches, upcoming match details, and predictions while maintaining focus on the KKR vs SRH narrative.",
         btnText: 'read more',
         pubDate: '22 Apirl 2025',
         pubAuthor: 'DR DIAMOND EXCHANGE',
         metaKeywords:'SRH VS KKR Head-to-Head',
-        metaTitle:'SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
+        metaTitle:'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
         metaDescription:"The Indian Premier League (IPL) has produced some of cricket's most intense rivalries, and the KKR vs. SRH Head-to-Head battles stand out for their unpredictability and excitement. As two of the league's most competitive franchises, Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have delivered memorable encounters over the years. In this comprehensive blog, we'll explore their head-to-head record, key players, tactical approaches, upcoming match details, and predictions while maintaining focus on the KKR vs SRH narrative.",
-        ogTitle:'SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025',
+        ogTitle:'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
         ogImage:'Blogs Section-MARK1',
         ogUrl:'https://drdiamondexch.com/blog-single/KKR-vs-RR-Head-to-Head-Which-Team-Will-Win-on-4th-May',
         content: `
-            <h2>SRH VS KKR Head-to-Head: Overview of Team Stats and Performance in IPL 2025</h2>
+            <h2>CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions</h2>
 
     <p>The Indian Premier League (IPL) has produced some of cricket's most intense rivalries, and the KKR vs. SRH Head-to-Head battles stand out for their unpredictability and excitement. As two of the league's most competitive franchises, Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have delivered memorable encounters over the years.</p>
 
@@ -31,8 +113,6 @@ export const blogData = [
     </ul>
 
     <h2>SRH vs KKR IPL 2025 Squads</h2>
-
-<h2>SRH vs KKR Team Members</h2>
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%; max-width: 600px;">
     <thead>
