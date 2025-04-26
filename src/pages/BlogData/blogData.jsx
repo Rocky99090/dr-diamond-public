@@ -2,7 +2,7 @@ export const blogData = [
 
 
     {
-        id: "CSK-vs-KKR-on-9th-May:-Stats,-Match-Preview,-and-win-Predictions",
+        id: "CSK-vs-GT-head-to-Head-18th-May-Match-Preview,-Team-lineup-&-Prediction",
         imgUrl: '/assets/images/blog/CSK vs GT head-to-Head 18th May Match Preview, Team lineup & Prediction.png',
         imgAlt: 'CSK vs GT head-to-Head 18th May: Match Preview, Team lineup & Prediction',
         title: 'CSK vs GT head-to-Head 18th May: Match Preview, Team lineup & Prediction',
@@ -15,7 +15,7 @@ export const blogData = [
         metaDescription:"The Indian Premier League (IPL) continues to thrill fans across the globe, and one of the most anticipated clashes this season is the battle between Chennai Super Kings (CSK) and Gujarat Titans (GT) on 18th May 2025. As we approach the business end of the tournament, every match becomes crucial, and this fixture promises high-octane drama, strategic brilliance, and edge-of-the-seat action.",
         ogTitle:'CSK vs GT head-to-Head 18th May: Match Preview, Team lineup & Prediction',
         ogImage:'Blogs Section-MARK1',
-        ogUrl:'https://drdiamondexch.com/blog-single/CSK-vs-KKR-on-9th-May:-Stats,-Match-Preview,-and-win-Predictions',
+        ogUrl:'https://drdiamondexch.com/blog-single/CSK-vs-GT-head-to-Head-18th-May-Match-Preview,-Team-lineup-&-Prediction',
         content: `
             <h2>CSK vs GT head-to-Head 18th May: Match Preview, Team lineup & Prediction</h2>
         
