@@ -1,22 +1,94 @@
 export const blogData = [
 
+
+    {
+        id: "CSK-vs-KKR-on-9th-May:-Stats,-Match-Preview,-and-win-Predictions",
+        imgUrl: '/assets/images/blog/CSK vs GT head-to-Head 18th May Match Preview, Team lineup & Prediction.png',
+        imgAlt: 'CSK vs GT head-to-Head 18th May: Match Preview, Team lineup & Prediction',
+        title: 'CSK vs GT head-to-Head 18th May: Match Preview, Team lineup & Prediction',
+        desc: "The Indian Premier League (IPL) continues to thrill fans across the globe, and one of the most anticipated clashes this season is the battle between Chennai Super Kings (CSK) and Gujarat Titans (GT) on 18th May 2025. As we approach the business end of the tournament, every match becomes crucial, and this fixture promises high-octane drama, strategic brilliance, and edge-of-the-seat action.",
+        btnText: 'read more',
+        pubDate: '22 Apirl 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'CSK vs GT head-to-Head 18th May',
+        metaTitle:'CSK vs GT head-to-Head 18th May: Match Preview, Team lineup & Prediction',
+        metaDescription:"The Indian Premier League (IPL) continues to thrill fans across the globe, and one of the most anticipated clashes this season is the battle between Chennai Super Kings (CSK) and Gujarat Titans (GT) on 18th May 2025. As we approach the business end of the tournament, every match becomes crucial, and this fixture promises high-octane drama, strategic brilliance, and edge-of-the-seat action.",
+        ogTitle:'CSK vs GT head-to-Head 18th May: Match Preview, Team lineup & Prediction',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/CSK-vs-KKR-on-9th-May:-Stats,-Match-Preview,-and-win-Predictions',
+        content: `
+            <h2>CSK vs GT head-to-Head 18th May: Match Preview, Team lineup & Prediction</h2>
+        
+
+  <p>The Indian Premier League (IPL) continues to thrill fans across the globe, and one of the most anticipated clashes this season is the battle between <strong>Chennai Super Kings (CSK)</strong> and <strong>Gujarat Titans (GT)</strong> on <strong>18th May 2025</strong>. As we approach the business end of the tournament, every match becomes crucial. This fixture promises high-octane drama, strategic brilliance, and edge-of-the-seat action.</p>
+
+  <h2>GT vs CSK Match Highlights</h2>
+  <ul>
+    <li><strong>Date:</strong> 18th May 2025</li>
+    <li><strong>Venue:</strong> Narendra Modi Stadium, Ahmedabad</li>
+    <li><strong>Time:</strong> 7:30 PM IST</li>
+    <li><strong>Live Broadcast:</strong> Star Sports Network & JioCinema</li>
+  </ul>
+
+  <p>This IPL match in Ahmedabad holds playoff implications for both sides. CSK, known for their experience and consistent performances under pressure, will be looking to cement their place in the top four. GT, the champions of 2022 and runners-up in 2023, have had a slightly up-and-down season but remain a dangerous opponent.</p>
+
+  <h2>Chennai Super Kings (CSK) – Squad Overview</h2>
+  <p>CSK, led by the legendary MS Dhoni, has blended youth with experience beautifully. Their batting has been anchored by Ruturaj Gaikwad, while Shivam Dube has emerged as a powerful finisher. The bowling attack, led by Deepak Chahar and Matheesha Pathirana, has made crucial breakthroughs.</p>
+
+  <p><strong>CSK IPL 2025 Team Members:</strong> MS Dhoni, Rutraj Gaikwad, Sheikh Rasheed, Rachin Ravindra, Ravichandran Ashwin, Matheesha Pathirana, Noor Ahmad, Mustafizur Rahman, Nathan Ellis, Ravindra Jadeja, Devon Conway, Khaleel Ahmad, Rahul Tripathi, Shivam Dubey.</p>
+
+  <h2>Gujarat Titans (GT) – Squad Overview</h2>
+  <p>Under the new captaincy of Shubman Gill, GT has been trying to recreate the magic of previous seasons. While Hardik Pandya's absence is felt, players like Sai Sudharsan, David Miller, and Rashid Khan continue to bring solidity to the team. Fans are eagerly securing <a href="https://drdiamondexch.com/blog-single/Gujarat-Titans-IPL-2025-Ticket-Booking-Match-Schedule-Ultimate-Fan-Guide"> <strong>GT IPL 2025 Tickets</strong></a> to witness the action live from the stands.</p>
+
+  <p><strong>GT IPL 2025 Team Members:</strong> Shubman Gill, Dasun Shanaka, Sai Sudarsan, Prasidh Krishna, Sai Kishore, Glenn Phillips, Jayant Yadav, Jos Buttler, Rashid Khan, Rahul Tewatia, Mohammad Siraj, Lockie Ferguson.</p>
+
+  <h2>CSK vs GT Head-to-Head Record</h2>
+  <p>Since GT's debut in IPL 2022, the CSK vs GT rivalry has become one to watch. Here's a quick summary of their encounters:</p>
+  <ul>
+    <li><strong>Total Matches Played:</strong> 5</li>
+    <li><strong>GT Wins:</strong> 3</li>
+    <li><strong>CSK Wins:</strong> 2</li>
+  </ul>
+  <p>Notably, CSK defeated GT in the IPL 2023 Final, adding emotional and competitive intensity to this fixture.</p>
+
+  <h2>Pitch & Conditions</h2>
+  <p>If this <a href="https://drdiamondexch.com/blog-single/IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More"><strong>IPL match 2025</strong></a>  is held in Chennai, the pitch will favor spinners, with teams generally preferring to bat first. If the venue is Ahmedabad, expect a true surface aiding both batters and pacers. </p>
+  <p><strong>Chennai:</strong> Low-scoring, slow wicket — ideal for spinners like Jadeja & Theekshana.</p>
+  <p><strong>Ahmedabad:</strong> Bigger boundaries, good bounce — suits batsmen like Gill and pacers like Pathirana and Johnson.</p>
+
+  <h2>CSK vs GT Match Prediction – Who Will Win?</h2>
+  <p>GT might have a competitive edge due to home-ground advantage. On paper, both teams are evenly matched with proven match-winners across all departments. However, conditions, form, and composure under pressure will play a key role in deciding the outcome.</p>
+
+  <h3>Strengths Comparison</h3>
+  <ul>
+    <li><strong>CSK Strengths:</strong> Experience, spin bowling, finishers like Dube and Dhoni</li>
+    <li><strong>GT Strengths:</strong> Top-order firepower, strong bowling attack with Rashid and Mohit Sharma</li>
+  </ul>
+
+  <h2>Get the Latest Cricket Blogs from DR DIAMOND EXCHANGE</h2>
+  <p>IPL 2025 is a hot topic for every Indian cricket fan. To stay updated on all the latest matches, stats, and insights, visit <a href="https://drdiamondexch.com/"> <strong>DR DIAMOND EXCHANGE</strong>. </a> We consistently post <a href="https://drdiamondexch.com/blog"><strong>Latest Cricket Blogs </a></strong> and real-time match news. Stay tuned for more updates!</p>
+     
+`
+    },
+
+
     {
         id: "CSK-vs-KKR-on-9th-May:-Stats,-Match-Preview,-and-win-Predictions",
         imgUrl: '/assets/images/blog/CSK vs KKR on 9th May Stats, Match Preview, and win Predictions.png',
-        imgAlt: 'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
-        title: 'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
+        imgAlt: 'CSK vs KKR on 9th May Stats, Match Preview and win Predictions',
+        title: 'CSK vs KKR on 9th May Stats, Match Preview and win Predictions',
         desc: "Are you excited for the next CSK vs. KKR IPL 2025 match that’s scheduled for 7th May? Then this blog is for you. Get insights on their face-off this season and past years. We will also go through the finalized team members for this most-awaited match. By the end of the blog, you will also learn who has a high possibility of winning the next match. Let’s dive in.",
         btnText: 'read more',
         pubDate: '22 Apirl 2025',
         pubAuthor: 'DR DIAMOND EXCHANGE',
         metaKeywords:'CSK vs KKR on 9th May',
-        metaTitle:'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
+        metaTitle:'CSK vs KKR on 9th May Stats, Match Preview and win Predictions',
         metaDescription:"Are you excited for the next CSK vs. KKR IPL 2025 match that’s scheduled for 7th May? Then this blog is for you. Get insights on their face-off this season and past years. We will also go through the finalized team members for this most-awaited match. By the end of the blog, you will also learn who has a high possibility of winning the next match. Let’s dive in.",
-        ogTitle:'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
+        ogTitle:'CSK vs KKR on 9th May Stats, Match Preview and win Predictions',
         ogImage:'Blogs Section-MARK1',
         ogUrl:'https://drdiamondexch.com/blog-single/CSK-vs-KKR-on-9th-May:-Stats,-Match-Preview,-and-win-Predictions',
         content: `
-            <h2>CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions </h2>
+            <h2>CSK vs KKR on 9th May Stats, Match Preview and win Predictions</h2>
 
  <p>Are you excited for the next CSK vs. KKR IPL 2025 match that’s scheduled for 7th May? Then this blog is for you. Get insights on their face-off this season and past years. We will also go through the finalized team members for this most-awaited match. By the end of the blog, you will also learn who has a high possibility of winning the next match. Let’s dive in.</p>
 
@@ -87,20 +159,20 @@ export const blogData = [
     {
         id: "SRH-VS-KKR-Head-to-Head:-Overview-of-Team-Stats-and-Performance-in-IPL-2025",
         imgUrl: '/assets/images/blog/SRH VS KKR Head-to-Head Overview of Team Stats and Performance in IPL 2025.png',
-        imgAlt: 'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
-        title: 'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
+        imgAlt: 'SRH VS KKR Head to Head Overview of Team Stats and Performance in IPL 2025',
+        title: 'SRH VS KKR Head to Head Overview of Team Stats and Performance in IPL 2025',
         desc: "The Indian Premier League (IPL) has produced some of cricket's most intense rivalries, and the KKR vs. SRH Head-to-Head battles stand out for their unpredictability and excitement. As two of the league's most competitive franchises, Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have delivered memorable encounters over the years. In this comprehensive blog, we'll explore their head-to-head record, key players, tactical approaches, upcoming match details, and predictions while maintaining focus on the KKR vs SRH narrative.",
         btnText: 'read more',
         pubDate: '22 Apirl 2025',
         pubAuthor: 'DR DIAMOND EXCHANGE',
         metaKeywords:'SRH VS KKR Head-to-Head',
-        metaTitle:'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
+        metaTitle:'SRH VS KKR Head to Head Overview of Team Stats and Performance in IPL 2025',
         metaDescription:"The Indian Premier League (IPL) has produced some of cricket's most intense rivalries, and the KKR vs. SRH Head-to-Head battles stand out for their unpredictability and excitement. As two of the league's most competitive franchises, Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have delivered memorable encounters over the years. In this comprehensive blog, we'll explore their head-to-head record, key players, tactical approaches, upcoming match details, and predictions while maintaining focus on the KKR vs SRH narrative.",
-        ogTitle:'CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions',
+        ogTitle:'SRH VS KKR Head to Head Overview of Team Stats and Performance in IPL 2025',
         ogImage:'Blogs Section-MARK1',
         ogUrl:'https://drdiamondexch.com/blog-single/KKR-vs-RR-Head-to-Head-Which-Team-Will-Win-on-4th-May',
         content: `
-            <h2>CSK vs KKR on 9th May: Stats, Match Preview, and win Predictions</h2>
+            <h2>SRH VS KKR Head to Head Overview of Team Stats and Performance in IPL 2025</h2>
 
     <p>The Indian Premier League (IPL) has produced some of cricket's most intense rivalries, and the KKR vs. SRH Head-to-Head battles stand out for their unpredictability and excitement. As two of the league's most competitive franchises, Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have delivered memorable encounters over the years.</p>
 
