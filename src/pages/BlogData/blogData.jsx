@@ -1,5 +1,65 @@
 export const blogData = [
 
+    {
+        id: "MI-vs-DC-IPL-2025-Head-to-Head-Stats-Match-Highlights-and-Winning-Predictionsn",
+        imgUrl: '/assets/images/blog/MI vs DC IPL 2025 Head-to-Head Stats, Match Highlights, and Winning Predictions.png',
+        imgAlt: 'MI vs DC IPL 2025: Head-to-Head Stats, Match Highlights, and Winning Predictions',
+        title: 'MI vs DC IPL 2025: Head-to-Head Stats, Match Highlights, and Winning Predictions',
+        desc: "MI and DC are about to have their second match of this season on 15 May, and all the fans are thrilled to watch it. The first IPL 2025 Match Schedule of MI vs. DC was on 13th April, which was won by MI. This has increased MI fans' hope for the team. On the other hand, DC fans want their ideal team to succeed in the finals. In this blog, we will go through MI vs. DC head-to-head, highlights of previous matches, their head-to-head stats, and the winning probability of the next IPL Match in 2025. Let’s get started.",
+        btnText: 'read more',
+        pubDate: '29 Apirl 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'MI vs DC IPL 2025',
+        metaTitle:'MI vs DC IPL 2025: Head-to-Head Stats, Match Highlights, and Winning Predictions',
+        metaDescription:"MI and DC are about to have their second match of this season on 15 May, and all the fans are thrilled to watch it. The first IPL 2025 Match Schedule of MI vs. DC was on 13th April, which was won by MI. This has increased MI fans' hope for the team. On the other hand, DC fans want their ideal team to succeed in the finals. In this blog, we will go through MI vs. DC head-to-head, highlights of previous matches, their head-to-head stats, and the winning probability of the next IPL Match in 2025. Let’s get started.",
+        ogTitle:'MI vs DC IPL 2025: Head-to-Head Stats, Match Highlights, and Winning Predictions',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/MI-vs-DC-IPL-2025-Head-to-Head-Stats-Match-Highlights-and-Winning-Predictionsn',
+        content: `
+            <h2>MI vs DC IPL 2025: Head-to-Head Stats, Match Highlights, and Winning Predictions</h2>
+         <p>MI and DC are about to have their second match of this season on 15 May, and all the fans are thrilled to watch it. The first IPL 2025 Match Schedule of MI vs. DC was on 13th April, which was won by MI. This has increased MI fans' hope for the team. On the other hand, DC fans want their ideal team to succeed in the finals. In this blog, we will go through MI vs. DC head-to-head, highlights of previous matches, their head-to-head stats, and the winning probability of the next IPL Match in 2025. Let’s get started.</p>
+
+    <h2>MI vs DC IPL 2025 match highlights</h2>
+    <p>The first encounter of the MI vs. DC IPL 2025 was held on 13th April 2025. The entire match was filled with unexpected turns of events. MI, which was rather lackluster in the previous matches, came into its true form and gained a victory over DC. I had the target of 205/5, which DC couldn’t beat till the very end. The match was held at the Arun Jaitley Stadium. The player of the match title was awarded to Jake Fraser-McGurk, who, with his explosive knock, laid the foundation for Delhi's.</p>
+
+    <h2>MI vs DC Head to Head Previous</h2>
+    <p>Since the 2009 IPL match, both teams, MI and DC, have played highly competitive matches against each other. They have a total of 36 matches as of the <a href="https://drdiamondexch.com/blog-single/IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More"><strong>IPL 2025 MatchSchedule.</strong></a> Out of these, MI has secured victory in 20 matches, while DC has been the winner of 16 matches. Out of both teams, MI has won 5 times, while on the other hand, DC has only achieved 1 winner trophy when it was known as Deccan Chargers. As of now, the possibility of DC staying ahead in IPL 2025 seems more likely than MI. However, MI has the potential to rise high from the downgrades, which kept the fans intact throughout the whole season.</p>
+
+    <h2>MI vs DC head-to-head stats of the last 5 years (2020-2024)</h2>
+
+    <h3>MI vs DC IPL head-to-head in 2020</h3>
+    <p>In the year 2020, the two teams competed against each other 4 times, twice in the league stage, once in Qualifier 1, and then in the Final. The first match was held on 11 October in Abu Dhabi. DC scored 162/4, which MI chased with 5 wickets remaining. Hence, MI was the winner.</p>
+    <p>The next MI vs. DC IPL match was held on 31 October in Dubai. DC gave a target of 119, which was chased down by MI with 9 wickets to spare. They both made it to the qualifier and competed against each other again on the 5th of November. In this match, MI also won, and the same case was when they faced each other in the final, hence making MI the IPL champions of that year.</p>
+
+    <h3>MI VS DC head-to-head in 2021</h3>
+    <p>In 2021, both teams only competed against each other twice. The first match was held on 20 April in Chennai. In this match, Delhi won by 6 wickets. In the second DC vs MI match, DC also won the match by 4 wickets.</p>
+
+    <h3>MI vs DC head-to-head in 2022</h3>
+    <p>The first IPL match of this season was held on 27 March 2022 in the Brabourne Stadium. The result was that Delhi won by 4 wickets. The next match was held in Wankhede Stadium, which was won by MI by 5 wickets.</p>
+
+    <h3>MI vs DC head-to-head 2023</h3>
+    <p>In 2023, there was only 1 MI vs. DC head-to-head match that was held on 11 April at Arun Jaitley Stadium. In this match, MI won by 6 wickets.</p>
+
+    <h3>MI vs DC IPL match 2024</h3>
+    <p>In 2024, there were two MI vs. DC IPL matches. The match that was held on 27th April was won by DC by 10 runs. The second match was held on 7th April and was won by MI by 29 runs.</p>
+
+    <img style="width:100%;" src="/assets/images/blog/graph-new.jpg" alt="Graphical representation of MI vs DC head-to-head from 2020 to 2024">
+
+    <h2>The MI vs DC upcoming IPL 2025 match details</h2>
+    <ul>
+        <li><strong>IPL Match Scheduled Date:</strong> 5th May 2025</li>
+        <li><strong>Match Number:</strong> 66th IPL 2025 Match</li>
+        <li><strong>Match timings:</strong> starts from 30</li>
+        <li><strong>Match Venue:</strong> Wankhede Stadium</li>
+    </ul>
+
+    <h2>MI vs. DC: Who can win the next match?</h2>
+    <p>Although MI has won more matches, DC has improved a lot from previous IPL seasons. However, the fact that it will be held in MI’s home ground, aka Wankhede Stadium, can turn the game in MI’s favor.</p>
+
+    <h2>Connect with the best casino betting ID provider in India</h2>
+    <p>Watching sports is great, but betting and earning from it is on another level of enthusiasm. If you are looking for a similar experience, you need a betting ID. The best place to get started with DR Diamond Exchange is. It is a world-renowned <a href="https://drdiamondexch.com/casino-id-provider"><strong>Casino Betting ID Provider in India</strong> </a> that provides safe and secure services to each user. Connect with us through WhatsApp at that number. To get your ID within a few seconds.</p>
+`
+    },
 
     {
         id: "CSK-vs-GT-head-to-Head-18th-May-Match-Preview,-Team-lineup-&-Prediction",
@@ -83,7 +143,7 @@ export const blogData = [
         pubAuthor: 'DR DIAMOND EXCHANGE',
         metaKeywords:'CSK vs KKR on 9th May',
         metaTitle:'CSK vs KKR on 9th May Stats, Match Preview and win Predictions',
-        metaDescription:"Are you excited for the next CSK vs. KKR IPL 2025 match that’s scheduled for 7th May? Then this blog is for you. Get insights on their face-off this season and past years. We will also go through the finalized team members for this most-awaited match. By the end of the blog, you will also learn who has a high possibility of winning the next match. Let’s dive in.",
+        metaDescription:"Are you excited for the next CSK vs. KKR IPL 2025 match scheduled for 7th May? Then this blog is for you. Get insights on their face-off this season and past years. We will also go through the finalized team members for this most-awaited match. By the end of the blog, you will also learn who has a high possibility of winning the next match. Let’s dive in.",
         ogTitle:'CSK vs KKR on 9th May Stats, Match Preview and win Predictions',
         ogImage:'Blogs Section-MARK1',
         ogUrl:'https://drdiamondexch.com/blog-single/CSK-vs-KKR-on-9th-May:-Stats,-Match-Preview,-and-win-Predictions',
