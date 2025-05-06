@@ -1,5 +1,73 @@
 export const blogData = [
 
+
+    {
+        id: "RCB-vs-SRH-13-May-IPL-2025-Head-to-Head-History-&-Win-Prediction",
+        imgUrl: '/assets/images/blog/RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction.png',
+        imgAlt: 'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
+        title: 'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
+        desc: "SRH vs. RCB will have their first IPL match in 2025 on 13th May at last. The fascinating point is that SRH leads the head-to-head between both teams; however, the IPL 2025 Schedule  has brought a drastic change, with RCB leading the pointer table and SRH being second to last. This upcoming 64th IPL match will decide the fate of not only SRH vs. RCB Head-to-Head but also which team will make it to the qualifiers and which won't. Until we get to see the real match, let’s understand the head-to-head and previous match highlights to understand the scenario of the upcoming match.",
+        btnText: 'read more',
+        pubDate: '06 May 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'RCB vs SRH, 13 May IPL 2025',
+        metaTitle:'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
+        metaDescription:"SRH vs. RCB will have their first IPL match in 2025 on 13th May at last. The fascinating point is that SRH leads the head-to-head between both teams; however, the IPL 2025 Schedule  has brought a drastic change, with RCB leading the pointer table and SRH being second to last. This upcoming 64th IPL match will decide the fate of not only SRH vs. RCB Head-to-Head but also which team will make it to the qualifiers and which won't. Until we get to see the real match, let’s understand the head-to-head and previous match highlights to understand the scenario of the upcoming match.",
+        ogTitle:'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/RCB-vs-SRH-13-May-IPL-2025-Head-to-Head-History-&-Win-Prediction',
+        content: `
+            <h2>RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction</h2>
+         <p>SRH vs. RCB will have their first IPL match in 2025 on 13th May at last. The fascinating point is that SRH leads the head-to-head between both teams; however, the <a href="https://drdiamondexch.com/blog-single/IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More"><strong> IPL 2025 Schedule </strong></a> has brought a drastic change, with RCB leading the pointer table and SRH being second to last. This upcoming 64th IPL match will decide the fate of not only SRH vs. RCB Head-to-Head but also which team will make it to the qualifiers and which won't. Until we get to see the real match, let’s understand the head-to-head and previous match highlights to understand the scenario of the upcoming match.</p>
+ <br>
+                    <img src="/assets/images/blog/rcb-srh.png"alt="">
+
+  <h2>RCB vs SRH Head to Head Over 5 Years</h2>
+
+  <h3>RCB vs SRH head to head in 2020</h3>
+  <p>In the 2020 IPL season, Sunrisers Hyderabad (SRH) and Royal Challengers Bangalore (RCB) faced each other three times, twice in the league stage and once in the playoffs (Eliminator).</p>
+
+  <h3>RCB vs SRH head to head in 2021</h3>
+  <p>In the 2021 IPL season, Sunrisers Hyderabad (SRH) and Royal Challengers Bangalore (RCB) faced each other twice during the league stage. Each team secured one victory, resulting in a 1–1 head-to-head record for the season.</p>
+
+  <h3>RCB vs SRH head to head in 2022</h3>
+  <p>In the 2022 Indian Premier League (IPL) season, Sunrisers Hyderabad (SRH) and Royal Challengers Bangalore (RCB) faced each other twice during the league stage, each securing one victory.</p>
+
+  <h3>RCB vs SRH head to head in 2023</h3>
+  <p>In the 2023 Indian Premier League (IPL) season, Sunrisers Hyderabad (SRH) and Royal Challengers Bangalore (RCB) faced each other once during the league stage.</p>
+
+  <h3>RCB vs. SRH head-to head in 2024</h3>
+  <p>In the 2024 Indian Premier League (IPL) season, Sunrisers Hyderabad (SRH) and Royal Challengers Bengaluru (RCB) faced each other twice during the league stage, with each team securing one victory.</p>
+
+  <h2>RCB vs. SRH Members</h2>
+
+  <h3>RCB:</h3>
+  <p>Virat Kohli, Yash Dayal, Josh Hazlewood, Phil Salt, Jitesh Sharma, Liam Livingstone, Rasikh Dar, Suyash Sharma (c), Krunal Pandya, Bhuvneshwar Kumar, Nuwan Thushara, Swapnil Singh, Tim David, Romario Shepherd, Swastik Chhikara, Manoj Bhandage, Jacob Bethel, Devdutt Padikkal, Lungi Ngidi, Abhinandan Singh, Mohit Rathee, and Rajat Patidar.</p>
+
+  <h3>SRH:</h3>
+  <p>Heinrich Klaasen, Abhishek Sharma, Travis Head, Nitish Kumar Reddy Mohammed Shami, Harshal Patel, Ishan Kishan, Pat Cummins (c), Simarjeet Singh, Rahul Chahar, Adam Zampa, Atharva Taide, Abhinav Manohar, Zeeshan Ansari, Jaydev Unadkat, Brydon Carse, Kamindu Mendis, Aniket Verma, Eshan Malinga, Sachin Baby</p>
+
+  <h2>SRH vs RCB Upcoming Match Details</h2>
+
+  <ul>
+    <li><strong>Scheduled Date:</strong> 13th May</li>
+    <li><strong>Match Type:</strong> T64 out of 74</li>
+    <li><strong>Match Venue:</strong> M Chinnaswamy Stadium</li>
+    <li><strong>Match timing:</strong> 9.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50</li>
+  </ul>
+
+  <h2>SRH vs RCB Head-to-Head Win Prediction</h2>
+  <p>According to the SRH vs. RCB head-to-head winning prediction, certain factors need to be considered, like pitch and key players’ performance. Considering RCB's strong home record and the current form of key players like     Virat Kohli </strong></a> and Josh Hazlewood, they appear to have a slight edge. However, SRH's explosive batting lineup, especially with Abhishek Sharma's recent performance, cannot be underestimated. The match promises to be a thrilling contest, and the outcome may hinge on which team's top-order batsmen can capitalize on the pitch conditions.</p>
+
+  <h2>SRH vs RCB: Book Tickets for IPL Match 2025</h2>
+  <p>As RCB is ruling the points table, fans are attempting to get a chance for a live RCB match experience.<a href="https://drdiamondexch.com/blog-single/How-to-Book-RCB-IPL-2025-Tickets-Prices-Dates-More"><strong> RCB IPL 2025 Tickets </strong></a> are available in a large number of slots as the team is giving remarkable performances.</p>
+
+  <h2>Get Your Dr. Diamond Exchange ID Now!</h2>
+  <p>Join the <a href="https://drdiamondexch.com/"><strong> Top Gaming Platform in India </strong></a> with a verified Dr Diamond Exchange ID. Enjoy real-time odds, fast payouts, and secure betting on cricket and more. Don't miss the action—message us on WhatsApp today and start your winning journey with Dr. Diamond Exchange!</p>
+
+`
+    },
+
     {
         id: "MI-vs-DC-IPL-2025-Head-to-Head-Stats-Match-Highlights-and-Winning-Predictionsn",
         imgUrl: '/assets/images/blog/MI vs DC IPL 2025 Head-to-Head Stats, Match Highlights, and Winning Predictions.png',
