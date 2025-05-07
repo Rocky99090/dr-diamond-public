@@ -44,6 +44,8 @@ export const blogData = [
     <li><strong>Notable Incident:</strong> The 2013 season witnessed a heated exchange between Gautam Gambhir and Virat Kohli, intensifying the rivalry.</li>
   </ul>
 
+  <img src="/assets/images/blog/dr-image.png" alt="">
+
   <h2>How to book RCB vs. KKR IPL 2025 tickets online?</h2>
   <p>To book KKR vs. <a href="https://drdiamondexch.com/blog-single/How-to-Book-RCB-IPL-2025-Tickets-Prices-Dates-More"><strong> RCB IPL 2025 Tickets </strong></a> for the upcoming match, visit the official website of IPL to book tickets. If the site is too busy, you can also use other websites like BookMyShow. Paytm or District by Zomato. The process is very simple. All you need to do is search for your match, choose the number of seats, make a payment, and receive your booked ticket through text or email.</p>
 
