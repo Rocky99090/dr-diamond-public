@@ -1,18 +1,73 @@
 export const blogData = [
 
 
+
+    {
+        id: "RCB-vs-KKR-on-17th-May-Match-Preview-Head-to-Head-&-Ticket-Booking",
+        imgUrl: '/assets/images/blog/RCB vs KKR on 17th May Match Preview, Head-to-Head & Ticket Booking.png',
+        imgAlt: 'RCB vs KKR on 17th May: Match Preview, Head-to-Head & Ticket Booking',
+        title: 'RCB vs KKR on 17th May: Match Preview, Head-to-Head & Ticket Booking',
+        desc: "Get complete details of RCB vs. KKR  68th Match on 17th May. This blog includes previous match highlights, head-to-head records, and ticket booking details.",
+        btnText: 'read more',
+        pubDate: '06 May 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'RCB vs KKR on 17th May',
+        metaTitle:'RCB vs KKR on 17th May: Match Preview, Head-to-Head & Ticket Booking',
+        metaDescription:"Get complete details of RCB vs. KKR  68th Match on 17th May. This blog includes previous match highlights, head-to-head records, and ticket booking details.",
+        ogTitle:'RCB vs KKR on 17th May: Match Preview, Head-to-Head & Ticket Booking',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/RCB-vs-KKR-on-17th-May-Match-Preview-Head-to-Head-&-Ticket-Booking',
+        content: `
+            <h2>RCB vs KKR on 17th May: Match Preview, Head-to-Head & Ticket Booking</h2>
+         <p>The most awaited match of RCB vs. KKR is soon to air on 17th May. This match will be an enthralling one to watch, as it will decide the fate of both the teams. According to the <a href="https://drdiamondexch.com/blog-single/IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More"><strong> IPL 2025 Schedule, </strong></a> the first RCB vs. KKR head-to-head was held on 22 March, which was won by RCB profoundly. While it’s too early to know which team will win, we can gather details related to their head-to-head, ticket booking, and match highlights to figure out the winning possibility.</p>
+
+  <h2>RCB vs KKR first IPL Match in 2025 Highlights</h2>
+
+  <p>The first encounter between RCB and KKR was held on 22nd March in Kolkata’s home ground, Eden Gardens. It was the opening match of IPL 2025 and was won by RCB by 7 wickets and 22 balls to spare.</p>
+
+  <h3>KKR Innings:</h3>
+  <p>After being put into bat, KKR posted a total of 174/8 in 20 overs. Captain Ajinkya Rahane led the charge with a brisk 56 off 31 balls, and Sunil Narine contributed 44 runs, while Rinku Singh made 12 runs. However, RCB's Krunal Pandya turned the tide with a spell of 3/29, and Josh Hazlewood chipped in with 2/22, restricting KKR from reaching a more formidable score.</p>
+
+  <h3>RCB Chase:</h3>
+  <p>Chasing 175, RCB's openers Virat Kohli and Phil Salt laid a solid foundation with a 95-run partnership. Kohli remained unbeaten on 59 off 36 balls, and Salt scored a quickfire 56 from 31 deliveries. <a href="https://drdiamondexch.com/blog-single/Rajat-Patidar-A-Story-of-Resilience-Dedication-and-Leadership-in-IPL"><strong> Rajat Patidar </strong></a> added 34 runs, and Liam Livingstone sealed the win with an unbeaten 15, guiding RCB to 177/3 in just 16.2 overs.</p>
+
+  <h2>RCB vs. KKR Head-to-Head Record</h2>
+
+  <p>RCB and KKR have faced each other in a total of 35 matches. Among these, RCB has won 15 matches, while KKR has won more than 20 matches. While KKR has won the IPL title twice, in 2012, 2014, RCB is yet to make it there, hopefully this year. Among the two IPL 2025 matches, one was won by RCB, and the next one is yet to be held.</p>
+
+  <h2>RCB vs KKR Head-to-Head Key Rivalry Highlights</h2>
+  <ul>
+    <li><strong>Biggest Win (by runs):</strong> KKR defeat RCB by 140 runs in the inaugural IPL match on 18 April 2008.</li>
+    <li><strong>Lowest Team Total:</strong> RCB were bowled out for 49 runs in 2017, marking the lowest total in IPL history.</li>
+    <li><strong>Top Run-Scorer:</strong> Virat Kohli (RCB) with 1,021 runs in this fixture.</li>
+    <li><strong>Top Wicket-Taker:</strong> Sunil Narine (KKR) with 27 wickets against RCB.</li>
+    <li><strong>Notable Incident:</strong> The 2013 season witnessed a heated exchange between Gautam Gambhir and Virat Kohli, intensifying the rivalry.</li>
+  </ul>
+
+  <h2>How to book RCB vs. KKR IPL 2025 tickets online?</h2>
+  <p>To book KKR vs. <a href="https://drdiamondexch.com/blog-single/How-to-Book-RCB-IPL-2025-Tickets-Prices-Dates-More"><strong> RCB IPL 2025 Tickets </strong></a> for the upcoming match, visit the official website of IPL to book tickets. If the site is too busy, you can also use other websites like BookMyShow. Paytm or District by Zomato. The process is very simple. All you need to do is search for your match, choose the number of seats, make a payment, and receive your booked ticket through text or email.</p>
+
+  <h2>RCB vs KKR Prediction</h2>
+  <p>According to the IPL 2025’s point table, RCB is performing better than KKR. So the winning possibility of both teams is inclined more toward RCB. However, KKR's potential to rise from problems cannot be taken for granted. There are other factors, like pitch, team members' practice, and toss, that will decide the winning possibility of the team.</p>
+
+  <h2>DR Diamond Exchange: Diamond ID provider in India</h2>
+  <p>Join <a href="https://drdiamondexch.com/"><strong> DR Diamond Exchange </strong></a> to get a diamond exchange ID within a few seconds. Through this ID, you will get premium benefits. DR Diamond Exchange is considered one of the <a href="https://drdiamondexch.com/diamond-id-provider"><strong> Best Diamond ID Exchange Providers in India </strong></a> that unlocks the gateway to get unlimited profits from betting on our favorite sports. Get yours now by contacting us through WhatsApp.</p>
+`
+    },
+
+
     {
         id: "RCB-vs-SRH-13-May-IPL-2025-Head-to-Head-History-&-Win-Prediction",
         imgUrl: '/assets/images/blog/RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction.png',
         imgAlt: 'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
         title: 'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
-        desc: "SRH vs. RCB will have their first IPL match in 2025 on 13th May at last. The fascinating point is that SRH leads the head-to-head between both teams; however, the IPL 2025 Schedule  has brought a drastic change, with RCB leading the pointer table and SRH being second to last. This upcoming 64th IPL match will decide the fate of not only SRH vs. RCB Head-to-Head but also which team will make it to the qualifiers and which won't. Until we get to see the real match, let’s understand the head-to-head and previous match highlights to understand the scenario of the upcoming match.",
+        desc: "RCB vs. SRH IPL 2025 match on 13th May. Get a Head-to-head history of the last 5 years, team insights, and winning predictions.",
         btnText: 'read more',
         pubDate: '06 May 2025',
         pubAuthor: 'DR DIAMOND EXCHANGE',
         metaKeywords:'RCB vs SRH, 13 May IPL 2025',
         metaTitle:'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
-        metaDescription:"SRH vs. RCB will have their first IPL match in 2025 on 13th May at last. The fascinating point is that SRH leads the head-to-head between both teams; however, the IPL 2025 Schedule  has brought a drastic change, with RCB leading the pointer table and SRH being second to last. This upcoming 64th IPL match will decide the fate of not only SRH vs. RCB Head-to-Head but also which team will make it to the qualifiers and which won't. Until we get to see the real match, let’s understand the head-to-head and previous match highlights to understand the scenario of the upcoming match.",
+        metaDescription:"RCB vs. SRH IPL 2025 match on 13th May. Get a Head-to-head history of the last 5 years, team insights, and winning predictions.",
         ogTitle:'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
         ogImage:'Blogs Section-MARK1',
         ogUrl:'https://drdiamondexch.com/blog-single/RCB-vs-SRH-13-May-IPL-2025-Head-to-Head-History-&-Win-Prediction',
