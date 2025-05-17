@@ -107,7 +107,7 @@ export const blogData = [
   <h2>SRH vs RCB Upcoming Match Details</h2>
 
   <ul>
-    <li><strong>Scheduled Date:</strong> 13th May</li>
+    <li><strong>Scheduled Date:</strong> 23 May</li>
     <li><strong>Match Type:</strong> T64 out of 74</li>
     <li><strong>Match Venue:</strong> M Chinnaswamy Stadium</li>
     <li><strong>Match timing:</strong> 9.30 start, First Session 19.30-21.00, Interval 21.00-21.20, Second Session 21.20-22.50</li>
