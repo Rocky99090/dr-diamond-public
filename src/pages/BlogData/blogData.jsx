@@ -59,22 +59,22 @@ export const blogData = [
 
 
     {
-        id: "RCB-vs-SRH-13-May-IPL-2025-Head-to-Head-History-&-Win-Prediction",
-        imgUrl: '/assets/images/blog/RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction.png',
-        imgAlt: 'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
-        title: 'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
-        desc: "RCB vs. SRH IPL 2025 match on 13th May. Get a Head-to-head history of the last 5 years, team insights, and winning predictions.",
+        id: "RCB-vs-SRH-23-May-IPL-2025-Head-to-Head-History-&-Win-Prediction",
+        imgUrl: '/assets/images/blog/RCB-vs-SRH-23-May-IPL-2025-Head-to-Head-History-&-Win-Prediction.png',
+        imgAlt: 'RCB vs SRH, 23 May IPL 2025 - Head-to-Head History & Win Prediction',
+        title: 'RCB vs SRH, 23 May IPL 2025 - Head-to-Head History & Win Prediction',
+        desc: "RCB vs. SRH IPL 2025 match on 23rd May. Get a head-to-head history of the last 5 years, team insights, and winning predictions.",
         btnText: 'read more',
         pubDate: '06 May 2025',
         pubAuthor: 'DR DIAMOND EXCHANGE',
-        metaKeywords:'RCB vs SRH, 13 May IPL 2025',
-        metaTitle:'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
-        metaDescription:"RCB vs. SRH IPL 2025 match on 13th May. Get a Head-to-head history of the last 5 years, team insights, and winning predictions.",
-        ogTitle:'RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction',
+        metaKeywords:'RCB vs SRH, 23 May IPL 2025',
+        metaTitle:'RCB vs SRH, 23 May IPL 2025 - Head-to-Head History & Win Prediction',
+        metaDescription:"RCB vs. SRH IPL 2025 match on 23rd May. Get a head-to-head history of the last 5 years, team insights, and winning predictions.",
+        ogTitle:'RCB vs SRH, 23 May IPL 2025 - Head-to-Head History & Win Prediction',
         ogImage:'Blogs Section-MARK1',
-        ogUrl:'https://drdiamondexch.com/blog-single/RCB-vs-SRH-13-May-IPL-2025-Head-to-Head-History-&-Win-Prediction',
+        ogUrl:'https://drdiamondexch.com/blog-single/RCB-vs-SRH-23-May-IPL-2025-Head-to-Head-History-&-Win-Prediction',
         content: `
-            <h2>RCB vs SRH, 13 May IPL 2025 - Head-to-Head History & Win Prediction</h2>
+            <h2>RCB vs SRH, 23 May IPL 2025 - Head-to-Head History & Win Prediction</h2>
          <p>SRH vs. RCB will have their first IPL match in 2025 on 13th May at last. The fascinating point is that SRH leads the head-to-head between both teams; however, the <a href="https://drdiamondexch.com/blog-single/IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More"><strong> IPL 2025 Schedule </strong></a> has brought a drastic change, with RCB leading the pointer table and SRH being second to last. This upcoming 64th IPL match will decide the fate of not only SRH vs. RCB Head-to-Head but also which team will make it to the qualifiers and which won't. Until we get to see the real match, let’s understand the head-to-head and previous match highlights to understand the scenario of the upcoming match.</p>
  <br>
                     <img src="/assets/images/blog/rcb-srh.png"alt="">
@@ -130,19 +130,19 @@ export const blogData = [
         imgUrl: '/assets/images/blog/MI vs DC IPL 2025 Head-to-Head Stats, Match Highlights, and Winning Predictions.png',
         imgAlt: 'MI vs DC IPL 2025: Head-to-Head Stats, Match Highlights, and Winning Predictions',
         title: 'MI vs DC IPL 2025: Head-to-Head Stats, Match Highlights, and Winning Predictions',
-        desc: "MI and DC are about to have their second match of this season on 15 May, and all the fans are thrilled to watch it. The first IPL 2025 Match Schedule of MI vs. DC was on 13th April, which was won by MI. This has increased MI fans' hope for the team. On the other hand, DC fans want their ideal team to succeed in the finals. In this blog, we will go through MI vs. DC head-to-head, highlights of previous matches, their head-to-head stats, and the winning probability of the next IPL Match in 2025. Let’s get started.",
+        desc: "MI and DC are about to have their second match of this season on 21st May, and all the fans are thrilled to watch it. The first IPL 2025 Match Schedule of MI vs. DC was on 13th April, which was won by MI. This has increased MI fans' hope for the team. On the other hand, DC fans want their ideal team to succeed in the finals. In this blog, we will go through MI vs. DC head-to-head, highlights of previous matches, their head-to-head stats, and the winning probability of the next IPL Match in 2025. Let’s get started.",
         btnText: 'read more',
         pubDate: '29 Apirl 2025',
         pubAuthor: 'DR DIAMOND EXCHANGE',
         metaKeywords:'MI vs DC IPL 2025',
         metaTitle:'MI vs DC IPL 2025: Head-to-Head Stats, Match Highlights, and Winning Predictions',
-        metaDescription:"MI and DC are about to have their second match of this season on 15 May, and all the fans are thrilled to watch it. The first IPL 2025 Match Schedule of MI vs. DC was on 13th April, which was won by MI. This has increased MI fans' hope for the team. On the other hand, DC fans want their ideal team to succeed in the finals. In this blog, we will go through MI vs. DC head-to-head, highlights of previous matches, their head-to-head stats, and the winning probability of the next IPL Match in 2025. Let’s get started.",
+        metaDescription:"MI and DC are about to have their second match of this season on 21st May, and all the fans are thrilled to watch it. The first IPL 2025 Match Schedule of MI vs. DC was on 13th April, which was won by MI. This has increased MI fans' hope for the team. On the other hand, DC fans want their ideal team to succeed in the finals. In this blog, we will go through MI vs. DC head-to-head, highlights of previous matches, their head-to-head stats, and the winning probability of the next IPL Match in 2025. Let’s get started.",
         ogTitle:'MI vs DC IPL 2025: Head-to-Head Stats, Match Highlights, and Winning Predictions',
         ogImage:'Blogs Section-MARK1',
         ogUrl:'https://drdiamondexch.com/blog-single/MI-vs-DC-IPL-2025-Head-to-Head-Stats-Match-Highlights-and-Winning-Predictionsn',
         content: `
             <h2>MI vs DC IPL 2025: Head-to-Head Stats, Match Highlights, and Winning Predictions</h2>
-         <p>MI and DC are about to have their second match of this season on 15 May, and all the fans are thrilled to watch it. The first IPL 2025 Match Schedule of MI vs. DC was on 13th April, which was won by MI. This has increased MI fans' hope for the team. On the other hand, DC fans want their ideal team to succeed in the finals. In this blog, we will go through MI vs. DC head-to-head, highlights of previous matches, their head-to-head stats, and the winning probability of the next IPL Match in 2025. Let’s get started.</p>
+         <p>MI and DC are about to have their second match of this season on 21st May, and all the fans are thrilled to watch it. The first IPL 2025 Match Schedule of MI vs. DC was on 13th April, which was won by MI. This has increased MI fans' hope for the team. On the other hand, DC fans want their ideal team to succeed in the finals. In this blog, we will go through MI vs. DC head-to-head, highlights of previous matches, their head-to-head stats, and the winning probability of the next IPL Match in 2025. Let’s get started.</p>
 
     <h2>MI vs DC IPL 2025 match highlights</h2>
     <p>The first encounter of the MI vs. DC IPL 2025 was held on 13th April 2025. The entire match was filled with unexpected turns of events. MI, which was rather lackluster in the previous matches, came into its true form and gained a victory over DC. I had the target of 205/5, which DC couldn’t beat till the very end. The match was held at the Arun Jaitley Stadium. The player of the match title was awarded to Jake Fraser-McGurk, who, with his explosive knock, laid the foundation for Delhi's.</p>
@@ -172,8 +172,8 @@ export const blogData = [
 
     <h2>The MI vs DC upcoming IPL 2025 match details</h2>
     <ul>
-        <li><strong>IPL Match Scheduled Date:</strong> 5th May 2025</li>
-        <li><strong>Match Number:</strong> 66th IPL 2025 Match</li>
+        <li><strong>IPL Match Scheduled Date:</strong> 21st May 2025</li>
+        <li><strong>Match Number:</strong>  63rd IPL 2025 Match</li>
         <li><strong>Match timings:</strong> starts from 30</li>
         <li><strong>Match Venue:</strong> Wankhede Stadium</li>
     </ul>
@@ -2058,7 +2058,7 @@ A: Until now, both teams RR and KKR have won the same number of matches. However
         title: 'Cricket Betting Strategies: A Beginner’s Guide with DR DIAMOND EXCHANGE',
         desc: 'Are you new to the world of online cricket ID providers in India and feeling a bit overwhelmed by all the odds, markets, and teams?',
         btnText: 'read more',
-        pubDate: '15 May 2022',
+        pubDate: '21st May 2022',
         pubAuthor: 'Rajib Raj',
         metaKeywords:'Cricket Betting Strategies',
         metaTitle:'Cricket Betting Strategies: A Beginner’s Guide with DR DIAMOND EXCHANGE',
