@@ -1,10 +1,10 @@
 export const blogData = [
 
     {
-        id: "LSG-vs-RCB-on-27th-May-70th-IPL-2025-Match-Detailed-Overview.",
-        imgUrl: '/assets/images/blog/LSG-vs-RCB-on-27th-May-70th-IPL-2025-Match-Detailed-Overview..png',
-        imgAlt: 'LSG vs. RCB  on 27th May: 70th IPL 2025 Match Detailed Overview.',
-        title: 'LSG vs. RCB  on 27th May: 70th IPL 2025 Match Detailed Overview.',
+        id: "LSG-vs-RCB-on-27th-May-70th-IPL-2025-Match-Detailed-Overview",
+        imgUrl: '/assets/images/blog/LSG-vs-RCB-on-27th-May-70th-IPL-2025-Match-Detailed-Overview.png',
+        imgAlt: 'LSG vs. RCB  on 27th May: 70th IPL 2025 Match Detailed Overview',
+        title: 'LSG vs. RCB  on 27th May: 70th IPL 2025 Match Detailed Overview',
         desc: "LSG vs. RCB upcoming match on 27th May, match number 70/74. Get a comprehensive overview of LSG and RCB head-to-head highlights and win predictions.",
         btnText: 'read more',
         pubDate: '21 May 2025',
@@ -14,7 +14,7 @@ export const blogData = [
         metaDescription:"LSG vs. RCB upcoming match on 27th May, match number 70/74. Get a comprehensive overview of LSG and RCB head-to-head highlights and win predictions.",
         ogTitle:'LSG vs. RCB  on 27th May: 70th IPL 2025 Match Detailed Overview.',
         ogImage:'Blogs Section-MARK1',
-        ogUrl:'https://drdiamondexch.com/blog-single/LSG-vs-RCB-on-27th-May-70th-IPL-2025-Match-Detailed-Overview.',
+        ogUrl:'https://drdiamondexch.com/blog-single/LSG-vs-RCB-on-27th-May-70th-IPL-2025-Match-Detailed-Overview',
         content: `
             <h2>LSG vs. RCB  on 27th May: 70th IPL 2025 Match Detailed Overview.</h2>
 
