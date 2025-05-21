@@ -1,6 +1,142 @@
 export const blogData = [
 
+    {
+        id: "LSG-vs-RCB-on-27th-May-70th-IPL-2025-Match-Detailed-Overview.",
+        imgUrl: '/assets/images/blog/LSG-vs-RCB-on-27th-May-70th-IPL-2025-Match-Detailed-Overview..png',
+        imgAlt: 'LSG vs. RCB  on 27th May: 70th IPL 2025 Match Detailed Overview.',
+        title: 'LSG vs. RCB  on 27th May: 70th IPL 2025 Match Detailed Overview.',
+        desc: "LSG vs. RCB upcoming match on 27th May, match number 70/74. Get a comprehensive overview of LSG and RCB head-to-head highlights and win predictions.",
+        btnText: 'read more',
+        pubDate: '21 May 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'LSG vs. RCB  on 27th May',
+        metaTitle:'LSG vs. RCB  on 27th May: 70th IPL 2025 Match Detailed Overview.',
+        metaDescription:"LSG vs. RCB upcoming match on 27th May, match number 70/74. Get a comprehensive overview of LSG and RCB head-to-head highlights and win predictions.",
+        ogTitle:'LSG vs. RCB  on 27th May: 70th IPL 2025 Match Detailed Overview.',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/LSG-vs-RCB-on-27th-May-70th-IPL-2025-Match-Detailed-Overview.',
+        content: `
+            <h2>LSG vs. RCB  on 27th May: 70th IPL 2025 Match Detailed Overview.</h2>
 
+  <p>The IPL 2025, which got postponed due to the war situation between Pakistan and India, has resumed from 17th May. The previous <a href="https://drdiamondexch.com/blog-single/IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More"> <strong> IPL 2025 Schedule </strong></a> has also seen drastic changes. Consequently, the LSG vs. RCB IPL match number 59, which was to be held on 9th May, will now air on 27th May as the 70th match of this IPL season 18. Fans' enthusiasm hasn't dropped a bit, even if they have to wait a little more than before.</p>
+
+  <p>If you are an IPL enthusiast and you want to enjoy this enthralling match to the fullest, it's better to do your homework and be well informed. This way, the fun of watching or even betting magnifies. In this blog, we’ll discuss two outstanding IPL-performing teams, LSG and RCB. Let’s deeply review RCB vs. LSG highlights of previous performances, their head-to-head history, and which players will play the match. If you haven’t been able to crack the LSG vs. RCB prediction, you don’t need to worry because we have. Stick till the end to get more details.</p>
+
+  <h2>LSG vs RCB Head to Head Analysis</h2>
+
+  <p>Out of both the teams, RCB has been here a long time, for 17 years, while it has only been 3 years since we got to see the LSG’s first appearance on the ground in 2022. But since both the teams have had stirring matches against each other. Let’s review their head-to-head performances till current matches.</p>
+
+  <h3>LSG VS RCB head to head stats</h3>
+
+  <table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+      <tr>
+        <th>Teams</th>
+        <th>LSG</th>
+        <th>RCB</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Total Matches Played</td>
+        <td>5</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>Matches Won</td>
+        <td>2</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>Matches Lost</td>
+        <td>3</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Highest Score</td>
+        <td>213</td>
+        <td>212</td>
+      </tr>
+      <tr>
+        <td>Lowest Score</td>
+        <td>153</td>
+        <td>108</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>LSG VS RCB highlights of head to head of each year (2022--2025)</h3>
+
+  <h4>LSG vs RCB head to head in 2022</h4>
+  <ul>
+    <li>April 19, 2022 – RCB won by 18 runs (M. Chinnaswamy Stadium)</li>
+    <li>May 25, 2022 – RCB won by 14 runs (Eliminator, Eden Gardens)</li>
+  </ul>
+  <p><strong>Analysis:</strong> RCB dominated the first year of this rivalry, winning both encounters. <a href="https://drdiamondexch.com/blog-single/Rajat-Patidar-A-Story-of-Resilience-Dedication-and-Leadership-in-IPL"> <strong> Rajat Patidar </strong> </a> stunning 112* off 54 balls in the Eliminator was a standout performance.</p>
+
+
+  <h4>LSG vs RCB head to head in 2023</h4>
+  <p>Total Matches: 2</p>
+  <ul>
+    <li>April 10, 2023 – LSG won by 1 wicket (M. Chinnaswamy Stadium)</li>
+    <li>May 1, 2023 – RCB won by 18 runs (Ekana Stadium)</li>
+  </ul>
+  <p><strong>Analysis:</strong> This season was more balanced. The first game was a last-ball thriller won by LSG. RCB bounced back in the reverse fixture with a comfortable win.</p>
+
+
+  <h4>LSG vs RCB in 2024</h4>
+
+  <ul>
+    <li>April 2, 2024 – LSG won by 28 runs (M. Chinnaswamy Stadium)</li>
+  </ul>
+  <p><strong>Analysis:</strong> LSG outplayed RCB with a convincing 28-run win. Their bowlers executed plans brilliantly, choking RCB’s chase.</p><br>
+
+     <img src="/assets/images/blog/LSGVRCBChart19May1.png" alt="">
+<br>
+  <h4>LSG vs RCB head to head 2025</h4>
+  <p>Total Matches: 1 (as of May 19, 2025)</p>
+  <ul>
+    <li>May 9, 2025 – RCB won by 18 runs (Ekana Stadium)</li>
+  </ul>
+  <p><strong>Analysis:</strong> RCB once again showed composure under pressure to secure a crucial win away from home. The bowling unit was key in defending a modest total.</p>
+
+  <h3>LSG vs RCB head to head key performers</h3>
+
+  <h4>Top Batting Performers</h4>
+  <ul>
+    <li><strong>Nicholas Pooran:</strong> Known for his explosive batting, Pooran has played pivotal roles in LSG's matches against RCB, including a match-winning 62* in a previous encounter.</li>
+    <li><strong>KL Rahul:</strong> As LSG's former captain, Rahul has provided stability at the top order, contributing significant scores in past matches against RCB.</li>
+    <li><strong>Marcus Stoinis:</strong> Stoinis has been instrumental in the middle order, with notable performances including a 65-run innings that helped LSG secure a win over RCB.</li>
+  </ul>
+
+  <h4>Top Bowling Performers</h4>
+  <ul>
+    <li><strong>Ravi Bishnoi:</strong> Bishnoi's leg-spin has been effective against RCB, with best figures of 3/27 in their head-to-head clashes.</li>
+    <li><strong>Avesh Khan:</strong> Avesh has consistently taken wickets against RCB, including a crucial 4-wicket haul in one of their encounters.</li>
+    <li><strong>Mohsin Khan:</strong> Mohsin's left-arm pace has troubled RCB's batting lineup, with best figures of 3/20 in their matchups.</li>
+  </ul>
+
+  <h3>LSG vs RCB IPL 2025 on 27 May Details</h3>
+  <p>As we have seen LSG vs. RCB head-to-head till now, it's only fair to assume that the upcoming match is going to be very amusing. Fans are bursting with wonderment about <a href="https://drdiamondexch.com/blog-single/How-to-Book-RCB-IPL-2025-Tickets-Prices-Dates-More"> <strong> How to Book RCB Tickets Online </strong></a> to see their favorite team play live. As the preview match was held in RCB’s home ground, this LSG vs. RCB match on 25 May will be held in Lucknow’s ground, i.e., Ekana Cricket Stadium.</p>
+
+  <h3>LSG vs RCB Win Prediction</h3>
+  <p>Word has it, RCB is at its peak performance this year, and it's getting hard for any team to beat them. On the other hand, LSG has only won a few matches this year. In the even RCB vs. LSG head-to-head clan, RCB leads over LSG. However, the first LSG vs. RCB match of the 2025 season was bravely won by LSG, so it's safe to say LSG has adapted ways to beat RCB.</p>
+
+  <p>LSG’s bowling depth and adaptability to home conditions give them an edge. If they win the toss and chase, their chances improve significantly. With effective spin matchups and power hitters, LSG could likely emerge victorious in this high-stakes encounter.</p>
+
+  <h3>Where to find IPL betting ID providers? At DR Diamond Exchange</h3>
+  <p>DR Diamond Exchange ID Providers is a renowned IPL <a href="https://drdiamondexch.com/ipl-id-provider"> <strong> Betting ID Platform </strong> </a> known for its timeliness and providing professional IDs. If you are a seasoned bettor or even just a beginner, it's best to start with the best for long-term benefits. Contact us and get assistance now!</p>
+
+  <h2>FAQ</h2>
+  <ul>
+    <li><strong>Which team is better, LSG or RCB?</strong><br> Both the teams, LSG and RCB, are in their prime. However, as of IPL 2025, RCB is in a higher position than LSG in the pointer tables.</li>
+    <li><strong>How many times has LSG won against RCB?</strong><br> LSG has won 3 times out of 6 matches played against RCB.</li>
+    <li><strong>Is RCB strong in IPL 2025?</strong><br> Yes, apparently RCB is one of the strongest teams in IPL 2025. RCB has won most of the matches without a single miss.</li>
+    <li><strong>Is LSG a strong team?</strong><br> Yes, Lucknow Super Giants can be considered a strong team, particularly with their explosive batting lineup. They have a solid top order including players like Pant, Markram, Pooran, and Miller, and a strong middle order for added batting depth. Their pace attack is also strong, with rising star Mayank Yadav and experienced pacers like Avesh Khan and Mohsin Khan.</li>
+  </ul>
+
+`
+    },
 
     {
         id: "RCB-vs-KKR-on-17th-May-Match-Preview-Head-to-Head-&-Ticket-Booking",
