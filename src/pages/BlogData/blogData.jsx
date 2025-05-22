@@ -1,5 +1,113 @@
 export const blogData = [
 
+
+
+    {
+        id: "SRH-vs-KKR-on-25-May-2025-Head-to-Head-Stats-&-Overview",
+        imgUrl: '/assets/images/blog/SRH-vs-KKR-on-25-May-2025-Head-to-Head-Stats-&-Overview.webp',
+        imgAlt: 'SRH vs KKR on 25 May 2025:  Head to Head Stats & Overview',
+        title: 'SRH vs KKR on 25 May 2025:  Head to Head Stats & Overview',
+        desc: " Get complete details of SRH and KKR next match on the 25th at Rajiv Gandhi International Cricket Stadium. Know their head-to-head details and ticket booking info. ",
+        btnText: 'read more',
+        pubDate: '22 May 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'SRH vs KKR on 25 May 2025',
+        metaTitle:'SRH vs KKR on 25 May 2025:  Head to Head Stats & Overview.',
+        metaDescription:" Get complete details of SRH and KKR next match on the 25th at Rajiv Gandhi International Cricket Stadium. Know their head-to-head details and ticket booking info. ",
+        ogTitle:'SRH vs KKR on 25 May 2025:  Head to Head Stats & Overview.',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/SRH-vs-KKR-on-25-May-2025-Head-to-Head-Stats-&-Overview',
+        content: `
+            <h2>SRH vs KKR on 25 May 2025:  Head to Head Stats & Overview</h2>
+ <p>SRH and KKR are about to play their next IPL faceoff on 25th May 2025. After being defeated by KKR in the first match of the two, SRH aims to get back its win with a fiery performance. The reason behind KKR’s triumph is credited to Venkatesh Iyer’s explosive performance, making 60 runs in 29 balls. Because of the recent changes in the <a href="https://drdiamondexch.com/blog-single/IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More"> <strong> IPL 2025 Schedule, </strong></a> there might be changes in the match number, but the enthusiasm remains.</p>
+
+  <p>If you’re an SRH or a KKR fan, this blog is meant just for you. Here we shall discuss various aspects of SRH vs. KKR head-to-head, their highlight matches, and the inner prediction for their game. Stay hooked to get complete insights.</p>
+
+  <h2>SRH vs KKR head-to-head Overview</h2>
+  <p>The Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have built an intense rivalry in the Indian Premier League (IPL), marked by competitive matches and standout performances.</p>
+
+  <p>Since SRH’s debut in 2013, the two sides have met multiple times across group stages and playoffs. Historically, KKR has held the upper hand, consistently edging out SRH with a superior win-loss ratio. KKR’s strategic depth, balanced squads, and clutch performances from players like Andre Russell and Sunil Narine have often proved decisive in tight contests.</p>
+
+  <p>As of the 2024 IPL season, KKR and SRH have faced each other 26 times, with KKR winning 17 matches and SRH winning 9. The rivalry reached its peak in the IPL 2024 final, where KKR dominated SRH with a clinical all-round display. KKR bowled out SRH for just 113 runs, thanks to fiery spells from Mitchell Starc and Andre Russell. Venkatesh Iyer then powered the chase with a brisk half-century, helping KKR clinch their third IPL title.</p>
+
+  <p>This emphatic win not only cemented their dominance in the 2024 season but also extended SRH vs. KKR's head-to-head lead further. While SRH has had its moments, especially during seasons where David Warner and Bhuvneshwar Kumar starred, they’ve struggled for consistency against KKR. SRH’s recent resurgence under Pat Cummins in 2024 brought them to the final, but their inability to handle pressure against KKR’s pace attack exposed familiar weaknesses.</p>
+
+ <p>Going forward, SRH will need to regroup and focus on squad balance and adaptability to close the gap in this rivalry. Meanwhile, KKR’s blend of experience and youth, along with their tactical approach, continues to make them a formidable force against SRH and in the IPL overall.</p>
+  <br>
+ <img style="width:100%;" src="/assets/images/blog/SRHVsKKRGraph.png" alt="">
+<br>
+  <h2>SRH vs KKR Head-to-Head Stats</h2>
+
+  <table border="1" cellpadding="10">
+    <thead>
+      <tr>
+        <th>Stats</th>
+        <th>For KKR vs SRH</th>
+        <th>For SRH vs KKR</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Wins Batting 1st</td>
+        <td>9</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>Wins Chasing</td>
+        <td>10</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>Highest Total</td>
+        <td>205</td>
+        <td>228</td>
+      </tr>
+      <tr>
+        <td>Lowest Total</td>
+        <td>130</td>
+        <td>113</td>
+      </tr>
+      <tr>
+        <td>Highest Successful Chase</td>
+        <td>183</td>
+        <td>176</td>
+      </tr>
+      <tr>
+        <td>Lowest Total Defended</td>
+        <td>167</td>
+        <td>162</td>
+      </tr>
+      <tr>
+        <td>Most Runs</td>
+        <td>Nitish Rana (492 runs)</td>
+        <td>David Warner (619 runs)</td>
+      </tr>
+      <tr>
+        <td>Most Highest Scorer</td>
+        <td>Gautam Gambhir (90*)</td>
+        <td>David Warner (126)</td>
+      </tr>
+      <tr>
+        <td>Best Bowling</td>
+        <td>Prasidh Krishna (4/30)</td>
+        <td>Karn Sharma (4/38)</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>How to book SRH vs. KKR IPL 2025 match tickets?</h2>
+  <p>Although this match is scheduled for a few days. It needs to be secured within a few days. Within a few days of waiting, fans have started wondering How to Book SRH IPL tickets online. To get the opportunity to watch the face-off between these two teams, all you have to do is go to the official BookMyShow for the IPL website and book your number of seats. Next, make the payment, and you will receive it through your contact information.</p>
+
+  <h2>SRH vs KKR winning prediction by AI</h2>
+  <p>KKR and SRH face off on May 25 in a closely matched IPL 2025 game. KKR has the edge with strong spin options and a better head-to-head record, especially at Eden Gardens. SRH counters with explosive openers and a potent pace attack. Expect a high-scoring game, where powerplay dominance and middle-over spin could decide the outcome.</p>
+
+  <h2>Hop on to the best betting ride with DR Diamond Exchange: Ultimate Casino ID Provider</h2>
+  <p>It's very hard to find a reliable <a href="https://drdiamondexch.com/casino-id-provider"> <strong> Casino ID Provider in India. </strong> </a> But your search can take a rest now that DR Diamond Exchange is here. Here you can get an ID within a few seconds. All you need to do is connect with an expert through WhatsApp and get started.</p>
+
+
+`
+    },
+
     {
         id: "LSG-vs-RCB-on-27th-May-70th-IPL-2025-Match-Detailed-Overview",
         imgUrl: '/assets/images/blog/LSG-vs-RCB-on-27th-May-70th-IPL-2025-Match-Detailed-Overview..png',
