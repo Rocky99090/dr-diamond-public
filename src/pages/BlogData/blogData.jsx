@@ -25,13 +25,13 @@ export const blogData = [
 
   <h2>SRH vs KKR head-to-head Overview</h2>
   <p>The Kolkata Knight Riders (KKR) and Sunrisers Hyderabad (SRH) have built an intense rivalry in the Indian Premier League (IPL), marked by competitive matches and standout performances.</p>
-
+<br>
   <p>Since SRH’s debut in 2013, the two sides have met multiple times across group stages and playoffs. Historically, KKR has held the upper hand, consistently edging out SRH with a superior win-loss ratio. KKR’s strategic depth, balanced squads, and clutch performances from players like Andre Russell and Sunil Narine have often proved decisive in tight contests.</p>
-
+<br>
   <p>As of the 2024 IPL season, KKR and SRH have faced each other 26 times, with KKR winning 17 matches and SRH winning 9. The rivalry reached its peak in the IPL 2024 final, where KKR dominated SRH with a clinical all-round display. KKR bowled out SRH for just 113 runs, thanks to fiery spells from Mitchell Starc and Andre Russell. Venkatesh Iyer then powered the chase with a brisk half-century, helping KKR clinch their third IPL title.</p>
-
+<br>
   <p>This emphatic win not only cemented their dominance in the 2024 season but also extended SRH vs. KKR's head-to-head lead further. While SRH has had its moments, especially during seasons where David Warner and Bhuvneshwar Kumar starred, they’ve struggled for consistency against KKR. SRH’s recent resurgence under Pat Cummins in 2024 brought them to the final, but their inability to handle pressure against KKR’s pace attack exposed familiar weaknesses.</p>
-
+<br>
  <p>Going forward, SRH will need to regroup and focus on squad balance and adaptability to close the gap in this rivalry. Meanwhile, KKR’s blend of experience and youth, along with their tactical approach, continues to make them a formidable force against SRH and in the IPL overall.</p>
   <br>
  <img style="width:100%;" src="/assets/images/blog/SRHVsKKRGraph.png" alt="">
