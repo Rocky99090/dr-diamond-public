@@ -1,5 +1,107 @@
 export const blogData = [
 
+    {
+        id: "PBKS-vs-MI-IPL-match-2025-on-26th-May-Head-to-Head-and-Match-Preview",
+        imgUrl: '/assets/images/blog/PBKS-vs-MI-IPL-match-2025-on-26th-May-Head-to-Head-and-Match-Preview.png',
+        imgAlt: 'PBKS vs MI  IPL match 2025  on 26th May: Head to Head and Match Preview',
+        title: 'PBKS vs MI  IPL match 2025  on 26th May: Head to Head and Match Preview',
+        desc: "The Indian Premier League (IPL) 2025 is no stranger to riveting rivalries, and one of the most thrilling among them is the clash between Punjab Kings (PBKS) and Kolkata Knight Riders (KKR). Over the years, these two franchises have produced some unforgettable moments, from record-breaking chases to dramatic bowling turnarounds. Whether it's the flamboyant strokeplay of PBKS or the strategic depth of KKR, each encounter promises edge-of-the-seat excitement for cricket fans. In this blog, we take a deep dive into their head-to-head history, highlight memorable matches, and examine the key players who have shaped this iconic matchup.",
+        btnText: 'read more',
+        pubDate: '24 May 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'PBKS vs MI  IPL match 2025',
+        metaTitle:'PBKS vs MI  IPL match 2025  on 26th May: Head to Head and Match Preview',
+        metaDescription:"The Indian Premier League (IPL) 2025 is no stranger to riveting rivalries, and one of the most thrilling among them is the clash between Punjab Kings (PBKS) and Kolkata Knight Riders (KKR). Over the years, these two franchises have produced some unforgettable moments, from record-breaking chases to dramatic bowling turnarounds. Whether it's the flamboyant strokeplay of PBKS or the strategic depth of KKR, each encounter promises edge-of-the-seat excitement for cricket fans. In this blog, we take a deep dive into their head-to-head history, highlight memorable matches, and examine the key players who have shaped this iconic matchup.",
+        ogTitle:'PBKS vs MI  IPL match 2025  on 26th May: Head to Head and Match Preview',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/SRH-vs-KKR-on-25-May-2025-Head-to-Head-Stats-&-Overview',
+        content: `
+            <h2>PBKS vs MI  IPL match 2025  on 26th May: Head to Head and Match Preview</h2>
+       <p>
+        The Indian Premier League (IPL) 2025 is no stranger to riveting rivalries, and one of the most thrilling among them is the clash between Punjab Kings (PBKS) and Kolkata Knight Riders (KKR). Over the years, these two franchises have produced some unforgettable moments, from record-breaking chases to dramatic bowling turnarounds. Whether it's the flamboyant strokeplay of PBKS or the strategic depth of KKR, each encounter promises edge-of-the-seat excitement for cricket fans.
+        According to <a href="https://drdiamondexch.com/blog-single/IPL-Match-2025-Schedule-Ticket-Booking-Details-and-More"> <strong> IPL 2025 Schedule, </strong> </a> the next match of PBKS vs MI will marked as  In this blog, we take a deep dive into their head-to-head history, highlight memorable matches, and examine the key players who have shaped this iconic matchup.
+    </p>
+
+    <h3>PBKS vs MI Upcoming Match Details</h3>
+    <ul>
+        <li><strong>Match Venue:</strong> Sawai Mansingh</li>
+        <li><strong>Schedule Date:</strong> 26th May 2025</li>
+        <li><strong>Date & Time:</strong> May 26, 07:30 PM LOCAL</li>
+    </ul>
+
+    <h3>Punjab Kings Eleven Team Members</h3>
+    <p>Prabhsimran Singh—Wicketkeeper-Batter, Marcus Stoinis—All-rounder, Shreyas Iyer, Glenn Maxwell, Josh Inglis, Nehal Wadhera—Batter, Shashank Singh, Marco Jansen, Arshdeep Singh, Yuzvendra Chahal, and Vijaykumar Vyshak.</p>
+
+    <h3>Mumbai Indians Team Members</h3>
+    <p>Rohit Sharma, Suryakumar Yadav, Tilak Varma, Bevon Jacobs, Ryan Rickelton, Robin Minz, Krishnan Shrijith, Hardik Pandya (Captain), Will Jacks, Mitchell Santner, Naman Dhir, Raj Angad Bawa, Corbin Bosch, Jasprit Bumrah, Trent Boult, Deepak Chahar, Reece Topley, Lizaad Williams, Arjun Tendulkar, Ashwani Kumar, Satyanarayana Raju, Mujeeb Ur Rahman, Karn Sharma, Vignesh Puthur, Allah Mohammad Ghazanfar.</p>
+
+    <h3>PBKS vs MI Head-to-Head Performance</h3>
+    <p>
+        The rivalry between Punjab Kings (PBKS) and Mumbai Indians (MI) in the Indian Premier League (IPL) has been marked by intense contests and memorable performances. Here's a comprehensive head-to-head comparison highlighting their encounters over the years:
+    </p>
+    <ul>
+        <li><strong>Total Matches Played:</strong> 32</li>
+        <li><strong>Matches Won by MI:</strong> 17</li>
+        <li><strong>Matches Won by PBKS:</strong> 15</li>
+        <li><strong>No Result:</strong> 0</li>
+    </ul>
+    <p>MI has maintained a lead in the head-to-head tally, showcasing consistent performances against PBKS.</p>
+
+    <h3>Notable Highlights PBKS vs MI</h3>
+    <ul>
+        <li><strong>2020 Thriller:</strong> The match on 18 October 2020 was a memorable encounter where both teams ended with the same score, leading to a Super Over. Punjab Kings emerged victorious in the second Super Over, marking one of the most exciting finishes in IPL history.</li>
+        <li><strong>Recent Form:</strong> In the last five encounters (2021–2024), Mumbai Indians have won three matches, while Punjab Kings have secured two victories, indicating a closely contested rivalry.</li>
+        <li><strong>High-Scoring Matches:</strong> Both teams have posted impressive totals in their encounters, with Punjab Kings' highest score being 230 and Mumbai Indians' highest being 223 in their head-to-head clashes.</li>
+    </ul>
+
+    <h3>Top Performers of PBKS vs MI Head to Head</h3>
+
+    <h4>Top Run-Scorers in PBKS vs MI Matches</h4>
+    <strong>Mumbai Indians (MI)</strong>
+    <ul>
+        <li>Rohit Sharma: 602 runs in 24 innings</li>
+        <li>Kieron Pollard: 539 runs in 24 innings</li>
+        <li>Suryakumar Yadav: 403 runs</li>
+        <li>Ishan Kishan: 163 runs</li>
+    </ul>
+
+    <strong>Punjab Kings (PBKS)</strong>
+    <ul>
+        <li>Shaun Marsh: 526 runs in 12 innings</li>
+        <li>KL Rahul: 464 runs in 8 innings</li>
+        <li>Shikhar Dhawan: 373 runs</li>
+        <li>Prabhsimran Singh: 358 runs</li>
+    </ul>
+
+    <h4>Top Wicket-Takers in PBKS vs MI Matches</h4>
+    <strong>Mumbai Indians (MI)</strong>
+    <ul>
+        <li>Jasprit Bumrah: 23 wickets in 16 innings</li>
+        <li>Lasith Malinga: 22 wickets in 14 innings</li>
+        <li>Piyush Chawla: 22 wickets</li>
+        <li>Harbhajan Singh: 16 wickets in 18 innings</li>
+    </ul>
+
+    <strong>Punjab Kings (PBKS)</strong>
+    <ul>
+        <li>Arshdeep Singh: 17 wickets</li>
+        <li>Piyush Chawla: 15 wickets in 11 innings</li>
+        <li>Mohammed Shami: 11 wickets in 6 innings</li>
+    </ul>
+
+    <h3>PBKS vs. MI Head-to-Head: Who Has More Chances to Win?</h3>
+    <p>
+        The upcoming match between PBKS and MI is going to be tremendous, but the question about who will win is yet to be discovered. Fans have their theories, and even AI has made some predictions based on the analysis of both teams’ performance. It says, 
+        “Given the current standings and recent performances, both teams are striving to improve their positions in the league. Mumbai Indians have shown resilience and depth in their squad, while Punjab Kings are working to find consistency in their lineup. Future encounters between these teams are anticipated to be competitive and closely fought.”
+    </p>
+
+    <h3>Want to Bet on the T20 World Cup and More? Trust DR Diamond Exchange</h3>
+    <p>
+        The T20 World Cup is fun to watch, but why stay limited to that when you can earn from it? Switch to <a href="https://drdiamondexch.com/"> <strong> DR Diamond Exchange ID </strong> </a> provider, a platform where you get a trustworthy ID and make your betting journey a remarkable one. Connect with experts on one of the top <a href="https://drdiamondexch.com/t20-world-cup"> <strong> T20 World Cup Betting ID Providers in India. </strong> </a> Get started now!
+    </p>
+
+`
+    },
 
 
     {
