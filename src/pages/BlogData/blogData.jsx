@@ -1,6 +1,66 @@
 export const blogData = [
 
     {
+        id: "India-Vs-England-Test-Series-in-2025-Will-This-Be-India’s-Year",
+        imgUrl: '/assets/images/blog/India-Vs-England-Test-Series-in-2025-Will-This-Be-India’s-Year.png',
+        imgAlt: 'India Vs. England Test Series in 2025: Will This Be India’s Year',
+        title: 'India Vs. England Test Series in 2025: Will This Be India’s Year',
+        desc: "The rivalry between India and England is long-standing, dating back to 1932, with England dominating the Test series in all 122 matches. Many Indian cricket fans betting on the upcoming India vs England test series are speculating whether India has a chance in 2025..",
+        btnText: 'read more',
+        pubDate: '07 JUNE 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'India Vs. England Test',
+        metaTitle:'India Vs. England Test Series in 2025: Will This Be India’s Year',
+        metaDescription:"The rivalry between India and England is long-standing, dating back to 1932, with England dominating the Test series in all 122 matches. Many Indian cricket fans betting on the upcoming India vs England test series are speculating whether India has a chance in 2025.",
+        ogTitle:'India Vs. England Test Series in 2025: Will This Be India’s Year',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/India-Vs-England-Test-Series-in-2025-Will-This-Be-India’s-Year',
+        content: `
+            <h2>India Vs. England Test Series in 2025: Will This Be India’s Year?</h2>
+ <p>The rivalry between India and England is long-standing, dating back to 1932, with England dominating the Test series in all 122 matches. Many Indian cricket fans betting on the upcoming India vs England test series are speculating whether India has a chance in 2025.</p>
+
+  <p>Because let’s be honest: betting on your Indian cricket team is an emotional trigger. And most likely, it comes from the desire to see your team lifting a trophy and not just to get the profits.</p>
+
+  <p>And to make a precise prediction before placing your money on the Indian team, understanding everything about each team’s strengths and weaknesses is the key. In this blog, you will learn about India’s past struggles and achievements in England and its 2025 squad. You will also compare their records with England’s strengths, weaknesses, and its close squad to analyse the final prediction. So, keep reading it till the end.</p>
+
+  <h2>India vs England Test Series: A Look at India’s Wins and Losses</h2>
+
+  <h3>Notable Achievements:</h3>
+  <p>India’s cricket team has a record of winning the test series in the years 1971, 1986, 2007, 2018, 2021, and 2024, showing a balanced performance. Specifically, the team’s winning strategies and power plays in the years 2007 and 2018 are highly remarkable, raising the winning probabilities in the upcoming India vs England test series.</p>
+
+  <p>In the year 2007, India won under the captaincy of Rahul Dravid due to his composed and rigid performance on the field. Additionally, Anil Kumble’s wicket-taking abilities and Sachin Tendulkar’s highest running scores were applauded for a long time.</p>
+
+  <p>Similarly, the winning year 2018 was possible due to Virat Kohli’s aggressive batting skills, Rishabh Pant’s accurate wicket-keeping strategies, and Mohammad Shami's bowling against adverse weather.</p>
+
+  <h3>Past Struggles:</h3>
+  <p>Besides India’s winning records in England’s moist pitch conditions, the team has suffered losses for the same reason. The swinging conditions and seam bowling pitches of England’s pitches add difficulties to date. Also, the fact that the team is not adaptable to the English conditions marks a reason for recurring failure.</p>
+
+  <h2>India vs England Test Series 2025: Will England Continue to Be A Winning Team?</h2>
+
+  <h3>Notable Achievements:</h3>
+  <p>Considering England’s wins on 51 occasions over the years, along with the 50 draw matches, the winning odds are high. Interestingly, most of their matches are held in England itself, giving them more advantage over India. Throughout the historical years of 1986, 1990, 2002, 2011, 2014, and later in 2018, England has won consistently.</p>
+
+  <p>England’s aggressive “Bazball” style, led by Ben Stokes, is really helping them in all the test series and will continue to be in the upcoming series.</p>
+
+  <h3>Past Struggles:</h3>
+  <p>England’s strategies to play in an aggressive style can be riskier if the Indian cricket team turns out to play off low spinners in England’s line-up. Also, the fact that India’s recent successes in 2018 and 2021 have sparked tension lately.</p>
+
+  <h2>India Vs England Key Players to Watch in 2025</h2>
+  <p>With key players like Joe Root, Ben Stokes, and Ollie Robinson, and their potential influence in the England Test Series, the team has high odds of lifting the Pataudi trophy.</p>
+
+  <h2>Final Words</h2>
+  <p>We hope you found this blog useful. As you see, the India vs England test schedule is on June 20-24, July 2-6, July 10-14, July 23-27, and July 31-Aug 4. As England’s power-packed team’s performance in the records has been tremendous, it is undoubtedly the best team for betting.</p>
+
+  <h2>Where to Find the Best Gaming Platform in India?</h2>
+  <p><strong>DR Diamond Exchange</strong> is a leading gaming platform in India, providing verified and secure betting IDs for online mobile games, casino games, live matches, and daily fantasy games. Visit our website and WhatsApp us today to get your ID in minutes.</p>
+`
+    },
+
+
+
+
+
+    {
         id: "PBKS-vs-MI-IPL-match-2025-on-26th-May-Head-to-Head-and-Match-Preview",
         imgUrl: '/assets/images/blog/PBKS-vs-MI-IPL-match-2025-on-26th-May-Head-to-Head-and-Match-Preview.png',
         imgAlt: 'PBKS vs MI  IPL match 2025  on 26th May: Head to Head and Match Preview',
