@@ -18,7 +18,7 @@ export const blogData = [
         ogUrl:'https://drdiamondexch.com/blog-single/How-to-Get-Started-with-Online-Cricket-Betting',
         content: `
             <h2>How to Get Started with Online Cricket Betting?</h2>
-            <p>Online cricket betting is a trending source of entertainment for millions of OTT lovers or stadium-goers. As long as you are content with wagering on the national game to test your skills, despite its potential losses, you are playing responsibly. However, betting for the first time must be a careful approach, especially when one wrong bet can lead to a waste of money and eventually lower your confidence. And to get started, knowing how to bet on an online cricket game in India is the key. Let’s discover a few tips from the <a href="https://drdiamondexch.com/"><strong>DR Diamond Exchange ID provider in India.</strong></a></p>
+            <p>Online cricket betting is a trending source of entertainment for millions of OTT lovers or stadium-goers. As long as you are content with wagering on the national game to test your skills, despite its potential losses, you are playing responsibly. However, betting for the first time must be a careful approach, especially when one wrong bet can lead to a waste of money and eventually lower your confidence. And to get started, knowing how to bet on an online cricket game in India is the key. Let’s discover a few tips from the <a href="https://drdiamondexch.com/diamond-id-provider"><strong>DR Diamond Exchange ID provider in India.</strong></a></p>
 
   <h2>Essential Points to Know Before Betting</h2>
   
@@ -114,7 +114,7 @@ export const blogData = [
   <p>We hope you found this blog useful. As you see, the India vs England test schedule is on June 20-24, July 2-6, July 10-14, July 23-27, and July 31-Aug 4. As England’s power-packed team’s performance in the records has been tremendous, it is undoubtedly the best team for betting.</p>
 
   <h2>Where to Find the Best Gaming Platform in India?</h2>
-  <p><strong>DR Diamond Exchange</strong> is a leading gaming platform in India, providing verified and secure betting IDs for online mobile games, casino games, live matches, and daily fantasy games. Visit our website and WhatsApp us today to get your ID in minutes.</p>
+  <p><strong>DR Diamond Exchange</strong> is a leading <a href="https://drdiamondexch.com/"><strong>gaming platform in India,</strong></a> providing verified and secure betting IDs for online mobile games, casino games, live matches, and daily fantasy games. Visit our website and WhatsApp us today to get your ID in minutes.</p>
 `
     },
 
