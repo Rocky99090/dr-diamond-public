@@ -1,7 +1,73 @@
 export const blogData = [
 
 
+    {
+        id: "India-vs-England-1st-Test-Series-Highlights:-5-Mistakes-of-Team-India",
+        imgUrl: '/assets/images/blog/India-vs-England-1st-Test-Series-Highlights-5-Mistakes-of-Team-India.webp',
+        imgAlt: 'India vs England 1st Test Series Highlights: 5 Mistakes of Team India',
+        title: 'India vs England 1st Test Series Highlights: 5 Mistakes of Team India',
+        desc: "India lost 1st Test series against England in the Headingley Stadium in Leeds. Tap to know the 5 crucial mistakes committed by Team India and their impact overall.",
+        btnText: 'read more',   
+        pubDate: '28 JUNE 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:' BIndia vs England 1st Test Series Highlights',
+        metaTitle:'India vs England 1st Test Series Highlights: 5 Mistakes of Team India',
+        metaDescription:"India lost 1st Test series against England in the Headingley Stadium in Leeds. Tap to know the 5 crucial mistakes committed by Team India and their impact overall.",
+        ogTitle:'India vs England 1st Test Series Highlights: 5 Mistakes of Team India',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/India-vs-England-1st-Test-Series-Highlights:-5-Mistakes-of-Team-India',
+        content: `
+            <h2>India vs England 1st Test Series Highlights: 5 Mistakes of Team India</h2>
+            <p>This has left fans heartbroken, with what initially appeared to be a fabulous performance by Team India. India lost in an iconic ground of the Headingley Stadium in Leeds, England, in front of the passionate cricket lovers.</p>
 
+  <p>The blog below will highlight the overview of 1st Test Series, along with 5 crucial mistakes of Team India. Stay tuned till the end to know the unexpected innings of Team India on Day 5.</p>
+
+  <h2>India vs England 1st Test Series: India Loses to England by 5 wickets</h2>
+  <p>India vs England 1st Test Series, Day 5, battle started on June 24, 2025 at 3.30 P.M. IST. This initially narrated a promising inning for Team India with both Shubman Gill (C) (147 runs) and Rishabh Pant (134 runs).</p>
+
+  <p>Both are the key dominant players of Team India where a crucial innings at the Headingley Stadium in Leeds started. As the pitch favours bowlers the most, England’s top bowlers took their chance.</p>
+
+  <p>This frustrated the Indian players in England’s 2nd innings where Ben Duckett scored 149 runs without any fail. The Indian bowlers were not competitive, hence, only 4 wickets were taken.</p>
+
+  <h2>India vs England 1st Test Series: 5 Crucial Mistakes of Team India</h2>
+
+  <h3>Non-competitive start of the 1st Innings</h3>
+  <p>A deeper look into the scoreboard of India vs England 2025 narrates India’s non-competitive 1st innings. The Headingley Stadium was shocked with India’s non-competitiveness where India posted 436-471 with five centuries. However, the fall of wickets was an exception.</p>
+
+  <h3>Ben Duckett’s Unstoppable Dominance</h3>
+  <p>Ben Duckett proved to be one of the finest batsman of England with 149 runs in England’s first innings. This was further joined by Zak Crawley where a massive 188-run opening stand was earned. He was then announced as the Player of the Match.</p>
+
+  <h3>Dropped Crucial Catches</h3>
+  <p>The field placement of Indian fielders was not up to the mark, hence, crucial catches were dropped. Yashasvi Jaiswal dropped Duckett’s catch at 97 and therefore, 149 runs were easily scored. Furthermore, Jasprit Bumrah dropped Zak Crawley’s catch, altogether resulting in inefficient India Test Match Squad.</p>
+
+  <h3>Non-competitive Leaders</h3>
+  <p>Shubman Gill is now targeted after India vs England defeat in the Headingley Stadium on June 24, 2025. Several veteran Indian Players have commented on his lack of leadership skills, after the team lost by 5 wickets. Issues like dropped catches and ineffective field replacement, Gill’s low level instinct is blamed for the loss.</p>
+
+  <h3>Ineffective Bowling Strategy</h3>
+  <p>Jasprit Bumrah started the innings with his fabulous 5-wicket haul on Day 5 against England’s aggressive approach. However, scoreboard of India vs England 2025 narrates the strategic partnership of Duckett-Crawley on Day 5. Similarly, Shardul Thakur gave a subpar performance, however, took wickets of Duckett and Brook. This is now known as ineffective bowling strategy of India on Day 5.</p>
+
+  <h2>India vs England Test Series: What Will Happen to Team India Next in Test Series?</h2>
+  <p>After losing to England in 1st Test Series, India needs to strategize its position in the remaining 4 tests. The new era captain, Shubman Gill, may face backlashes for his ineffective leadership on field, resulting in the loss.</p>
+
+  <p>An immediate introspection of India Test Match Squad might be needed to plan the replacements of lacking areas. Lacking areas like bowling combination, batting order and fielding standards, etc. need to be improved.</p>
+
+  <p>The next India vs England Test Match will be held in Edgbaston, Birmingham, UK from July 2, 2025. Hence, this significant loss needs to be covered up as per the Anderson-Tendulkar Trophy standards.</p>
+
+  <h2>Summing Up</h2>
+  <p>India vs England 1st Test Series might have been a heartbreak for India, however, comeback can be made. With the above suggestions to improve the lacking areas, Team India needs to hold its position in the next matches.</p>
+
+  <p>This 5-wicket defeat is undoubtedly a crucial one for new era Captain Shubman Gill. Alongside him, other effective and dominant players like Bumrah and Thakur missed their crucial chances of winning.</p>
+
+  <p>A strong partnership is needed to win the next matches with great leading skills!</p>
+
+  <h2>Replace Your Betting Tiredness with a Hassle-Free IPL Betting ID by DR Diamond Exchange</h2>
+  <p>We know that IPL 2025 are now over, however, betting industry never goes out of betting IDs! If you are exhausted by betting on IPL constantly, you can now bet on the ongoing Test Cricket matches between India and England.</p>
+
+  <p>Connect with DR Diamond Exchange, the best <a href="https://drdiamondexch.com/"><strong>IPL Betting ID Provider in India</strong></a> with a foundation of trust and reliability. At our betting platform, punters bet on their favourite cricket tournament with instantly activated ID. So, there is no room for waiting! Join us and experience the thrilling battle between India and England in the upcoming matches.</p>
+
+ 
+`
+    },
 
     {
         id: "Best-Cricket-Formats-for-Betting-Test-ODI-and-T20",
