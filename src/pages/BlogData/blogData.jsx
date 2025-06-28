@@ -1,6 +1,85 @@
 export const blogData = [
 
 
+
+
+    {
+        id: "Best-Cricket-Formats-for-Betting-Test-ODI-and-T20",
+        imgUrl: '/assets/images/blog/Best-Cricket-Formats-for-Betting-Test-ODI-and-T20.webp',
+        imgAlt: 'Best Cricket Formats for Betting: Test, ODI, and T20',
+        title: 'Best Cricket Formats for Betting: Test, ODI, and T20',
+        desc: "Imagine you are wagering on any trending cricket match format without knowing when or on whom to bet. You think you have chased a jackpot, but an unplanned bet is a wasted opportunity. You’ll end up losing more than what you could pay for in the specific cricket event. If this happens to be your case, you are not alone.",
+        btnText: 'read more',   
+        pubDate: '28 JUNE 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:' Best Cricket Formats',
+        metaTitle:'Best Cricket Formats for Betting: Test, ODI, and T20',
+        metaDescription:"Imagine you are wagering on any trending cricket match format without knowing when or on whom to bet. You think you have chased a jackpot, but an unplanned bet is a wasted opportunity. You’ll end up losing more than what you could pay for in the specific cricket event. If this happens to be your case, you are not alone.",
+        ogTitle:'Best Cricket Formats for Betting: Test, ODI, and T20',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/Best-Cricket-Formats-for-Betting-Test-ODI-and-T20',
+        content: `
+            <h2>Best Cricket Formats for Betting: Test, ODI, and T20</h2>
+           
+  <p>Imagine you are wagering on any trending cricket match format without knowing when or on whom to bet. You think you have chased a jackpot, but an unplanned bet is a wasted opportunity. You’ll end up losing more than what you could pay for in the specific cricket event. If this happens to be your case, you are not alone.</p>
+
+  <p>In this blog, you’ll discover the best cricket formats for betting in 2025 and beyond from DR Diamond Exchange. In addition, you’ll have a few tips to master each format. So, keep reading it till the end.</p>
+
+  <h2>Bets on Test Cricket Format</h2>
+  <p>The five-day test match is a long-format game with two innings and an infinite number of overs. Often played for a longer time than the other cricket formats, you will find it easy to think strategically.</p>
+
+  <p>The test series' slower pace format is helpful for many reasons.</p>
+
+  <ul>
+    <li>First, you have enough time to understand the player’s records, team form, and the pitch conditions. Specifically because these formats can extend or delay owing to the weather or pitch unpredictability.</li>
+    <li>Second, you will most often find resilient players defending wickets against tough pitch conditions.</li>
+    <li>Third, you’ll get good odds for a long-term earning potential. Some common types of bets involved in the Test Series format can be “session winner”, “series top run scorer/wicket taker”, and “no draw bet”.</li>
+  </ul>
+
+  <p><strong>Betting Tip:</strong><br>
+  Focus on players with proven performances in earlier series. Additionally, bet on a lower run rate to follow the usual format’s tendency.</p>
+
+  <p><strong>Also Read:</strong> <a href="https://drdiamondexch.com/blog-single/From-T20-to-Tests-How-Indian-Betting-is-Adapting-to-Change"> How Indian Batting is Adapting to T20 to Test Formats</a></p>
+
+  <h2>Bets on One-Day Internationals (ODIs) Format</h2>
+  <p>A One-Day International (ODI) format is a good balance of extended Test Series and fast-paced T20 matches. As each team gets 50 overs in total and a match is played for 7-9 hours, this format aims for the overall betting outcome.</p>
+
+  <p>Betting on the ODI format is helpful for the following reasons.</p>
+
+  <ul>
+    <li>You have enough time to analyse the different bet markets, players’ on-field performances, and sustained pressure.</li>
+    <li>You can expect a team to start with a high score but eventually lose their batting depth. Similarly, there can be more wicket losses at the start but a higher run rate by the end. This helps you to leverage live betting opportunities with the fluctuating gaming styles.</li>
+    <li>You can assess the pitch conditions before betting as well. The ODI day-night format affects pitch conditions too, as a pitch might get harder or easier to play on during the night.</li>
+  </ul>
+
+  <p><strong>Betting Tip:</strong><br>
+  Aim to bet on “man of the match”, “powerplay wickets/runs”, or over/under bets. One of the best cricket betting strategies is to think about the toss result & the team’s performance under a certain pitch health.</p>
+
+  <h2>Bets on T20 Cricket Format</h2>
+  <p>T20 is a fast-paced and short-lived format amongst the Test Series and ODI formats. Each team gets 20 overs to complete their innings within 3 hours. As the matches end sooner, it demands rapid thinking before each bet.</p>
+
+  <p>Here are a few reasons to trust the T20 format for your next bet.</p>
+
+  <ul>
+    <li>You can expect multiple betting opportunities within a short timeframe if you desire rapid outcomes.</li>
+    <li>As the game can end up with quick sixes/fours, rapid wickets, or a sudden catch, you can use in-play betting opportunities.</li>
+    <li>Get frequent odds fluctuations on powerplay performances, immediate team form, match-ups, or toss results.</li>
+  </ul>
+
+  <p><strong>Betting Tip:</strong><br>
+  Besides the above strategy, you must focus on middle-overs betting. Players who are good at picking up singles, rotating strikes, and hitting occasional boundaries are a favourable opportunity.</p>
+
+  <p><strong>Also Read:</strong><a href ="https://drdiamondexch.com/blog-single/Dr-Diamond-Exchange-Indias-Premier-T20-World-Cup-Betting-ID-Provider"> Why DR Diamond Exchange is the Premier T20 ID Provider</a></p>
+
+  <h2>Why DR Diamond Exchange is Your Go-to Resource?</h2>
+  <p>Betting on a reliable sports site starts with securing a verified ID. If you’re looking for a <a href="https://drdiamondexch.com/"><strong>T20 World Cup ID provider in India,</strong></a>DR Diamond Exchange offers verified and instant betting IDs for other formats.</p>
+
+
+`
+    },
+
+
+
     {
         id: "India’s-3-Best-Casino-Games-With-Bonuses-to-Bet",
         imgUrl: '/assets/images/blog/India’s-3-Best-Casino-Games-With-Bonuses-to-Bet.webp',
