@@ -29,7 +29,7 @@ export const blogData = [
   <h2>Why Data Protection Matters in Sports Betting?</h2>
   <p>Protecting your personal and financial data is quite obvious. You stay away from cyber criminals stealing your identity and bank details. Besides your identification records, you can avoid losing your reputation.</p>
 
-  <p>When most of the unreliable sports betting sites pose data risks, your trust in a reliable <strong> <a href="https://drdiamondexch.com/diamond-id-provider"> diamond ID provider in India </a> </strong>can reduce the risks. Here is how DR Diamond Exchange, an online betting ID provider, earns your faith.</p>
+  <p>When most of the unreliable sports betting sites pose data risks, your trust in a reliable <strong> <a href="https://drdiamondexch.com/diamond-id-provider"> diamond exchange ID provider in India </a> </strong>can reduce the risks. Here is how DR Diamond Exchange, an online betting ID provider, earns your faith.</p>
 
   <p><strong>Also Read:</strong> Smarter Way to Play a Betting ID</p>
 
