@@ -17,8 +17,7 @@ export const blogData = [
         ogUrl:'https://drdiamondexch.com/blog-single/Tamil-Nadu-Premier-League-Predictions-for-the-Eliminator-Round',
         content: `
             <h2>Tamil Nadu Premier League: Predictions for the Eliminator Round</h2>
-          <section class="tnpl-betting-prediction">
-  <h2>Tamil Nadu Premier League: Predictions for the Eliminator Round</h2>
+
   <p>Domestic T20 leagues are booming in sports betting, providing unlimited betting opportunities without fail. If you are considering betting on today’s Tamil Nadu Premier League between <strong>Dindigul Dragons (DD)</strong> vs. <strong>Trichy Grand Cholas (TGC)</strong>, analysing today’s betting prediction is the key. <strong> <a href="https://drdiamondexch.com">DR Diamond Exchange</a></strong>, offering a betting ID, gets deep into the match insights for fair wagering. So, keep reading it till the end.</p>
 
   <h3>Venue, Pitch Report, Toss, and Head-to-Head Record Insights</h3>
@@ -31,7 +30,7 @@ export const blogData = [
 
   <h3>TNPL Betting Markets to Consider</h3>
   <ul>
-    <li><strong>Match Winner:</strong> While Dindigul Dragons were on a close call to hit the target, multiple reasons make them a betting target. Interestingly, the team boasts a high points table, has a strong squad, and carries R. Ashwin’s leadership. However, if you find higher odds for TGC, it can be a calculated risk.</li>
+    <li><strong>Match Winner</strong> While Dindigul Dragons were on a close call to hit the target, multiple reasons make them a betting target. Interestingly, the team boasts a high points table, has a strong squad, and carries R. Ashwin’s leadership. However, if you find higher odds for TGC, it can be a calculated risk.</li>
 
     <li><strong>Top Team Bowler:</strong> When betting on Dindigul Dragons, you must see the betting odds for <strong>Ravichandran Ashwin</strong> and <strong>Varun Chakravarthy</strong>. Both of these players are commendable spinners, adapting to low-pace pitches. Ashwin is also known for being the top batsman, increasing the odds for him to win the “winner of the match” title.<br><br>
     Alternatively, the TGC team’s <strong>Athisayaraj Davidson</strong> is an incredible wicket-taker too. He has a solid record of taking 11 wickets in 7 games. When analysing the top bowler, betting on him will give you a fair advantage.</li>
@@ -43,8 +42,6 @@ export const blogData = [
 
   <h3>Ready to Bet? Join DR Diamond Exchange Today</h3>
   <p>As you see, betting on today’s Tamil Nadu Premier League is easy to predict. While both teams stand a good chance, it is fair to assume <strong>Dindugal Dragons win</strong> for the above-enlisted reasons. Ready to bet now? Get your T20 ID from <strong>DR Diamond Exchange</strong>, a <strong> <a href="https://drdiamondexch.com/t20-world-cup"> T20 World Cup ID Provider in India.</a></strong></p>
-</section>
-
   
 `
     },
