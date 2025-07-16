@@ -19,7 +19,7 @@ export const blogData = [
             <h2>Tamil Nadu Premier League: Predictions for the Eliminator Round</h2>
           <section class="tnpl-betting-prediction">
   <h2>Tamil Nadu Premier League: Predictions for the Eliminator Round</h2>
-  <p>Domestic T20 leagues are booming in sports betting, providing unlimited betting opportunities without fail. If you are considering betting on today’s Tamil Nadu Premier League between <strong>Dindigul Dragons (DD)</strong> vs. <strong>Trichy Grand Cholas (TGC)</strong>, analysing today’s betting prediction is the key. <strong<a href="https://drdiamondexch.com">DR Diamond Exchange</a></strong>, offering a betting ID, gets deep into the match insights for fair wagering. So, keep reading it till the end.</p>
+  <p>Domestic T20 leagues are booming in sports betting, providing unlimited betting opportunities without fail. If you are considering betting on today’s Tamil Nadu Premier League between <strong>Dindigul Dragons (DD)</strong> vs. <strong>Trichy Grand Cholas (TGC)</strong>, analysing today’s betting prediction is the key. <strong> <a href="https://drdiamondexch.com">DR Diamond Exchange</a></strong>, offering a betting ID, gets deep into the match insights for fair wagering. So, keep reading it till the end.</p>
 
   <h3>Venue, Pitch Report, Toss, and Head-to-Head Record Insights</h3>
   <p>The match between Dindigul Dragons and Trichy Grand Cholas is to be held today, on <strong>July 2, 2025, at 7 PM (IST)</strong>. The match is scheduled at the <strong>NPR College Ground in Dindigul</strong>, offering an edge to the Dindigul Dragons. Earlier, the team had won 2 out of 2 matches at this venue, breaking a massive record.</p>
