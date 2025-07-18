@@ -1,5 +1,77 @@
 export const blogData = [
 
+
+    {
+        id: "India-vs-England-3rd-Test-Live-Score-What-Went-Wrong-with-Team-India",
+        imgUrl: '/assets/images/blog/India-vs-England-3rd-Test-Live-Score-What-Went-Wrong-with-Team-India.webp',
+        imgAlt: 'India vs England 3rd Test Live Score: What Went Wrong with Team India?',
+        title: 'India vs England 3rd Test Live Score: What Went Wrong with Team India?',
+        desc: "The much-anticipated India vs England 3rd Test Series has ended. Catch up with the live score of the 3rd Test Match between India and England 2025. Get to know why India lost to England in the series",
+        btnText: 'read more',   
+        pubDate: '18 JULY 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:' India vs England 3rd Test Live Score',
+        metaTitle:'India vs England 3rd Test Live Score: What Went Wrong with Team India?',
+        metaDescription:"The much-anticipated India vs England 3rd Test Series has ended. Catch up with the live score of the 3rd Test Match between India and England 2025. Get to know why India lost to England in the series",
+        ogTitle:'India vs England 3rd Test Live Score: What Went Wrong with Team India?',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/India-vs-England-3rd-Test-Live-Score-What-Went-Wrong-with-Team-India',
+        content: `
+            <h2>India vs England 3rd Test Live Score: What Went Wrong with Team India?</h2>
+                <p>India vs England 3rd Test Live Score at the Lord’s International Cricket Stadium in England has concluded. England beat India by 22 runs, taking a 2-1 lead in the 2025 test series.</p>
+
+  <p>Indian Cricket Fans are left shocked by Team India’s crucial defeat against England in the 3rd Test Series. Before this, India had already been defeated by England in the 1st Test Series in 2025.</p>
+
+  <p>5 crucial moments resulted in this misery for Team India that enabled England to take the lead once again. Take a look at what went wrong with Team India on the 5th day of the 3rd Test Match, 2025.</p>
+
+  <h2>India vs England 3rd Test Live Score: How did England beat India in the 3rd Test 2025?</h2>
+
+  <h3>Early Collapse of Team India’s Key Batsmen</h3>
+  <p>India’s Key Batsmen Rishabh Pant and KL Rahul's strategic partnership did not exceed the fans’ expectations. India’s Vice-Captain Rishabh Pant was dismissed for 9 runs by Jofra Archer.</p>
+
+  <p>On the contrary, KL Rahul was also dismissed, however, at an impressive 100 runs in the first innings. This was the foremost mistake made by Team India, resulting in England beating India by 22 runs.</p>
+
+  <h3>Low Strategic Partnership in the Top Order</h3>
+  <p>Sources said that the Indian Team Captain, Shubman Gill, failed to maintain a strategic partnership in the early overs. Yashasvi Jaiswal and Karun Nair started with enthusiasm but got dismissed early.</p>
+
+  <p>Moreover, Akash Deep, an Indian bowler, also could not maintain the bowling strategy, resulting in India’s loss.</p>
+
+  <p>Early dismissals of key players in the India vs England 3rd Test Scorecard depicted the pressure on Team India. This might have lowered the confidence of the Indian Team, resulting in their loss.</p>
+
+  <h3>Aggressive Chase by Ben Stokes</h3>
+  <p>England Team Captain Ben Stokes delivered an unexpected throw on Day 5 of the 3rd Test. India’s chase was ruined after he took KL Rahul’s unexpected wicket at 100, preventing them from making a comeback.</p>
+
+  <p>India vs England test match 2025 approached with full energy and enthusiasm by both sides. However, this aggressive chase by Ben Stokes resulted in exploiting India’s 1st innings.</p>
+
+  <p>India, therefore, lost 4 wickets for just 11 runs and was hence bowled out for 387 by England’s fast-paced bowlers.</p>
+
+  <h3>Jofra Archer’s Impactful Comeback</h3>
+  <p>Jofra Archer is one of England’s most prominent bowlers of all time. In all these 3rd Test days, he did not perform very well; however, day 5 was his luckiest day.</p>
+
+  <p>He made an impressive comeback on day 5, getting all the crucial wickets of Team India. India vs England 3rd Test Live Score has recorded his wicket-taking abilities as exceptional.</p>
+
+  <p>He knocked down Jaiswal at 13 runs, making it his ever-quick wicket in his Test Series career. Furthermore, Archer-Barbados' strategic partnership was brutal for Team India, resulting in their early dismissals.</p>
+
+  <h3>India Missed Prominent Opportunities</h3>
+  <p>Finally, India missed its prominent winning opportunities against England at the Lord’s. India vs England 3rd Test Live Score depicted the key Indian Players losing their chances.</p>
+
+  <p>Prominent players like Shubman Gill, Dinesh Kartik, and KL Rahul, etc., collapsed too early. The list also captured Pant and Jadeja losing their brilliant chances on the pitch.</p>
+
+  <p>However, Jadeja played like the key figure he is, but was left with no partnership in the end. India needed 135 runs, unfortunately, India’s early wicket dismissals left him with no choice.</p>
+
+  <h2>Experience India’s First-Ever Premier Diamond Exchange Platform in India: Rockybook</h2>
+  <p>Are you tired of the continuous traditional betting methods? Then this is the right time to switch to online cricket betting IDs to transform your betting talents.</p>
+
+  <p>Rockybook is your premium destination for the <strong> <a href="https://drdiamondexch.com/"> Diamond Exchange Platform in India, </a> </strong> where you get access to several betting options. Apart from cricket, you can bet on sports like football, casino, and roulette, etc., as per your betting requirements.</p>
+ 
+`
+    },
+
+
+
+
+
+
     {
         id: "Tamil-Nadu-Premier-League-Predictions-for-the-Eliminator-Round",
         imgUrl: '/assets/images/blog/Tamil Nadu Premier League Predictions for the Eliminator Round.png',
