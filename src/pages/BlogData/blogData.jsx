@@ -59,7 +59,7 @@ export const blogData = [
   <h2>Betting on the Next Series? Get ID from DR Diamond Exchange</h2>
   <p>As you see, India’s win in the 2nd test of India vs England shows the team’s adaptability and strength to pounce on opportunities. When betting on the next test match, it is crucial to focus on the key players, emerging performances, & pitch conditions.</p>
 
-  <p><strong>What’s next?</strong> Explore our website to discover why we are the best <a strong> <a href="https://drdiamondexch.com/cricket-id-provider">cricket ID provider in India.</a> </strong> If you’re considering us,<strong> <a href="https://api.whatsapp.com/send?phone=917727059634&text=Hy%20drdiamond"> WhatsApp us </strong> </a>to get instantly verified credentials.</p>
+  <p><strong>What’s next?</strong> Explore our website to discover why we are the best <strong> <a href="https://drdiamondexch.com/cricket-id-provider">cricket ID provider in India.</a> </strong> If you’re considering us,<strong> <a href="https://api.whatsapp.com/send?phone=917727059634&text=Hy%20drdiamond"> WhatsApp us </strong> </a>to get instantly verified credentials.</p>
 `
     },
 
