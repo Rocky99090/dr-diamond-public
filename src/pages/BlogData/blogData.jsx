@@ -2,68 +2,64 @@ export const blogData = [
 
 
     {
-        id: "India-vs-England-3rd-Test-Live-Score-What-Went-Wrong-with-Team-India",
-        imgUrl: '/assets/images/blog/India-vs-England-3rd-Test-Live-Score-What-Went-Wrong-with-Team-India.webp',
-        imgAlt: 'India vs England 3rd Test Live Score: What Went Wrong with Team India?',
-        title: 'India vs England 3rd Test Live Score: What Went Wrong with Team India?',
-        desc: "The much-anticipated India vs England 3rd Test Series has ended. Catch up with the live score of the 3rd Test Match between India and England 2025. Get to know why India lost to England in the series",
+        id: "India-vs-England-2nd-Test-India-Contribution-and-Betting-Tips",
+        imgUrl: '/assets/images/blog/India-vs-England-2nd-Test-India-Contribution-and-Betting-Tips.webp',
+        imgAlt: 'India vs England 2nd Test: India’s Contribution and Betting Tips',
+        title: 'India vs England 2nd Test: India’s Contribution and Betting Tips',
+        desc: "In the 2nd test series, both the Indian cricket team’s high spirits and players’ strong strategies proved favourable. Consequently, there were game-changing moments that defined the future betting markets.",
         btnText: 'read more',   
-        pubDate: '18 JULY 2025',
+        pubDate: '19 JULY 2025',
         pubAuthor: 'DR DIAMOND EXCHANGE',
-        metaKeywords:' India vs England 3rd Test Live Score',
-        metaTitle:'India vs England 3rd Test Live Score: What Went Wrong with Team India?',
-        metaDescription:"The much-anticipated India vs England 3rd Test Series has ended. Catch up with the live score of the 3rd Test Match between India and England 2025. Get to know why India lost to England in the series",
-        ogTitle:'India vs England 3rd Test Live Score: What Went Wrong with Team India?',
+        metaKeywords:' India vs England 2nd Test',
+        metaTitle:'India vs England 2nd Test: India’s Contribution and Betting Tips',
+        metaDescription:"In the 2nd test series, both the Indian cricket team’s high spirits and players’ strong strategies proved favourable. Consequently, there were game-changing moments that defined the future betting markets.",
+        ogTitle:'India vs England 2nd Test: India’s Contribution and Betting Tips',
         ogImage:'Blogs Section-MARK1',
-        ogUrl:'https://drdiamondexch.com/blog-single/India-vs-England-3rd-Test-Live-Score-What-Went-Wrong-with-Team-India',
+        ogUrl:'https://drdiamondexch.com/blog-single/India vs England 2nd Test: India’s Contribution and Betting Tips',
         content: `
-            <h2>India vs England 3rd Test Live Score: What Went Wrong with Team India?</h2>
-                <p>India vs England 3rd Test Live Score at the Lord’s International Cricket Stadium in England has concluded. England beat India by 22 runs, taking a 2-1 lead in the 2025 test series.</p>
+            <h2>India vs England 2nd Test: India’s Contribution and Betting Tips</h2>
+              <p>The face-off of India vs England in the 2nd Test Series was a commendable effort from both sides. However, the Indian cricket team hold the legacy of remaining resilient with a historic win, beating England by 336 runs. Marking their first-ever test win at Edgbaston, Birmingham, after long decades, the team brings ahead betting lessons.</p>
 
-  <p>Indian Cricket Fans are left shocked by Team India’s crucial defeat against England in the 3rd Test Series. Before this, India had already been defeated by England in the 1st Test Series in 2025.</p>
+  <p>In the 2nd test series, both the Indian cricket team’s high spirits and players’ strong strategies proved favourable. Consequently, there were game-changing moments that defined the future betting markets. At DR Diamond Exchange, we are uncovering each one of the tips to help you prepare for the next series.</p>
 
-  <p>5 crucial moments resulted in this misery for Team India that enabled England to take the lead once again. Take a look at what went wrong with Team India on the 5th day of the 3rd Test Match, 2025.</p>
+  <h2>India vs England 2nd Test Cricket: Analysis and Lessons</h2>
 
-  <h2>India vs England 3rd Test Live Score: How did England beat India in the 3rd Test 2025?</h2>
+  <h3>Shubham Gill’s Captaincy Proved Significant:</h3>
+  <p>Shubhan Gill, India’s captain, put forth his great leadership skills and individual form in the 2nd test. While pushing the entire lineup to do their best, the captain took charge of maximising the scores. He contributed 269 in the first and 161 in the second innings, hitting twin centuries in the entire match.</p>
 
-  <h3>Early Collapse of Team India’s Key Batsmen</h3>
-  <p>India’s Key Batsmen Rishabh Pant and KL Rahul's strategic partnership did not exceed the fans’ expectations. India’s Vice-Captain Rishabh Pant was dismissed for 9 runs by Jofra Archer.</p>
+  <p>His aggressive batting proved helpful, crowning him as the only captain to achieve the highest score. Plus, he became the second-highest run scorer (aggregate) in a single Test.</p>
 
-  <p>On the contrary, KL Rahul was also dismissed, however, at an impressive 100 runs in the first innings. This was the foremost mistake made by Team India, resulting in England beating India by 22 runs.</p>
+  <strong>Betting Lesson:</strong>
+  <p>Gill’s response after the 1st test loss indicates that having faith in the captain’s willpower is crucial. His strong attack under pressure is noticeable for your next betting move. So, you can consider “Top Batsman” or “Player of the Match” on in-form captains.</p>
+<br>
+  <p><em><strong>Also Read: <a href="https://drdiamondexch.com/blog-single/India-vs-England-1st-Test-Series-Highlights:-5-Mistakes-of-Team-India">(India vs England 1st Test) Series Highlights</a></strong></em></p>
 
-  <h3>Low Strategic Partnership in the Top Order</h3>
-  <p>Sources said that the Indian Team Captain, Shubman Gill, failed to maintain a strategic partnership in the early overs. Yashasvi Jaiswal and Karun Nair started with enthusiasm but got dismissed early.</p>
+  <h3>India vs England 2nd Test Cricket: Akash Deep’s Bowling Spiked</h3>
+  <p>Despite Jasprit Bumrah’s absence in the entire series, India’s bowling pace was nothing less than a surprise. Be it players like Mohammad Siraj or Akash Deep, each one delivered throws that influenced the flow of the game. If Deep took 10 wickets, then Siraj bowled closer to the stumps.</p>
 
-  <p>Moreover, Akash Deep, an Indian bowler, also could not maintain the bowling strategy, resulting in India’s loss.</p>
+  <strong>Betting Lesson:</strong>
+  <p>The duo justified that a well-rounded bowling is possible with knowledge of batsmen’s weaknesses, pitch conditions, and a defined strategy. Keeping this in mind, consider “Top Bowler” bets on new faces who show up in all conditions. Also, assess the overall bowling strength rather than relying on one or two star players.</p>
 
-  <p>Early dismissals of key players in the India vs England 3rd Test Scorecard depicted the pressure on Team India. This might have lowered the confidence of the Indian Team, resulting in their loss.</p>
+  <h3>India vs England 2nd Test Result: Pitch Evolved the Batting Tenure</h3>
+  <p>The Indian cricket team’s crucial win in the 2nd test raised the expectations. The Edgbaston pitch, initially favourable for fast bowlers, gradually flattened out.</p>
 
-  <h3>Aggressive Chase by Ben Stokes</h3>
-  <p>England Team Captain Ben Stokes delivered an unexpected throw on Day 5 of the 3rd Test. India’s chase was ruined after he took KL Rahul’s unexpected wicket at 100, preventing them from making a comeback.</p>
+  <p>The pitch looked fairly well for the initial three days until it tore down on day 5. This helped batters while England struggled with the declining pitch surface.</p>
 
-  <p>India vs England test match 2025 approached with full energy and enthusiasm by both sides. However, this aggressive chase by Ben Stokes resulted in exploiting India’s 1st innings.</p>
+  <strong>Betting Lesson:</strong>
+  <p>The 2nd test evolved pitch conditions and welcomed bettors to put money on “Highest First Innings Score” or “Total Match Wickets”. You must, in addition, focus on in-play betting opportunities with the pitch changes.</p>
+</br>
+ <p><em><strong>Also Read: <a href="https://drdiamondexch.com/blog-single/How-to-Get-Started-with-Online-Cricket-Betting">Find More: How to Get Started with Online Cricket Betting?</a></strong></em></p>
 
-  <p>India, therefore, lost 4 wickets for just 11 runs and was hence bowled out for 387 by England’s fast-paced bowlers.</p>
+  <h3>India vs England 2nd Test Raised Hopes</h3>
+  <p>India’s comprehensive victory effectively shifted the series dynamics, raising the Indian fans' expectations. India’s first-ever win away from home will boost their confidence in the Lord’s Test match.</p>
 
-  <h3>Jofra Archer’s Impactful Comeback</h3>
-  <p>Jofra Archer is one of England’s most prominent bowlers of all time. In all these 3rd Test days, he did not perform very well; however, day 5 was his luckiest day.</p>
+  <strong>Betting Lesson:</strong>
+  <p>As an Indian bettor, you must review the “series winner” odds after each match. Also, you may take into account the psychological impact as well.</p>
 
-  <p>He made an impressive comeback on day 5, getting all the crucial wickets of Team India. India vs England 3rd Test Live Score has recorded his wicket-taking abilities as exceptional.</p>
+  <h2>Betting on the Next Series? Get ID from DR Diamond Exchange</h2>
+  <p>As you see, India’s win in the 2nd test of India vs England shows the team’s adaptability and strength to pounce on opportunities. When betting on the next test match, it is crucial to focus on the key players, emerging performances, & pitch conditions.</p>
 
-  <p>He knocked down Jaiswal at 13 runs, making it his ever-quick wicket in his Test Series career. Furthermore, Archer-Barbados' strategic partnership was brutal for Team India, resulting in their early dismissals.</p>
-
-  <h3>India Missed Prominent Opportunities</h3>
-  <p>Finally, India missed its prominent winning opportunities against England at the Lord’s. India vs England 3rd Test Live Score depicted the key Indian Players losing their chances.</p>
-
-  <p>Prominent players like Shubman Gill, Dinesh Kartik, and KL Rahul, etc., collapsed too early. The list also captured Pant and Jadeja losing their brilliant chances on the pitch.</p>
-
-  <p>However, Jadeja played like the key figure he is, but was left with no partnership in the end. India needed 135 runs, unfortunately, India’s early wicket dismissals left him with no choice.</p>
-
-  <h2>Experience India’s First-Ever Premier Diamond Exchange Platform in India: Rockybook</h2>
-  <p>Are you tired of the continuous traditional betting methods? Then this is the right time to switch to online cricket betting IDs to transform your betting talents.</p>
-
-  <p>Rockybook is your premium destination for the <strong> <a href="https://drdiamondexch.com/"> Diamond Exchange Platform in India, </a> </strong> where you get access to several betting options. Apart from cricket, you can bet on sports like football, casino, and roulette, etc., as per your betting requirements.</p>
- 
+  <p><strong>What’s next?</strong> Explore our website to discover why we are the best <a strong> <a href="https://drdiamondexch.com/cricket-id-provider">cricket ID provider in India.</a> </strong> If you’re considering us,<strong> <a href="https://api.whatsapp.com/send?phone=917727059634&text=Hy%20drdiamond"> WhatsApp us </strong> </a>to get instantly verified credentials.</p>
 `
     },
 
