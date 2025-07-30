@@ -1,6 +1,68 @@
 export const blogData = [
 
+    {
+        id: "India-vs-England-3rd-Test-Series-2025-Top-Bets-on-Indian-Players",
+        imgUrl: '/assets/images/blog/India-vs-England-3rd-Test-Series-2025-Top-Bets-on-Indian-Players.webp',
+        imgAlt: 'India vs England 3rd Test Series 2025: Top Bets on Indian Players',
+        title: 'India vs England 3rd Test Series 2025: Top Bets on Indian Players',
+        desc: "India vs England 3rd Test match, scheduled for July 10 - July 14, at Lord’s, London, led to England’s win. Ben Stokes, a winner of the match, was applauded for his commendable efforts behind the team’s victory. However, many Indian fans, presumably bettors, claim that the Indian players' win was on a close call. As such, it sets a foundation for the next winning bet.",
+        btnText: 'read more',   
+        pubDate: '30 JULY 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'India vs England 3rd Test match',
+        metaTitle:'India vs England 3rd Test Series 2025: Top Bets on Indian Players',
+        metaDescription:"India vs England 3rd Test match, scheduled for July 10 - July 14, at Lord’s, London, led to England’s win. Ben Stokes, a winner of the match, was applauded for his commendable efforts behind the team’s victory. However, many Indian fans, presumably bettors, claim that the Indian players' win was on a close call. As such, it sets a foundation for the next winning bet.",
+        ogTitle:'India vs England 3rd Test Series 2025: Top Bets on Indian Players',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/India-vs-England-3rd-Test-Series-2025-Top-Bets-on-Indian-Players',
+        content: `
+            <h2>India vs England 3rd Test Series 2025: Top Bets on Indian Players</h2>
+            <p>India vs England 3rd Test match, scheduled for July 10 - July 14, at Lord’s, London, led to England’s win. Ben Stokes, a winner of the match, was applauded for his commendable efforts behind the team’s victory. However, many Indian fans, presumably bettors, claim that the Indian players' win was on a close call. As such, it sets a foundation for the next winning bet.</p>
 
+  <p>If you think the same, it is crucial to revisit the performances of the star players. At <strong> <a href="https://drdiamondexch.com/"> DR Diamond Exchange</a>,</strong> we have come forward with an analysis of the 3rd test plays for placing valuable bets. So, keep reading it till the end.</p>
+
+  <h2>India vs England 3rd Test: Partnerships Contributed Runs</h2>
+  <p>The day began with England’s batting and India’s subsequent chase for 193 runs. In the first innings, KL Rahul and Rishabh Pant led the team with a 141-run partnership. If KL Rahul scored 100 runs before the lunch break, then Pant’s 74 runs came from 8 fours and 2 sixes.</p>
+
+  <p>However, Rahul’s strike for his assertiveness to score a century before lunch cost Pant’s run-out in the 3rd test series. This shifted odds for betting markets like “first session runs”, “next wickets”, and “top century hitters”.</p><br>
+
+  <p><strong> See More:</strong> <a href="https://drdiamondexch.com/blog-single/India-vs-England-2nd-Test-India-Contribution-and-Betting-Tips">IND vs ENG 2nd Test Results and Betting Predictions</a></p>
+
+  <h2>IND vs ENG 3rd Cricket Test: Ravindra Jadeja Surprised Opponents</h2>
+  <p>An all-rounder, Ravindra Jadeja, known for his left-handed batting, spin bowling, and exceptional fielding, took everyone by surprise. Whether you view his 72 runs in the first innings or 61 runs in the fourth one, you’ll only vote for the better odds.</p>
+
+  <p>Besides being a great batsman, Jadeja’s impressive bowling skills contributed to 3 wickets in the series. As a matter of fact, you can count on him for the next bet in the upcoming 4th test match. Consider markets like “half-centuries”, “over/under the score”, or even “all-rounder” betting.</p><br>
+
+  <p><strong>Learn More:</strong><a href="https://drdiamondexch.com/blog-single/India-vs-England-1st-Test-Series-Highlights:-5-Mistakes-of-Team-India"> IND vs ENG 1st Test Match Highlights</a></p>
+
+  <h2>India vs England, 2025: Bowlers Are Likely a Valuable Bet</h2>
+  <p>Indian bowlers like Jasprit Bumrah, Mohammad Siraj, and Washington Sundar displayed great confidence and wicket-taking abilities as well. Whether you see Siraj taking 2 wickets in each inning or Bumrah’s 5-wicket haul in the first session, you will only find a successful betting opportunity.</p>
+
+  <p>When betting specifically on Siraj, you can expect another powerful resilience under pressure in the next match. Axar Patel, an emerging spinner, also defended the team for many overs. Siraj’s bravery and significant time at the crease opened betting markets for all three results (win, loss, draw), too.</p>
+
+  <h2>India vs England Live Test: Star Players Met Expectations</h2>
+  <p>Shubham Gill, the Indian Team’s captain, and Ravindra Jadeja showed their batting style, pressure-taking ability, and adaptive partnership. With Gill’s 72 runs under immense pressure and Ravindra Jadeja’s 8th wicket partnership, the duo kept their spirits high amidst the early inning tension.</p>
+
+  <p>As a bettor targeting the India vs England 4th test series 2025, star players will influence odds for “match result”, “partnership markets”, and “over/under bets”.</p>
+
+  <h2>India vs England 3rd Test Series: Key Takeaways</h2>
+  <p>As per the recently concluded India vs England 3rd test, you must remember a few points for future bets.</p>
+
+  <ul>
+    <li>First, the batting partnerships can impact betting odds, keeping uncertain match results till the very end.</li>
+    <li>Second, all-rounders bring magical wins, surfacing lower odds.</li>
+    <li>Third, sudden wickets in the mid-overs shift the live odds and bets.</li>
+    <li>Fourth, focusing on the players’ contributions and rapid changes in the live match helps with acquiring profitable bets.</li>
+  </ul>
+
+  <h2>Final Thoughts: Get Betting ID from DR Diamond Exchange</h2>
+  <p>As you can see, live betting odds fluctuate with every run, wicket, and inning. As an Indian bettor, it is crucial to focus on the in-play performances of the team, players, and the opponent’s weaknesses.</p>
+
+  <p>India vs England 3rd test match improved odds for England’s win in the 4th test in your next <strong> <a href=""> online sports betting. At DR Diamond Exchange, a premier <strong> <a href="https://drdiamondexch.com/cricket-id-provider">Cricket ID provider </a> </strong> in India, we hand over unique, secure, and instant credentials to every bettor. Explore our platform today to find our games and applicable bonuses.</p>
+
+            
+`
+    },
 
     {
         id: "Casino-Betting-ID-Acquisition-Everything-to-Know",
