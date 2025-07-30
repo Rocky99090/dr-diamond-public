@@ -58,7 +58,7 @@ export const blogData = [
   <h2>Final Thoughts: Get Betting ID from DR Diamond Exchange</h2>
   <p>As you can see, live betting odds fluctuate with every run, wicket, and inning. As an Indian bettor, it is crucial to focus on the in-play performances of the team, players, and the opponent’s weaknesses.</p>
 
-  <p>India vs England 3rd test match improved odds for England’s win in the 4th test in your next <strong> <a href=""> online sports betting. At DR Diamond Exchange, a premier <strong> <a href="https://drdiamondexch.com/cricket-id-provider">Cricket ID provider </a> </strong> in India, we hand over unique, secure, and instant credentials to every bettor. Explore our platform today to find our games and applicable bonuses.</p>
+  <p>India vs England 3rd test match improved odds for England’s win in the 4th test in your next online sports betting. At DR Diamond Exchange, a premier <strong> <a href="https://drdiamondexch.com/cricket-id-provider"> Cricket ID provider </a> </strong> in India, we hand over unique, secure, and instant credentials to every bettor. Explore our platform today to find our games and applicable bonuses.</p>
 
             
 `
