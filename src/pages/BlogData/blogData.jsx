@@ -1,5 +1,89 @@
 export const blogData = [
 
+
+    
+    {
+        id: "Asia-Cup-2025-Schedule-Full-Fixture-Details-Dates-Venues",
+        imgUrl: '/assets/images/blog/Asia-Cup-2025-Schedule-Full-Fixture-Details-Dates-Venues.webp',
+        imgAlt: 'Asia Cup 2025 Schedule: Full Fixture Details, Dates & Venues',
+        title: 'Asia Cup 2025 Schedule: Full Fixture Details, Dates & Venues',
+        desc: "Asia Cup 2025 Schedule with full match details is out! Click the link to know more information, like the dates and venues, etc",
+        btnText: 'read more',   
+        pubDate: '13 August 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'India vs England 3rd Test match',
+        metaTitle:'Asia Cup 2025 Schedule: Full Fixture Details, Dates & Venues',
+        metaDescription:"Asia Cup 2025 Schedule with full match details is out! Click the link to know more information, like the dates and venues, etc",
+        ogTitle:'Asia Cup 2025 Schedule: Full Fixture Details, Dates & Venues',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/Asia-Cup-2025-Schedule-Full-Fixture-Details-Dates-Venues',
+        content: `
+                  <h2>Asia Cup 2025 Schedule: Full Fixture Details, Dates & Venues</h2>
+                  <p>The best for Indian Cricket Fans is yet to come with the comeback of the Asia Cup!</p>
+
+<p>The Asia Cup 2025 schedule is out now, announcing its arrival with full fixtures, dates, and venues. Below you will find the full list of matches to successfully place the live bets with venue details.</p>
+
+<h2>Asia Cup 2025 Schedule: An Overview</h2>
+<p>With the Asia Cup 2025 schedule being announced, there is a thrill among the Indian Cricket Fans, awaiting its unfolding. This match is going to be the 17th edition of the Men’s Asia Cup, to begin on September 9, 2025.</p>
+<p>There will be a total of eight countries competing against each other, including the highly anticipated rivals India and Pakistan.</p>
+<p>There are several exclusive features of this year’s Asia Cup. This tournament will be played as an expanded tournament, wherein a practice tournament will also take place.</p>
+
+<h2>Asia Cup 2025 Schedule: Full Fixture Details</h2>
+<table border="1" cellpadding="8" cellspacing="0">
+<thead>
+<tr>
+<th>Dates</th>
+<th>Match Fixtures</th>
+<th>Venue</th>
+<th>Time in IST</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>September 9</td><td>Afghanistan vs Hong Kong</td><td>UAE</td><td>7.30 PM</td></tr>
+<tr><td>September 10</td><td>India vs UAE</td><td>UAE</td><td>7.30 PM</td></tr>
+<tr><td>September 11</td><td>Bangladesh vs Hong Kong</td><td>UAE</td><td>7.30 PM</td></tr>
+<tr><td>September 12</td><td>Pakistan vs Oman</td><td>UAE</td><td>7.30 PM</td></tr>
+<tr><td>September 13</td><td>Bangladesh vs Sri Lanka</td><td>UAE</td><td>7.30 PM</td></tr>
+<tr><td>September 14</td><td>India vs Pakistan</td><td>UAE</td><td>7.30 PM</td></tr>
+<tr><td>September 15</td><td>UAE vs Oman</td><td>UAE</td><td>5.30 PM</td></tr>
+<tr><td>September 16</td><td>Bangladesh vs Afghanistan</td><td>UAE</td><td>7.30 PM</td></tr>
+<tr><td>September 17</td><td>Pakistan vs UAE</td><td>UAE</td><td>7.30 PM</td></tr>
+<tr><td>September 18</td><td>Sri Lanka vs Afghanistan</td><td>UAE</td><td>7.30 PM</td></tr>
+<tr><td>September 19</td><td>India vs Oman</td><td>UAE</td><td>7.30 PM</td></tr>
+<tr><td>September 20</td><td>Super Four Match 1</td><td>TBA</td><td>7.30 PM</td></tr>
+<tr><td>September 21</td><td>Super Four Match 2</td><td>TBA</td><td>7.30 PM</td></tr>
+<tr><td>September 23</td><td>Super Four Match 3</td><td>TBA</td><td>7.30 PM</td></tr>
+<tr><td>September 24</td><td>Super Four Match 4</td><td>TBA</td><td>7.30 PM</td></tr>
+<tr><td>September 25</td><td>Super Four Match 5</td><td>TBA</td><td>7.30 PM</td></tr>
+<tr><td>September 26</td><td>Super Four Match 6</td><td>TBA</td><td>7.30 PM</td></tr>
+<tr><td>September 28</td><td>Final Match</td><td>TBA</td><td>7.30 PM</td></tr>
+</tbody>
+</table>
+
+<h2>Who is Hosting the Next Asia Cup?</h2>
+<p>The Next Asia Cup, scheduled to begin on September 9, 2025, will be hosted by the UAE. This is because of the ongoing political tensions between India and Pakistan.</p>
+<p>The upcoming scheduled matches of the Asia Cup 2025 will therefore be played in Dubai and Abu Dhabi.</p>
+
+<h2>The Key Matches to Watch in the Asia Cup 2025</h2>
+<p>As the Men’s Asia Cup 2025 is about to begin, there are highly anticipated rivalries onboard, exciting the cricket fans. The first key match to watch will be India vs Pakistan on September 14, 2025, in the UAE.</p>
+<p>This will undoubtedly be the most anticipated match of the tournament, given the ancient rivalry between the two countries.</p>
+<p>Other potential rivalries could be Bangladesh vs Sri Lanka and Afghanistan vs Bangladesh/Sri Lanka. These rivalries might be due to each country’s qualifications against the other.</p>
+
+<h2>The Format of the Asia Cup Schedule</h2>
+<p>The Asia Cup 2025 Schedule will be played in the T20 format, over the 50-over tournament. This is the updated information as compared to the 2023 edition.</p>
+<p>This change serves as the preparatory event for the upcoming 2026 T20 World Cup matches.</p>
+
+<h2>Join the Betting Community of DR Diamond Exchange - The Best Gaming Platform in India</h2>
+<p>Join the Betting Community of DR Diamond Exchange, which is the best <strong> <a href="https://drdiamondexch.com/"> Gaming Platform in India.</a> </strong> With an unmatched variety of live betting odds, get the best-in-class secured betting ID to unlock a user-friendly interface.</p>
+<p>Sign Up Today and get exclusive welcome bonuses to instantly start betting and winning. Play responsibly and get a chance to maximize your winning through fair play.</p>
+
+</body>
+</html>
+            
+`
+    },
+
+
     {
         id: "India-vs-England-3rd-Test-Series-2025-Top-Bets-on-Indian-Players",
         imgUrl: '/assets/images/blog/India-vs-England-3rd-Test-Series-2025-Top-Bets-on-Indian-Players.webp',
