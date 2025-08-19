@@ -8,7 +8,8 @@ import Rating from './rating';
 import { handleRedirect } from '../../env/credentials';
 
 const title = "India's No.1 Gaming Platform";
-
+const desc1 = "At DR Diamond Exchange, India’s No. 1 gaming platform, we provide instant and safe IDs for betting on online sports and casinos. With over 14 years of experience, we have built a customer-centric community for sports betting enthusiasts. With our services, you can expect a reliable betting experience, stress-free transactions, and a rewarding wagering opportunity.";
+const desc2 = "At DR Diamond Exchange, our SSL-encrypted and verified betting IDs protect your personal and financial data. Our convenient process lets you have an online sports betting ID within minutes With our assistance, you can bet on numerous live games. Whether you’re wagering on Cricket, Football, Tennis, Go-crash, or popular Casinos, a single ID access promotes multiple betting opportunities. You can deposit and withdraw your money at any time, with a minimum of Rs. 100 transaction. WhatsApp us today & get your online sports betting ID instantly." ;
 const CollectionSection = () => {
     const theme = useTheme();
     const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
@@ -65,7 +66,11 @@ const CollectionSection = () => {
             <div className="container">
                 <div className="section-header" color='primary'>
                     <Typography variant='h1' className='custom-heading' sx={{fontWeight:700}} color={"black"}>{title}</Typography>
+                    
                 </div>
+                <Typography variant="body1" sx={{mt:2, color:"black"}} align="center">{desc1} </Typography>
+                <Typography variant="body1" sx={{mt:2, color:"black"}} align="center">{desc2} </Typography>
+
                 <div className="section-wrapper">
                     
                     <div className="row g-4 justify-content-center CollectionStyle">
