@@ -56,7 +56,7 @@ export const CricketIDProvider = {
       <strong>Payment Options:</strong> Paytm, PhonePe, Google Pay, UPI, Bank Transfer, Master Card<br>
       <strong>Minimum Deposit:</strong> INR 100<br>
       <strong>Device Support:</strong> Laptops, Mobiles, Computers<br>
-      <strong>Contact:</strong> <a href="mailto:teamindcyborg@gmail.com">teamindcyborg@gmail.com</a><br>
+      <strong>Contact:</strong> <a href="mailto:drdiamondexchhelp@gmail.com">drdiamondexchhelp@gmail.com</a><br>
       <strong>Currency Accepted:</strong> INR<br>
       <strong>Bonuses and Promotions:</strong> Yes, a 3% bonus for new users
     </p>
