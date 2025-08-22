@@ -1,7 +1,81 @@
 export const blogData = [
 
 
-    
+    {
+        id: "IND-vs-ENG-4th-Test-Match-Betting-Analysis-for-Future-Stakes",
+        imgUrl: '/assets/images/blog/IND-vs-ENG-4th-Test-Match-Betting-Analysis-for-Future-Stakes.webp',
+        imgAlt: 'IND vs ENG 4th Test Match: Betting Analysis for Future Stakes',
+        title: 'IND vs ENG 4th Test Match: Betting Analysis for Future Stakes',
+        desc: "The India vs England 4th test series, scheduled at Old Trafford, Manchester (July 23 - July 27), raised hopes and suspense. ",
+        btnText: 'read more',   
+        pubDate: '22 August 2025',
+        pubAuthor: 'DR DIAMOND EXCHANGE',
+        metaKeywords:'IThe India vs England 4th test series',
+        metaTitle:'IND vs ENG 4th Test Match: Betting Analysis for Future Stakes',
+        metaDescription:"The India vs England 4th test series, scheduled at Old Trafford, Manchester (July 23 - July 27), raised hopes and suspense. ",
+        ogTitle:'IND vs ENG 4th Test Match: Betting Analysis for Future Stakes',
+        ogImage:'Blogs Section-MARK1',
+        ogUrl:'https://drdiamondexch.com/blog-single/IND-vs-ENG-4th-Test-Match-Betting-Analysis-for-Future-Stakes',
+        content: `
+                  <h2>IND vs ENG 4th Test Match: Betting Analysis for Future Stakes </h2>         
+                  
+                  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IND vs ENG 4th Test Match: Betting Analysis for Future Stakes</title>
+</head>
+<body>
+  <h1>IND vs ENG 4th Test Match: Betting Analysis for Future Stakes</h1>
+  <p>
+    The India vs England 4th test series, scheduled at Old Trafford, Manchester (July 23 - July 27), raised hopes and suspense. With the match ending in a surprising draw, many Indian bettors drew many benefits from staking on successful performances. Whether it is a rigid partnership or India’s comeback in the 2nd innings, each moment turned into a profit-driven win.
+  </p>
+  <p>
+    However, if you’ve missed this betting opportunity or are new to it, you might end up with wrong speculation. To prevent this in the future, it is beneficial to get a quick recap of the 4th test match. At <strong> <a href="https://drdiamondexch.com/"> DR Diamond Exchange,</a> </strong>sports betting ID provider, you’ll recall all that happened in the 4th test series and what to expect next.
+  </p>
+
+  <h2>England’s Dominance in the First Innings (India vs England 2025)</h2>
+  <p>
+    England’s 669 runs in total within the first innings are parise-worthy. The opening partnership between Joe Root and Ben Stokes has led to the team’s dominance, as each scored 150 and 141 runs, respectively. Not to forget, half-centuries from Zak Crawley (84) and Ben Duckett (94) built a solid foundation, encouraging the middle-order batsmen to pick the pace.
+  </p>
+  <p>
+    Additionally, the cricket ground at Old Trafford, Manchester, favoured the batters. The flat pitch helped the ball to come onto the bat nicely, encouraging batters to hit the right shot. Besides this, the pitch’s unresponsiveness to spin bowling techniques also failed every attempt of spin bowlers. Lack of bowling control and dropped catches from India’s end also passed on the benefit to England.
+  </p>
+
+  <h2>India’s First-Inning Struggles (India vs England 4th Test Match)</h2>
+  <p>
+    India’s 358 scores in the first innings struggled to challenge the opponent team’s dominant position. While the Indian batsmen, like Yashasvi Jaiswal (58) and Sai Sudarshan (61), contributed to a good start, their efforts held little value. Ben Stokes, England’s captain 5-wicket haul on 72 runs, knocked down India’s pace and potentially the middle-order batsmen. However, Ravindra Jadeja’s 4 wickets and Jasprit Bumrah’s 2 wickets in the innings created opportunities.
+  </p>
+
+  <h2>Second-Inning Partnerships That Balanced the IND vs ENG Test Series</h2>
+  <p>
+    There were moments of strong collaboration in the second innings of the India vs England 4th test series. Although India lost two successive wickets with zero runs, the team did not lose hope.
+  </p>
+  <p>
+    Key players like Shubham Gill and KL Rahul together achieved a 188-run partnership, breaking the 48-year record of the highest third-wicket partnership in test history. Their patience to bat for over 400 balls showed their ability to use the time to their advantage. Right after this stand, Ravindra Jadeja and Washington Sundar’s 203-run stand made a huge difference.
+  </p>
+
+  <h2>Implications of a Draw Match for Future Betting Strategies</h2>
+  <p>
+    With India’s major comeback and strong partnerships, the match ended in a draw. This has made the way for future bettors staking on the fifth test at Lord’s, England.
+  </p>
+  <p>
+    England’s pace is slowed down, but the spirit is going to be only higher. Similarly, Indian bettors will benefit from staking on Gill, Rahul, Jadeja, and Sundar’s performances. For the final test match, every win matters. England’s win will seal a series victory, while India’s win will level the series at 2-1.
+  </p>
+
+  <h2>Final Thoughts: Choose DR Diamond Exchange for Safe Betting ID</h2>
+  <p>
+    As you can see, the India vs England 4th test series finished with no clear winner. For the next bets, you can choose markets like top run-scorer, top wicket-taker, or even on a draw match.
+  </p>
+  <p>
+    To bet safely, it is good to get a betting ID from DR Diamond Exchange, <strong> <a href="https://drdiamondexch.com/cricket-id-provider"> the best online cricket ID provider in India.</a> </strong> You can get a safe, verified, and instant ID for staking on the most successful bets. Take the next step, consider wagering on the successful cricket betting platform in India.
+  </p>
+</body>
+</html>
+
+`
+    },
     {
         id: "Asia-Cup-2025-Schedule-Full-Fixture-Details-Dates-Venues",
         imgUrl: '/assets/images/blog/Asia-Cup-2025-Schedule-Full-Fixture-Details-Dates-Venues.webp',
