@@ -18,16 +18,6 @@ export const blogData = [
         ogUrl:'https://drdiamondexch.com/blog-single/IND-vs-ENG-4th-Test-Match-Betting-Analysis-for-Future-Stakes',
         content: `
                   <h2>IND vs ENG 4th Test Match: Betting Analysis for Future Stakes </h2>         
-                  
-                  <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>IND vs ENG 4th Test Match: Betting Analysis for Future Stakes</title>
-</head>
-<body>
-  <h1>IND vs ENG 4th Test Match: Betting Analysis for Future Stakes</h1>
   <p>
     The India vs England 4th test series, scheduled at Old Trafford, Manchester (July 23 - July 27), raised hopes and suspense. With the match ending in a surprising draw, many Indian bettors drew many benefits from staking on successful performances. Whether it is a rigid partnership or India’s comeback in the 2nd innings, each moment turned into a profit-driven win.
   </p>
@@ -71,8 +61,6 @@ export const blogData = [
   <p>
     To bet safely, it is good to get a betting ID from DR Diamond Exchange, <strong> <a href="https://drdiamondexch.com/cricket-id-provider"> the best online cricket ID provider in India.</a> </strong> You can get a safe, verified, and instant ID for staking on the most successful bets. Take the next step, consider wagering on the successful cricket betting platform in India.
   </p>
-</body>
-</html>
 
 `
     },
