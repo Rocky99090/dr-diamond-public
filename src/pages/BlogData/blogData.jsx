@@ -59,7 +59,7 @@ export const blogData = [
     As you can see, the India vs England 4th test series finished with no clear winner. For the next bets, you can choose markets like top run-scorer, top wicket-taker, or even on a draw match.
   </p>
   <p>
-    To bet safely, it is good to get a betting ID from DR Diamond Exchange, <strong> <a href="https://drdiamondexch.com/cricket-id-provider"> the best online cricket ID provider in India.</a> </strong> You can get a safe, verified, and instant ID for staking on the most successful bets. Take the next step, consider wagering on the successful cricket betting platform in India.
+    To bet safely, it is good to get a betting ID from DR Diamond Exchange, the  <strong> <a href="https://drdiamondexch.com/cricket-id-provider"> best online cricket ID provider in India.</a> </strong> You can get a safe, verified, and instant ID for staking on the most successful bets. Take the next step, consider wagering on the successful cricket betting platform in India.
   </p>
 
 `
