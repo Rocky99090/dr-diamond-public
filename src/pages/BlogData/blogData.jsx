@@ -59,7 +59,7 @@ export const blogData = [
 
   <h2>Choose DR Diamond Exchange for Online Casino ID</h2>
   <p>As you can see, the right timing before staking on an online casino in India takes away the damaging consequences. Remember, the right time influences your overall betting behaviour. This, in no way, changes the final outcome and keeps the casino betting unbiased.</p>
-  <p>Explore DR Diamond Exchange, an <strong><a href="https://drdiamondexch.com/"> online casino ID provider in India,</a> </strong>for staking money on a live casino betting site</p>
+  <p>Explore DR Diamond Exchange, an <strong><a href="https://drdiamondexch.com/"> India's No.1 Gaming Platform </a> </strong>for staking money on a live casino betting site</p>
 `
 },
 
