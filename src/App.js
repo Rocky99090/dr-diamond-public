@@ -42,7 +42,7 @@ import { HelmetProvider } from "react-helmet-async";
 
 function App() {
 	const openWhatsapp = () => {
-		window.location.href = "https://mywalink.link/r/drwebsite"
+		window.location.href = "https://mywalink.link/drwebsite"
 	}
 	return (
 		
