@@ -16,7 +16,7 @@ const heroData = [{
 }
 ]
 const openWhatsapp = () => {
-  window.location.href = "https://mywalink.link/r/drwebsite"
+  window.location.href = "https://mywalink.link/drwebsite"
 }
 
 const MySlider = () => (
